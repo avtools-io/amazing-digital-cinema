@@ -1,6 +1,6 @@
 # Amazing Digital Cinema
 
-A curated list of amazing resources for film technications in the fields of digital cinema mastering, distribution and exhibition.
+A curated list of amazing resources for film technications in the fields of digital cinema mastering, distribution, archiving and exhibition.
 
 This list was inspired by the [awesome-broadcasting list](https://github.com/ebu/awesome-broadcasting). Which itself was inspired by the awesome [awesome list](https://github.com/sindresorhus/awesome).
 In contrast, this list also lists amazing non open-source resources. To reflect this matter and out of respect towards the open-source only awesome list projects, I named this list amazing digital cinema instead of awesome digital cinema.
