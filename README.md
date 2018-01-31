@@ -9,7 +9,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 * [Interest Groups](#interest-groups)
 * [Resources](#resources)
   * [Books](#books)
-  * [Online Forums](#online-forums)
+  * [Forums](#online-forums)
   * [Knowledge Sources](#knowledge-sources)
   * [News](#news)
   * [Standards & Recommendations](#standards--recommendations)
@@ -38,7 +38,7 @@ Please see [CONTRIBUTING](https://github.com/4lm/amazing-digital-cinema/blob/mas
 * [FIAF Digital Projection Guide](https://www.amazon.com/Digital-Projection-Guide-Torkell-Saetervadet/dp/2960029623/) - Torkell Saetervadet, 2012.
 * [Understanding Digital Cinema](https://www.amazon.com/Understanding-Digital-Cinema-Professional-Handbook/dp/0240806174) - Charles S. Swartz, 2004.
 
-## Online Forums
+## Forums
 
 * [dcinemaforum](http://dcinemaforum.com/forum/index.php) - General digital cinema forum, with slight focus on the DCP mastering software OpenDCP. 
 * [DCP-o-matic User Forum](https://dcpomatic.com/forum/) - User forum of the DCP mastering software DCP-o-matic.
