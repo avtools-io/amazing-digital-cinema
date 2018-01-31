@@ -78,7 +78,7 @@ Please see [CONTRIBUTING](https://github.com/4lm/amazing-digital-cinema/blob/mas
 
 * [DCIconverter](https://github.com/fnordware/DCIconverter) - RGB to XYZ and vice versa for Adobe After Effects and Premiere (has to be compiled).
 * [j2k v2.7, 2012](http://www.fnordware.com/j2k/) - JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
-* [j2k rolling release](https://github.com/fnordware/j2k) - Open source JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere (has to be compiled).
+* [j2k rolling release](https://github.com/fnordware/j2k) - Open source JPEG 2000 encoder plug-in for Adobe programs (has to be compiled).
 
 ## Software Libraries
 
