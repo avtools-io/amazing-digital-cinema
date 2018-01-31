@@ -76,12 +76,14 @@ Please see [CONTRIBUTING](https://github.com/4lm/amazing-digital-cinema/blob/mas
 
 ## Plug-ins
 
-* [DCIconverter](https://github.com/fnordware/DCIconverter) - RGB to XYZ and vice versa for Adobe After Effects and Premiere (to be compiled).
-* [j2k](http://www.fnordware.com/j2k/) - JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
+* [DCIconverter](https://github.com/fnordware/DCIconverter) - RGB to XYZ and vice versa for Adobe After Effects and Premiere (has to be compiled).
+* [j2k v2.7, 2012](http://www.fnordware.com/j2k/) - JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
+* [j2k rolling release](https://github.com/fnordware/j2k) - Open source JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere (has to be compiled).
 
 ## Software Libraries
 
 * [asdcplib](https://www.cinecert.com/asdcplib/) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
+* [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
 
 ## Standalone
