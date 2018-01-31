@@ -82,7 +82,7 @@ Please see [CONTRIBUTING](https://github.com/4lm/amazing-digital-cinema/blob/mas
 ## Software Libraries
 
 * [asdcplib](https://www.cinecert.com/asdcplib/) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
-* [OpenJPEG](http://www.openjpeg.org/) - Opensource JPEG 2000 codec written in C.
+* [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
 
 ## Standalone
 
