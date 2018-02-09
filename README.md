@@ -35,7 +35,11 @@ Please see [CONTRIBUTING](https://github.com/4lm/amazing-digital-cinema/blob/mas
 ## Books
 
 * [Color and Mastering for Digital Cinema](https://www.amazon.com/Mastering-Digital-Cinema-Industry-Handbook/dp/0240808746/) - Glenn Kennel, 2006.
+* [Digital Cinema : The Revolution in Cinematography, Post-Production, and Distribution](https://www.amazon.com/Digital-Cinema-Cinematography-Post-Production-Distribution/dp/0071429638) - 	
+Brian McKernan, 2005.
+* [Digital Image Processing with Application to Digital Cinema](https://www.amazon.com/Digital-Image-Processing-Application-Cinema/dp/0240807294) - KS Thyagarajan, 2005.
 * [FIAF Digital Projection Guide](https://www.amazon.com/Digital-Projection-Guide-Torkell-Saetervadet/dp/2960029623/) - Torkell Saetervadet, 2012.
+* [Image Processing for Cinema](https://www.amazon.com/Processing-Chapman-Mathematical-Computational-Sciences/dp/1439899274) - Marcelo Bertalmío, 2014.
 * [Understanding Digital Cinema](https://www.amazon.com/Understanding-Digital-Cinema-Professional-Handbook/dp/0240806174) - Charles S. Swartz, 2004.
 
 ## Forums
