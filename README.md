@@ -80,16 +80,18 @@ Brian McKernan, 2005.
 
 ## Plug-ins
 
-* [DCIconverter](https://github.com/fnordware/DCIconverter) - RGB to XYZ and vice versa for Adobe After Effects and Premiere (has to be compiled).
-* [j2k v2.7, 2012](http://www.fnordware.com/j2k/) - JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
-* [j2k rolling release](https://github.com/fnordware/j2k) - Open source JPEG 2000 encoder plug-in for Adobe programs (has to be compiled).
+* [DCIconverter, rolling release](https://github.com/fnordware/DCIconverter) - RGB to XYZ and vice versa for Adobe After Effects and Premiere (self compile).
+* [DCIconverter, v0.7, 2014](http://fnordware.blogspot.de/2013/01/dci-converter.html) - RGB to XYZ and vice versa for Adobe After Effects and Premiere.
+* [j2k, rolling release](https://github.com/fnordware/j2k) - Open source JPEG 2000 encoder plug-in for Adobe programs (self compile).
+* [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) - JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
 ## Software Libraries
 
 * [asdcplib](https://www.cinecert.com/asdcplib/) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
+* [Colour](http://colour-science.org/) - Colour is a Python colour science package.
 * [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
-
+* [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) - A JavaScript library for operations with SMPTE timecodes.
 ## Standalone
 
 * [Clipster](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation system for the professionel market.
