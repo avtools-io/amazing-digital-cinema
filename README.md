@@ -11,6 +11,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Books](#books)
   * [Forums](#online-forums)
   * [Knowledge Sources](#knowledge-sources)
+  * [Lists](#lists)
   * [News](#news)
   * [Standards & Recommendations](#standards--recommendations)
 * [Tools](#tools)
@@ -52,7 +53,12 @@ Brian McKernan, 2005.
 ## Knowledge Sources
 
 * [Cinepedia](https://cinepedia.com/) - Knowledge base about DCP mastering, delivery and exhibition.
-* [Knut Erik Evensen](http://www.knuterikevensen.com/) - Insights into DCP mastering, delivery and exhibition. 
+* [Knut Erik Evensen](http://www.knuterikevensen.com/) - Insights into DCP mastering, delivery and exhibition.
+
+## Lists
+
+* [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies.
+* [open-workflows](https://github.com/amiaopensource/open-workflows) - List of open workflows and resources for A/V archiving.
 
 ## News
 
