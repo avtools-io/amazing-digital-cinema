@@ -75,6 +75,7 @@ Brian McKernan, 2005.
 
 ## Command Line Tools
 
+* [ClairMeta](https://github.com/Ymagis/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
 * [dcp_inspect](https://github.com/wolfgangw/backports) - Tool for inspection and validation of DCPs (SMPTE and Interop). 
 * [IFIscripts](https://github.com/kieranjol/IFIscripts) - Scripts developed and used by the IFI Irish Film Archive.
 
@@ -88,20 +89,23 @@ Brian McKernan, 2005.
 ## Software Libraries
 
 * [asdcplib](https://www.cinecert.com/asdcplib/) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
+* [ClairMeta](https://github.com/Ymagis/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
 * [Colour](http://colour-science.org/) - Colour is a Python colour science package.
+* [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A CPL parsing library for Node.js.
 * [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
 * [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) - A JavaScript library for operations with SMPTE timecodes.
 ## Standalone
 
-* [Clipster](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation system for the professionel market.
+* [Clipster](https://www.rohde-schwarz.com/product/clp6-productstartpage_63493-229148.html) - DCP/IMP mastering, player and KDM creation system for the professionel market.
 * [DCP-o-matic](https://dcpomatic.com/) - Open source DCP mastering, player and KDM creation software.
 * [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) - Extract DCP subtitles and save them as SRT (SubRib) file.
 * [easyDCP](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation software for the professionel market.
 * [MIST](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering, player and KDM creation system/software for the professionel market.
 * [OpenDCP](https://www.opendcp.org/) - Open source DCP mastering software.
-* [WAILUA](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering software for the professionel market.
+* [WAILUA](https://www.cinecert.com/product/wailua/) - DCP/IMP mastering software for the professionel market.
 
 ## Web Apps
 
-* [Michael Cinquin tools](http://www.michaelcinquin.com/tools) - Web tools, e.g. timecode calculator, DCP subtitle creator and DCP versioning.
+* [Digital Cinema Toolbox](https://www.dc-toolbox.com/) - Web Timecode calculator, converter and CPL info tools.
+* [Michael Cinquin tools](http://www.michaelcinquin.com/tools) - Web tools, e.g. timecode calculator, DCP subtitle creator and DCP. versioning.
