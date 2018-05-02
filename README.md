@@ -57,8 +57,8 @@ Brian McKernan, 2005.
 
 ## Lists
 
-* [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies.
-* [open-workflows](https://github.com/amiaopensource/open-workflows) - List of open workflows and resources for A/V archiving.
+* [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - Curated, broadcast related list.
+* [open-workflows](https://github.com/amiaopensource/open-workflows) - Curated list of resources and worklflows for a/v archivists.
 
 ## News
 
@@ -75,13 +75,13 @@ Brian McKernan, 2005.
 * [HPA IMF User Group](https://imfug.com/) - Forum for end-users and implementers of the IMF standard.
 * [Interop Recommendations Overview](https://cinepedia.com/interop/) - Deprecated, but still actively used Digital Cinema Package recommendations.
 * [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) - Recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
-* [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) - Active SMPTE Digital Cinema Package standards. Ubiquity on it's way, but still to come.
+* [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) - Active SMPTE Digital Cinema Package standards.
 
 # Tools
 
 ## Command Line Tools
 
-* [ClairMeta](https://github.com/Ymagis/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
+* [ClairMeta](https://github.com/Ymagis/ClairMeta) - Command line tool for checking and probing of Digital Cinema Packages.
 * [dcp_inspect](https://github.com/wolfgangw/backports) - Tool for inspection and validation of DCPs (SMPTE and Interop). 
 * [IFIscripts](https://github.com/kieranjol/IFIscripts) - Scripts developed and used by the IFI Irish Film Archive.
 
@@ -95,12 +95,13 @@ Brian McKernan, 2005.
 ## Software Libraries
 
 * [asdcplib](https://www.cinecert.com/asdcplib/) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
-* [ClairMeta](https://github.com/Ymagis/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
-* [Colour](http://colour-science.org/) - Colour is a Python colour science package.
-* [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A CPL parsing library for Node.js.
+* [ClairMeta](https://github.com/Ymagis/ClairMeta) - Library for checking and probing of Digital Cinema Packages.
+* [Colour](http://colour-science.org/) - A Colour science package for Python.
+* [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A Node.js library for CPL-parsing.
 * [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
 * [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) - A JavaScript library for operations with SMPTE timecodes.
+
 ## Standalone
 
 * [Clipster](https://www.rohde-schwarz.com/product/clp6-productstartpage_63493-229148.html) - DCP/IMP mastering, player and KDM creation system for the professionel market.
@@ -113,5 +114,5 @@ Brian McKernan, 2005.
 
 ## Web Apps
 
-* [Digital Cinema Toolbox](https://www.dc-toolbox.com/) - Web Timecode calculator, converter and CPL info tools.
+* [Digital Cinema Toolbox](https://www.dc-toolbox.com/) - Web timecode calculator, converter and CPL info tools.
 * [Michael Cinquin tools](http://www.michaelcinquin.com/tools) - Web tools, e.g. timecode calculator, DCP subtitle creator and DCP. versioning.
