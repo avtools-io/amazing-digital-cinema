@@ -1,6 +1,6 @@
 # Amazing Digital Cinema
 
-A curated list of resources for film technications in the fields of digital cinema content mastering, delivery, archiving and exhibition. 
+A curated list of resources for film technicians in the fields of digital cinema content mastering, delivery, archiving and exhibition. 
 
 Please contribute to this list!
 
