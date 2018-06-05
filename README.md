@@ -102,6 +102,7 @@ Brian McKernan, 2005.
 * [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A Node.js library for CPL-parsing.
 * [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
+* [python-dcitools](https://github.com/ronhanson/python-dcitools) - A Python library for working with digital cinema server APIs.
 * [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) - A JavaScript library for operations with SMPTE timecodes.
 * [timecode](https://github.com/eoyilmaz/timecode) - A Python module that handles SMPTE timecode.
 
