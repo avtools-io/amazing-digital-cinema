@@ -1,6 +1,5 @@
-CC0 1.0 Universal (CC0 1.0) 
-Public Domain Dedication
+Creative Commons, Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+[Short version of the (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[Full text](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+[Legal version of the (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
