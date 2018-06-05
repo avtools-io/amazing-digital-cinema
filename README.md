@@ -58,6 +58,7 @@ Brian McKernan, 2005.
 ## Lists
 
 * [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - Curated, broadcast related list.
+* [Awesome Colour](https://github.com/colour-science/awesome-colour) - A curated list of color science resources.
 * [open-workflows](https://github.com/amiaopensource/open-workflows) - Curated list of resources and worklflows for a/v archivists.
 
 ## News
