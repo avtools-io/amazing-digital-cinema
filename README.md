@@ -102,6 +102,7 @@ Brian McKernan, 2005.
 * [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
 * [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) - A JavaScript library for operations with SMPTE timecodes.
+* [timecode](https://github.com/eoyilmaz/timecode) - A Python module that handles SMPTE timecode.
 
 ## Standalone
 
