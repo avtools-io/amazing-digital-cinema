@@ -83,6 +83,7 @@ Brian McKernan, 2005.
 ## Command Line Tools
 
 * [ClairMeta](https://github.com/Ymagis/ClairMeta) - Command line tool for checking and probing of Digital Cinema Packages.
+* [dcp.py](https://github.com/chrisbarrett/dcp.py) - Command line tool for formatting a hard drive for cinema usage.
 * [dcp_inspect](https://github.com/wolfgangw/backports) - Tool for inspection and validation of DCPs (SMPTE and Interop). 
 * [IFIscripts](https://github.com/kieranjol/IFIscripts) - Scripts developed and used by the IFI Irish Film Archive.
 
