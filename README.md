@@ -118,4 +118,5 @@ Brian McKernan, 2005.
 
 ## Web Apps
 
+* [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) - Online color space calculator for RGB color spaces.
 * [Michael Cinquin tools](http://www.michaelcinquin.com/tools) - Web tools, e.g. timecode calculator, DCP subtitle creator and DCP. versioning.
