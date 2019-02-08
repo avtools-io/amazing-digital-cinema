@@ -59,7 +59,7 @@ Brian McKernan, 2005.
 
 * [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - Curated, broadcast related list.
 * [Awesome Colour](https://github.com/colour-science/awesome-colour) - A curated list of color science resources.
-* [open-workflows](https://github.com/amiaopensource/open-workflows) - Curated list of resources and worklflows for a/v archivists.
+* [open-workflows](https://github.com/amiaopensource/open-workflows) - Curated list of resources and workflows for a/v archivists.
 
 ## News
 
@@ -108,13 +108,13 @@ Brian McKernan, 2005.
 
 ## Standalone
 
-* [Clipster](https://www.rohde-schwarz.com/product/clp6-productstartpage_63493-229148.html) - DCP/IMP mastering, player and KDM creation system for the professionel market.
+* [Clipster](https://www.rohde-schwarz.com/product/clp6-productstartpage_63493-229148.html) - DCP/IMP mastering, player and KDM creation system for the professional market.
 * [DCP-o-matic](https://dcpomatic.com/) - Open source DCP mastering, player and KDM creation software.
 * [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) - Extract DCP subtitles and save them as SRT (SubRib) file.
-* [easyDCP](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation software for the professionel market.
-* [MIST](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering, player and KDM creation system/software for the professionel market.
+* [easyDCP](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation software for the professional market.
+* [MIST](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering, player and KDM creation system/software for the professional market.
 * [OpenDCP](https://www.opendcp.org/) - Open source DCP mastering software.
-* [WAILUA](https://www.cinecert.com/product/wailua/) - DCP/IMP mastering software for the professionel market.
+* [WAILUA](https://www.cinecert.com/product/wailua/) - DCP/IMP mastering software for the professional market.
 
 ## Web Apps
 
