@@ -24,6 +24,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Command Line Tools](#command-line-tools)
   * [File Transfer](#file-transfer)
   * [Framerate Converters](#framerate-converters)
+  * [KDM Tools](#kdm-tools)
   * [Leq(m) Meters](#leqm-meters)
   * [Mastering Tools](#mastering-tools)
   * [Plug-ins](#plug-ins)
@@ -125,12 +126,20 @@ Brian McKernan, 2005.
 * [Aspera](https://asperasoft.com/) - A multiverse of solutions for large, fast file transfer.
 * [MASV](https://www.massive.io/) - Fast, large file transfer in the browser, no client software needed. Pay as you go.
 * [Media Shuttle](https://www.signiant.com/products/media-shuttle/) - Browser and desktop solutions for large, fast file transfer.
+* [Qube Wire](https://www.qubewire.com/) - Deliver DCPS and KDMs to cinemas worldwide.
 
 ## Framerate Converters
 
 * [Alchemist File](https://www.grassvalley.com/products/alchemist_file/) - Framerate converter.
 * [PixelStrings](https://pixelstrings.com/) - Framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 * [Tachyon](https://cinnafilm.com/product/tachyon/) - Framerate conversions, standards conversions, reverse telecine and frame rate normalization.
+
+## KDM Tools
+
+* [DCPtools KDM Studio](https://www.dcptools.com/products/kdm-studio/) - Online KDM creation, with cinema database. Pay as you go (bundle prices).
+* [easyDCP KDM Generator+](https://www.easydcp.com/product.php?id=7&product=easydcp-kdm-generator) - Allows to use external DKDM (Distribution KDM) generate KDMs.
+* [KEYMASTER](http://www.marquise-tech.com/keymaster.html) - Online KDM creation, with cinema database. Annual subscription.
+* [Qube Wire](https://www.qubewire.com/) - Deliver DCPS and KDMs to cinemas worldwide.
 
 ## Leq(m) Meters
 
