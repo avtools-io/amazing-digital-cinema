@@ -36,6 +36,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 * [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) - Joint venture by the majors studios in Hollywood for an open digital cinema architecture.
 * [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) - Meeting forum to discuss key issues surrounding digital cinema in Europe.
+* [HPA IMF User Group](https://imfug.com/) - Forum for end-users and implementers of the IMF standard.
 * [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) - Working group for digital cinema technology, meets about once a month.
 * [MovieLabs](https://movielabs.com/) - Hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
 * [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) - standards body of the motion picture industry.
@@ -96,7 +97,6 @@ Brian McKernan, 2005.
 
 * [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) - DCI Spec and Compliance Test Plan.
 * [EBU Tech Publications](https://tech.ebu.ch/publications) - Recommendations and guidelines of the European Broadcasting Union.
-* [HPA IMF User Group](https://imfug.com/) - Forum for end-users and implementers of the IMF standard.
 * [Interop Recommendations Overview](https://cinepedia.com/interop/) - Deprecated, but still actively used Digital Cinema Package recommendations.
 * [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) - Recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
 * [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) - Compliance with best practices is voluntary and not an accreditation program.
