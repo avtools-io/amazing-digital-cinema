@@ -34,6 +34,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 # Interest Groups
 
+* [Academy of Motion Picture Arts and Sciences (AMPAS)](https://www.oscars.org/science-technology/projects) - Link goes to the AMPAS science & technology projects.
 * [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) - Joint venture by the majors studios in Hollywood for an open digital cinema architecture.
 * [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) - Meeting forum to discuss key issues surrounding digital cinema in Europe.
 * [HPA IMF User Group](https://imfug.com/) - Forum for end-users and implementers of the IMF standard.
@@ -96,6 +97,7 @@ Brian McKernan, 2005.
 ## Standards & Recommendations
 
 * [Archive eXchange Format (AXF)](http://www.axf.io/) - Archive file format standard by SMPTE (2014) and later by ISO/IEC (2017).
+* [Color Transformation Language (CTL)](https://www.oscars.org/science-technology/sci-tech-projects/color-transformation-language) - Color Transformation Language for Digital Motion Picture Pipelines. 
 * [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) - DCI Spec and Compliance Test Plan.
 * [EBU Tech Publications](https://tech.ebu.ch/publications) - Recommendations and guidelines of the European Broadcasting Union.
 * [Interop Recommendations Overview](https://cinepedia.com/interop/) - Deprecated, but still actively used Digital Cinema Package recommendations.
