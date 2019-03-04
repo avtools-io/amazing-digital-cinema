@@ -99,6 +99,7 @@ Brian McKernan, 2005.
 * [HPA IMF User Group](https://imfug.com/) - Forum for end-users and implementers of the IMF standard.
 * [Interop Recommendations Overview](https://cinepedia.com/interop/) - Deprecated, but still actively used Digital Cinema Package recommendations.
 * [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) - Recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
+* [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) - Compliance with best practices is voluntary and not an accreditation program.
 * [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) - Advertisement Leq(m) measurement standard (direct link to PDF).
 * [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) - Active SMPTE Digital Cinema Package standards.
 * [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) - Trailer Leq(m) measurement standard (direct link to PDF).
