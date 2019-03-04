@@ -21,6 +21,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Standards & Recommendations](#standards--recommendations)
 * [Tools](#tools)
   * [Command Line Tools](#command-line-tools)
+  * [Framerate Converters](#framerate-converters)
   * [Leq(m) Meters](#leqm-meters)
   * [Plug-ins](#plug-ins)
   * [QC Player](#qc-player)
@@ -102,6 +103,12 @@ Brian McKernan, 2005.
 * [dcp_inspect](https://github.com/wolfgangw/backports) - Tool for inspection and validation of DCPs (SMPTE and Interop). 
 * [IFIscripts](https://github.com/kieranjol/IFIscripts) - Scripts developed and used by the IFI Irish Film Archive.
 
+## Framerate Converters
+
+* [Alchemist File](https://www.grassvalley.com/products/alchemist_file/) - Framerate converter.
+* [PixelStrings](https://pixelstrings.com/) - Framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
+* [Tachyon](https://cinnafilm.com/product/tachyon/) - Framerate conversions, standards conversions, reverse telecine and frame rate normalization.
+
 ## Leq(m) Meters
 
 * [Dolby Media Meter 2](http://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) - Discontinued 2018 (direct link to user's manual PDF).
@@ -153,7 +160,7 @@ Brian McKernan, 2005.
 
 * [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
 * [CORTEX Enterprise](http://www.mtifilm.com/cortex) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
-* [PixelStrings](https://pixelstrings.com/) - Standards conversion and transcoding in the cloud. Pay as you go.
+* [PixelStrings](https://pixelstrings.com/) - Framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 * [TORNADO](http://www.marquise-tech.com/tornado.html) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
 * [Transkoder](http://www.colorfront.com/?page=SOFTWARE&spage=Transkoder) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
 
