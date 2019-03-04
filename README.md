@@ -156,6 +156,7 @@ Brian McKernan, 2005.
 * [CLIPSTER](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) - DCP/IMP mastering, player and KDM creation system for the professional market.
 * [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) - Transcode and master DCPs, IMPs (IMF) and additional formats.
 * [CORTEX Enterprise](http://www.mtifilm.com/cortex) - Transcode and master DCPs, IMPs (IMF) and additional formats.
+* [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) - All in one solution with DCP, IMP (IMF) mastering capabilities.
 * [DCP-o-matic](https://dcpomatic.com/) - Open source DCP mastering, player and KDM creation software.
 * [easyDCP](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation software for the professional market.
 * [MIST](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering, player and KDM creation system/software for the professional market.
