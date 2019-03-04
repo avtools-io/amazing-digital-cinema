@@ -13,12 +13,13 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 * [Interest Groups](#interest-groups)
 * [Resources](#resources)
   * [Books](#books)
+  * [Discussion Papers & Articles](#discussion-papers-articles)
   * [Education](#education)
   * [Forums](#online-forums)
   * [Knowledge Sources](#knowledge-sources)
   * [Lists](#lists)
   * [News](#news)
-  * [Standards & Recommendations](#standards--recommendations)
+  * [Standards & Recommendations](#standards-recommendations)
 * [Tools](#tools)
   * [Command Line Tools](#command-line-tools)
   * [File Transfer](#file-transfer)
@@ -51,6 +52,12 @@ Brian McKernan, 2005.
 * [FIAF Digital Projection Guide](https://www.amazon.com/Digital-Projection-Guide-Torkell-Saetervadet/dp/2960029623/) - Torkell Saetervadet, 2012.
 * [Image Processing for Cinema](https://www.amazon.com/Processing-Chapman-Mathematical-Computational-Sciences/dp/1439899274) - Marcelo Bertalmío, 2014.
 * [Understanding Digital Cinema](https://www.amazon.com/Understanding-Digital-Cinema-Professional-Handbook/dp/0240806174) - Charles S. Swartz, 2004.
+
+## Discussion Papers & Articles
+
+* [DCI Must Do More on HDR](http://digitalcinemareport.com/article/dci-must-do-more-hdr) - Michael Karagosian, 2019. 
+* [How Loud is a Movie?](https://isdcf.com/papers/ISDCF-Doc11-MovieLoudnessMeasurement20160315.pdf) - Leq(m10), a new measurement procedure, Ioan Allen, 2016 (direct link to PDF).
+* [What’s Wrong with the DCP?](http://www.digitalcinemareport.com/article/what%E2%80%99s-wrong-dcp) - Michael Karagosian, 2015.
 
 ## Education
 
