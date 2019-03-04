@@ -23,6 +23,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Command Line Tools](#command-line-tools)
   * [Leq(m) Meters](#leqm-meters)
   * [Plug-ins](#plug-ins)
+  * [QC Player](#qc-player)
   * [Standalone](#standalone)
   * [Web Apps](#web-apps)
 
@@ -116,7 +117,7 @@ Brian McKernan, 2005.
 * [j2k, rolling release](https://github.com/fnordware/j2k) - Open source JPEG 2000 encoder plug-in for Adobe programs (self compile).
 * [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) - JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
-## QC player
+## QC Player
 
 * [CLIPSTER Play](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) - Can play DCPs and IMPs (IMF).
 * [easyDCP Player](https://www.easydcp.com/product.php?id=5&product=easydcp-player) - Can play DCPs and IMPs (IMF).
