@@ -124,10 +124,10 @@ Brian McKernan, 2005.
 
 ## File Transfer
 
-* [Aspera](https://asperasoft.com/) - A multiverse of solutions for large, fast file transfer.
+* [Aspera](https://asperasoft.com/) - A multitude of solutions for large, fast file transfer.
 * [MASV](https://www.massive.io/) - Fast, large file transfer in the browser, no client software needed. Pay as you go.
 * [Media Shuttle](https://www.signiant.com/products/media-shuttle/) - Browser and desktop solutions for large, fast file transfer.
-* [Qube Wire](https://www.qubewire.com/) - Deliver DCPS and KDMs to cinemas worldwide.
+* [Qube Wire](https://www.qubewire.com/) - Deliver DCPs and KDMs to cinemas worldwide.
 
 ## Framerate Converters
 
