@@ -20,6 +20,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Standards & Recommendations](#standards--recommendations)
 * [Tools](#tools)
   * [Command Line Tools](#command-line-tools)
+  * [Leq(m) Meters](#leqm-meters)
   * [Plug-ins](#plug-ins)
   * [Standalone](#standalone)
   * [Web Apps](#web-apps)
@@ -90,6 +91,15 @@ Brian McKernan, 2005.
 * [dcp.py](https://github.com/chrisbarrett/dcp.py) - Command line tool for formatting a hard drive for cinema usage.
 * [dcp_inspect](https://github.com/wolfgangw/backports) - Tool for inspection and validation of DCPs (SMPTE and Interop). 
 * [IFIscripts](https://github.com/kieranjol/IFIscripts) - Scripts developed and used by the IFI Irish Film Archive.
+
+## Leq(m) Meters
+
+* [Dolby Media Meter 2](http://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) - Discontinued 2018 (direct link to user's manual PDF).
+* [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) - Discontinued 2018 (direct link to user's manual PDF).
+* [dpMeter 3](https://www.tb-software.com/TBProAudio/dpmeter3.html) - Freeware loudness meter plugin from TB Software.
+* [dpMeter XT](https://www.tb-software.com/TBProAudio/dpmeterxt.html) - Loudness meter plugin from TB Software.
+* [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) - Solution for loudness compliant delivery.
+* [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) - Loudness meter plugin from Waves Audio.
 
 ## Plug-ins
 
