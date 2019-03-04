@@ -25,6 +25,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Plug-ins](#plug-ins)
   * [QC Player](#qc-player)
   * [Standalone](#standalone)
+  * [Transcoding Engines](#transcoding-engines)
   * [Web Apps](#web-apps)
 
 # Interest Groups
@@ -147,6 +148,14 @@ Brian McKernan, 2005.
 * [MIST](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering, player and KDM creation system/software for the professional market.
 * [OpenDCP](https://www.opendcp.org/) - Open source DCP mastering software.
 * [WAILUA](https://www.cinecert.com/product/wailua/) - DCP/IMP mastering software for the professional market.
+
+## Transcoding Engines
+
+* [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
+* [CORTEX Enterprise](http://www.mtifilm.com/cortex) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
+* [PixelStrings](https://pixelstrings.com/) - Standards conversion and transcoding in the cloud. Pay as you go.
+* [TORNADO](http://www.marquise-tech.com/tornado.html) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
+* [Transkoder](http://www.colorfront.com/?page=SOFTWARE&spage=Transkoder) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
 
 ## Web Apps
 
