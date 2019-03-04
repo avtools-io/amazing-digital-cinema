@@ -116,6 +116,14 @@ Brian McKernan, 2005.
 * [j2k, rolling release](https://github.com/fnordware/j2k) - Open source JPEG 2000 encoder plug-in for Adobe programs (self compile).
 * [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) - JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
+## QC player
+
+* [CLIPSTER Play](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) - Can play DCPs and IMPs (IMF).
+* [easyDCP Player](https://www.easydcp.com/product.php?id=5&product=easydcp-player) - Can play DCPs and IMPs (IMF).
+* [easyDCP Player+](https://www.easydcp.com/product.php?id=4&product=easydcp-player) - Can play DCPs and IMPs (IMF) - more features than non plus version.
+* [ICE QC Player](http://www.marquise-tech.com/ice.html) - Can play DCPs and IMPs (IMF).
+* [NeoDCP Player](https://www.neodcp.com/features-and-prices/) - Can play DCPs - has multiple software versions. Too many to list here.
+
 ## Software Libraries
 
 * [asdcplib](https://www.cinecert.com/asdcplib/) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
