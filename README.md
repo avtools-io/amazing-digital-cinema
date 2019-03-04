@@ -4,7 +4,7 @@ A curated list of resources for film technicians in the fields of digital cinema
 
 Please contribute to this list!
 
-If you don't know how to contribute on Github, please follow this [guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) and the  [guidelines](https://github.com/4lm/amazing-digital-cinema/blob/master/CONTRIBUTING.md) of this repository. If this is too much of an effort for you to learn, but you still want to contribute, then [post an issue](https://github.com/4lm/amazing-digital-cinema/issues) here on Github with your suggestion(s) for adding to the list. 
+If you don't know how to contribute on GitHub, please follow this [guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) and the  [guidelines](https://github.com/4lm/amazing-digital-cinema/blob/master/CONTRIBUTING.md) of this repository. If this is too much of an effort for you to learn, but you still want to contribute, then [post an issue](https://github.com/4lm/amazing-digital-cinema/issues) here on Github with your suggestion(s) for adding to the list. 
 
 This list was inspired by the [awesome-broadcasting list](https://github.com/ebu/awesome-broadcasting). Which itself was inspired by the awesome [awesome list](https://github.com/sindresorhus/awesome).
 In contrast, this list also lists non open-source resources. To reflect this matter and out of respect towards the open-source only awesome list projects, I named this list amazing digital cinema instead of awesome digital cinema.
