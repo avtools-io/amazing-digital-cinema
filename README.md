@@ -24,6 +24,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [File Transfer](#file-transfer)
   * [Framerate Converters](#framerate-converters)
   * [Leq(m) Meters](#leqm-meters)
+  * [Mastering Tools](#mastering-tools)
   * [Plug-ins](#plug-ins)
   * [QC Player](#qc-player)
   * [Standalone](#standalone)
@@ -125,6 +126,17 @@ Brian McKernan, 2005.
 * [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) - Solution for loudness compliant delivery.
 * [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) - Loudness meter plugin from Waves Audio.
 
+## Mastering Tools
+
+* [CLIPSTER](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) - DCP/IMP mastering, player and KDM creation system for the professional market.
+* [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) - Transcode and master DCPs, IMPs (IMF) and additional formats.
+* [CORTEX Enterprise](http://www.mtifilm.com/cortex) - Transcode and master DCPs, IMPs (IMF) and additional formats.
+* [DCP-o-matic](https://dcpomatic.com/) - Open source DCP mastering, player and KDM creation software.
+* [easyDCP](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation software for the professional market.
+* [MIST](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering, player and KDM creation system/software for the professional market.
+* [OpenDCP](https://www.opendcp.org/) - Open source DCP mastering software.
+* [WAILUA](https://www.cinecert.com/product/wailua/) - DCP/IMP mastering software for the professional market.
+
 ## Plug-ins
 
 * [DCIconverter, rolling release](https://github.com/fnordware/DCIconverter) - RGB to XYZ and vice versa for Adobe After Effects and Premiere (self compile).
@@ -155,24 +167,22 @@ Brian McKernan, 2005.
 
 ## Standalone
 
-* [Clipster](https://www.rohde-schwarz.com/product/clp6-productstartpage_63493-229148.html) - DCP/IMP mastering, player and KDM creation system for the professional market.
-* [DCP-o-matic](https://dcpomatic.com/) - Open source DCP mastering, player and KDM creation software.
 * [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) - Extract DCP subtitles and save them as SRT (SubRib) file.
-* [easyDCP](https://en.easydcp.com/) - DCP/IMP mastering, player and KDM creation software for the professional market.
-* [MIST](http://www.marquise-tech.com/mist.html) - DCP/IMP mastering, player and KDM creation system/software for the professional market.
-* [OpenDCP](https://www.opendcp.org/) - Open source DCP mastering software.
-* [WAILUA](https://www.cinecert.com/product/wailua/) - DCP/IMP mastering software for the professional market.
+* [IMFTool](https://github.com/IMFTool/IMFTool) - A tool for editing IMF CPLs and creating new versions of an existing IMF package.
+* [Annotation Edit](http://www.zeitanker.com/content/tools/zeitanker_tools/zeitanker_annotation_edit/) - Subtitle program (macOS only) that supports digital cinema Interop and SMPTE subtitles.
+* [Subtitle Edit](https://www.nikse.dk/subtitleedit) - Open source subtitle program that supports digital cinema subtitles.
+* [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php) - Freeware (Windows only) program for renaming vast amounts of files.
 
 ## Transcoding Engines
 
-* [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
-* [CORTEX Enterprise](http://www.mtifilm.com/cortex) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
+* [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) - Transcode and master DCPs, IMPs (IMF) and additional formats.
+* [CORTEX Enterprise](http://www.mtifilm.com/cortex) - Transcode and master DCPs, IMPs (IMF) and additional formats.
 * [PixelStrings](https://pixelstrings.com/) - Framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 * [TORNADO](http://www.marquise-tech.com/tornado.html) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
 * [Transkoder](http://www.colorfront.com/?page=SOFTWARE&spage=Transkoder) - Transcoding engine for DCPs, IMPs (IMF) and additional formats.
 
 ## Web Apps
 
-* [CineLexi Web Tools](https://cinelexi.com/) - Online web tools for DCP CPL info, timecode calculator and converters.
+* [CineLexi Web Tools](https://cinelexi.com/) - Web tools for DCP CPL insides, timecode calculation and timecode bulk conversion.
 * [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) - Online color space calculator for RGB color spaces.
 * [Michael Cinquin tools](http://www.michaelcinquin.com/tools) - Web tools, e.g. timecode calculator, DCP-subtitle creator and DCP versioning.
