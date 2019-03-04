@@ -21,6 +21,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Standards & Recommendations](#standards--recommendations)
 * [Tools](#tools)
   * [Command Line Tools](#command-line-tools)
+  * [File Transfer](#file-transfer)
   * [Framerate Converters](#framerate-converters)
   * [Leq(m) Meters](#leqm-meters)
   * [Plug-ins](#plug-ins)
@@ -102,6 +103,12 @@ Brian McKernan, 2005.
 * [dcp.py](https://github.com/chrisbarrett/dcp.py) - Command line tool for formatting a hard drive for cinema usage.
 * [dcp_inspect](https://github.com/wolfgangw/backports) - Tool for inspection and validation of DCPs (SMPTE and Interop). 
 * [IFIscripts](https://github.com/kieranjol/IFIscripts) - Scripts developed and used by the IFI Irish Film Archive.
+
+## File Transfer
+
+* [Aspera](https://asperasoft.com/) - A multiverse of solutions for large, fast file transfer.
+* [MASV](https://www.massive.io/) - Fast, large file transfer in the browser, no client software needed. Pay as you go.
+* [Media Shuttle](https://www.signiant.com/products/media-shuttle/) - Browser and desktop solutions for large, fast file transfer.
 
 ## Framerate Converters
 
