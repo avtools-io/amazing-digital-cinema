@@ -130,8 +130,9 @@ Brian McKernan, 2005.
 * [asdcplib](https://github.com/cinecert/asdcplib) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
 * [ClairMeta](https://github.com/Ymagis/ClairMeta) - Library for checking and probing of Digital Cinema Packages.
 * [Colour](http://colour-science.org/) - A Colour science package for Python.
-* [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A Node.js library for CPL-parsing.
 * [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
+* [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) - Framework for the various MDDF standards.
+* [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A Node.js library for CPL-parsing.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
 * [python-dcitools](https://github.com/ronhanson/python-dcitools) - A Python library for working with digital cinema server APIs.
 * [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) - A JavaScript library for operations with SMPTE timecodes.
