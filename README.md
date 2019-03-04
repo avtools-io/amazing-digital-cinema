@@ -100,6 +100,7 @@ Brian McKernan, 2005.
 * [EBU Tech Publications](https://tech.ebu.ch/publications) - Recommendations and guidelines of the European Broadcasting Union.
 * [Interop Recommendations Overview](https://cinepedia.com/interop/) - Deprecated, but still actively used Digital Cinema Package recommendations.
 * [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) - Recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
+* [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) - EBU framework for integrating multiple services and processes.
 * [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) - Compliance with best practices is voluntary and not an accreditation program.
 * [Open Archive Information System (OAIS)](http://www.oais.info/) - Reference Model (ISO 14721) for digital preservation.
 * [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) - Advertisement Leq(m) measurement standard (direct link to PDF).
