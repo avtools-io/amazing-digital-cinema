@@ -28,8 +28,9 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 * [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) - Joint venture by the majors studios in Hollywood for an open digital cinema architecture.
 * [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) - Meeting forum to discuss key issues surrounding digital cinema in Europe.
-* [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) - standards body of the motion picture industry.
 * [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) - Working group for digital cinema technology, meets about once a month.
+* [MovieLabs](https://movielabs.com/) - Hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
+* [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) - standards body of the motion picture industry.
 * [Trailer Audio Standards Association (TASA)](http://tasatrailers.org/) - Leq(m) audio standard for motion picture trailer volume. 
 
 # Resources
