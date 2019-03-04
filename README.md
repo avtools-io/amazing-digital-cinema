@@ -46,6 +46,13 @@ Brian McKernan, 2005.
 * [Image Processing for Cinema](https://www.amazon.com/Processing-Chapman-Mathematical-Computational-Sciences/dp/1439899274) - Marcelo Bertalmío, 2014.
 * [Understanding Digital Cinema](https://www.amazon.com/Understanding-Digital-Cinema-Professional-Handbook/dp/0240806174) - Charles S. Swartz, 2004.
 
+## Education
+
+* [Advanced Media Technology, M.Eng.](https://www.hs-rm.de/en/faculties/engineering/degree-programs/advanced-media-technology-meng/) - Digital cinema lab. Program in German. RheinMain University, Germany. 
+* [Creative Technologies, M.A.](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/) - Computer science, movie technology and arts program. Konrad Wolf University, Germany.
+* [Media Technology, B.Eng.](https://www.hs-rm.de/de/fachbereiche/ingenieurwissenschaften/studiengaenge/medientechnik-beng/) - Digital cinema lab. Program in German. RheinMain University, Germany.
+* [Motion Picture Science, B.Sc.](https://www.rit.edu/programs/motion-picture-science-bs) - Rochester Institute of Technology, USA.
+
 ## Forums
 
 * [dcinemaforum](http://dcinemaforum.com/forum/index.php) - General digital cinema forum, with slight focus on the DCP mastering software OpenDCP. 
