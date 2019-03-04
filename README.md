@@ -13,6 +13,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 * [Interest Groups](#interest-groups)
 * [Resources](#resources)
   * [Books](#books)
+  * [Education](#education)
   * [Forums](#online-forums)
   * [Knowledge Sources](#knowledge-sources)
   * [Lists](#lists)
