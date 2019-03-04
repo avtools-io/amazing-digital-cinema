@@ -127,7 +127,7 @@ Brian McKernan, 2005.
 
 ## Software Libraries
 
-* [asdcplib](https://www.cinecert.com/asdcplib/) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
+* [asdcplib](https://github.com/cinecert/asdcplib) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
 * [ClairMeta](https://github.com/Ymagis/ClairMeta) - Library for checking and probing of Digital Cinema Packages.
 * [Colour](http://colour-science.org/) - A Colour science package for Python.
 * [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A Node.js library for CPL-parsing.
