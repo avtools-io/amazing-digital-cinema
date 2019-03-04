@@ -35,6 +35,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 # Interest Groups
 
 * [Academy of Motion Picture Arts and Sciences (AMPAS)](https://www.oscars.org/science-technology/projects) - Link goes to the AMPAS science & technology projects.
+* [Academy Software Foundation (ASWF)](https://www.aswf.io/) - Code. Collaboration. Creativity.
 * [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) - Joint venture by the majors studios in Hollywood for an open digital cinema architecture.
 * [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) - Meeting forum to discuss key issues surrounding digital cinema in Europe.
 * [HPA IMF User Group](https://imfug.com/) - Forum for end-users and implementers of the IMF standard.
