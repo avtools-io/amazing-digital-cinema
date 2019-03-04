@@ -30,6 +30,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 * [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) - Meeting forum to discuss key issues surrounding digital cinema in Europe.
 * [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) - standards body of the motion picture industry.
 * [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) - Working group for digital cinema technology, meets about once a month.
+* [Trailer Audio Standards Association (TASA)](http://tasatrailers.org/) - Leq(m) audio standard for motion picture trailer volume. 
 
 # Resources
 
