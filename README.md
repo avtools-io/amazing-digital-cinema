@@ -120,6 +120,6 @@ Brian McKernan, 2005.
 
 ## Web Apps
 
+* [CineLexi Web Tools](https://cinelexi.com/) - Online web tools for DCP CPL info, timecode calculator and converters.
 * [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) - Online color space calculator for RGB color spaces.
 * [Michael Cinquin tools](http://www.michaelcinquin.com/tools) - Web tools, e.g. timecode calculator, DCP-subtitle creator and DCP versioning.
-* [Open Cinema Web Tools](https://open-cinema-tools.github.io/ocwt/) - Web Tools, DCP CPL info, timecode calculator and converter (also bulk).
