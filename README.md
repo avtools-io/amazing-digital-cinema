@@ -79,6 +79,7 @@ Brian McKernan, 2005.
 * [Interop Recommendations Overview](https://cinepedia.com/interop/) - Deprecated, but still actively used Digital Cinema Package recommendations.
 * [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) - Recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
 * [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) - Active SMPTE Digital Cinema Package standards.
+* [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) - Trailer Leq(m) measurement standard (direct link to PDF).
 
 # Tools
 
