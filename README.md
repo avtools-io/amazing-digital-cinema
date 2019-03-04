@@ -55,6 +55,7 @@ Brian McKernan, 2005.
 * [Digital Image Processing with Application to Digital Cinema](https://www.amazon.com/Digital-Image-Processing-Application-Cinema/dp/0240807294) - KS Thyagarajan, 2005.
 * [FIAF Digital Projection Guide](https://www.amazon.com/Digital-Projection-Guide-Torkell-Saetervadet/dp/2960029623/) - Torkell Saetervadet, 2012.
 * [Image Processing for Cinema](https://www.amazon.com/Processing-Chapman-Mathematical-Computational-Sciences/dp/1439899274) - Marcelo Bertalmío, 2014.
+* [The JPEG 2000 Suite](https://www.wiley.com/en-us/The+JPEG+2000+Suite-p-9780470721476) - Peter Schelkens et al., 2009.
 * [Understanding Digital Cinema](https://www.amazon.com/Understanding-Digital-Cinema-Professional-Handbook/dp/0240806174) - Charles S. Swartz, 2004.
 
 ## Discussion Papers & Articles
@@ -181,7 +182,9 @@ Brian McKernan, 2005.
 * [asdcplib](https://github.com/cinecert/asdcplib) - Open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
 * [ClairMeta](https://github.com/Ymagis/ClairMeta) - Library for checking and probing of Digital Cinema Packages.
 * [Colour](http://colour-science.org/) - A Colour science package for Python.
+* [Comprimato](https://comprimato.com/) - Commerical GPU JPEG 2000 codec.
 * [grok](https://github.com/GrokImageCompression/grok) - Open source JPEG 2000 codec - fork of OpenJPEG.
+* [Kakadu](http://kakadusoftware.com/) - Commercial JPEG 2000 codec.
 * [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) - Framework for the various MDDF standards.
 * [node-cpl](https://github.com/artsalliancemedia/node-cpl) - A Node.js library for CPL-parsing.
 * [OpenJPEG](http://www.openjpeg.org/) - Open source JPEG 2000 codec written in C.
