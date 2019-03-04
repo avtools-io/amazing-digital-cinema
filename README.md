@@ -140,7 +140,7 @@ Brian McKernan, 2005.
 * [DCPtools KDM Studio](https://www.dcptools.com/products/kdm-studio/) - Online KDM creation, with cinema database. Pay as you go (bundle prices).
 * [easyDCP KDM Generator+](https://www.easydcp.com/product.php?id=7&product=easydcp-kdm-generator) - Allows to use external DKDM (Distribution KDM) generate KDMs.
 * [KEYMASTER](http://www.marquise-tech.com/keymaster.html) - Online KDM creation, with cinema database. Annual subscription.
-* [Qube Wire](https://www.qubewire.com/) - Deliver DCPS and KDMs to cinemas worldwide.
+* [Qube Wire](https://www.qubewire.com/) - Deliver DCPs and KDMs to cinemas worldwide.
 
 ## Leq(m) Meters
 
