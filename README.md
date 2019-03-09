@@ -187,6 +187,8 @@ Brian McKernan, 2005.
 * [Comprimato](https://comprimato.com/) – commerical GPU JPEG 2000 codec.
 * [grok](https://github.com/GrokImageCompression/grok) – open source JPEG 2000 codec - fork of OpenJPEG.
 * [Kakadu](http://kakadusoftware.com/) – commercial JPEG 2000 codec.
+* [libdcp](https://github.com/cth103/libdcp) – open source library for reading and writing Digital Cinema Packages (DCPs).
+* [libsub](https://github.com/cth103/libsub) – open source subtitle reading/writing library.
 * [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) – framework for the various MDDF standards.
 * [node-cpl](https://github.com/artsalliancemedia/node-cpl) – a Node.js library for CPL-parsing.
 * [OpenJPEG](http://www.openjpeg.org/) – open source JPEG 2000 codec written in C.
