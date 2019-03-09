@@ -103,6 +103,7 @@ Brian McKernan, 2005.
 * [Color Transformation Language (CTL)](https://www.oscars.org/science-technology/sci-tech-projects/color-transformation-language) - Color Transformation Language for Digital Motion Picture Pipelines. 
 * [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) - DCI Spec and Compliance Test Plan.
 * [EBU Tech Publications](https://tech.ebu.ch/publications) - Recommendations and guidelines of the European Broadcasting Union.
+* [EIDR](https://eidr.org/) – a universal unique identifier for movie and television assets.
 * [Interop Recommendations Overview](https://cinepedia.com/interop/) - Deprecated, but still actively used Digital Cinema Package recommendations.
 * [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) - Recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
 * [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) - EBU framework for integrating multiple services and processes.
