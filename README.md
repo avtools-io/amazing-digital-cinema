@@ -22,6 +22,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
   * [Standards & Recommendations](#standards-recommendations)
 * [Tools](#tools)
   * [Command Line Tools](#command-line-tools)
+  * [DCP Duplication](#dcp-duplication)
   * [File Transfer](#file-transfer)
   * [Framerate Converters](#framerate-converters)
   * [KDM Tools](#kdm-tools)
@@ -119,9 +120,15 @@ Brian McKernan, 2005.
 ## Command Line Tools
 
 * [ClairMeta](https://github.com/Ymagis/ClairMeta) – command line tool for checking and probing of Digital Cinema Packages.
-* [dcp.py](https://github.com/chrisbarrett/dcp.py) – command line tool for formatting a hard drive for cinema usage.
 * [dcp_inspect](https://github.com/wolfgangw/backports) – tool for inspection and validation of DCPs (SMPTE and Interop). 
 * [IFIscripts](https://github.com/kieranjol/IFIscripts) – scripts developed and used by the IFI Irish Film Archive.
+
+## DCP Duplication
+
+* [DCP360 : D2 DCP duplicator](https://d2.eu/digital-cinema/digital-for-post-production/dcp-duplication/) – a compact 19 inch stackable device that is equipped with CRU slots.
+* [dcp.py](https://github.com/chrisbarrett/dcp.py) – open source command line tool for formatting a hard drive for cinema usage.
+* [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
+* [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
 
 ## File Transfer
 
