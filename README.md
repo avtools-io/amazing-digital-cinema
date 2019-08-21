@@ -157,7 +157,6 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [Dolby Media Meter 2](http://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [dpMeter 3](https://www.tb-software.com/TBProAudio/dpmeter3.html) – freeware loudness meter plugin from TB Software.
-- [dpMeter XT](https://www.tb-software.com/TBProAudio/dpmeterxt.html) – loudness meter plugin from TB Software.
 - [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
 - [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plugin from Waves Audio.
 
