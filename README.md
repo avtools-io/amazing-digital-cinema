@@ -219,8 +219,8 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Transcoding Engines
 
-- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
-- [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
+- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats (not the same as IE's Cortex).
+- [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats (not the same as IE's Cortex).
 - [PixelStrings](https://pixelstrings.com/) – framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 - [TORNADO](http://www.marquise-tech.com/tornado.html) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
 - [Transkoder](http://www.colorfront.com/?page=SOFTWARE&spage=Transkoder) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
@@ -233,6 +233,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Workflow tools
 
+- [Cortex](https://github.com/ImageEngine/cortex) – open source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
 - [Kitsu](https://github.com/cgwire/kitsu) – open source production tracker for indie studios.
 - [Kitsu, hosted at CGWire](https://www.cg-wire.com/) - hosted production tracker for indie studios.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
