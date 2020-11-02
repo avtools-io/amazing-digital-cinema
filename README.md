@@ -140,6 +140,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [MASV](https://www.massive.io/) – fast, large file transfer in the browser, no client software needed. Pay as you go.
 - [Media Shuttle](https://www.signiant.com/products/media-shuttle/) – browser and desktop solutions for large, fast file transfer.
 - [MediaSilo](https://mediasilo.com/) – video asset management & sharing solution.
+- [Signiant](https://www.signiant.com/) – move large files with speed, reliability, and security.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
 
 ## Framerate Converters
