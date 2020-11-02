@@ -234,6 +234,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 ## Workflow tools
 
 - [Cortex](https://github.com/ImageEngine/cortex) – open source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
+- [Frame.io](https://frame.io/) – cloud-based collaboration platform.
 - [Gaffer](https://github.com/GafferHQ/gaffer) – open source framework to automate processes, build production workflows and more (based on Cortex).
 - [Kitsu](https://github.com/cgwire/kitsu) – open source production tracker for indie studios.
 - [Kitsu, hosted at CGWire](https://www.cg-wire.com/) - hosted production tracker for indie studios.
