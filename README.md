@@ -238,3 +238,4 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [Kitsu](https://github.com/cgwire/kitsu) – open source production tracker for indie studios.
 - [Kitsu, hosted at CGWire](https://www.cg-wire.com/) - hosted production tracker for indie studios.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
+- [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – open source platform for enterprise workflow solutions (originated in the VFX industry).
