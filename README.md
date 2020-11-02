@@ -87,6 +87,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Lists
 
+- [ASWF Landscape](https://github.com/AcademySoftwareFoundation/aswf-landscape) – map of open source projects used in the motion picture industry.
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – curated, broadcast related list.
 - [Awesome Colour](https://github.com/colour-science/awesome-colour) – a curated list of color science resources.
 - [open-workflows](https://github.com/amiaopensource/open-workflows) – curated list of resources and workflows for a/v archivists.
@@ -232,4 +233,4 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Workflow tools
 
-- [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – Standard & User-defined media workflows
+- [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
