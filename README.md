@@ -60,11 +60,10 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [The JPEG 2000 Suite](https://www.wiley.com/en-us/The+JPEG+2000+Suite-p-9780470721476) – Peter Schelkens et al., 2009.
 - [Understanding Digital Cinema](https://www.amazon.com/Understanding-Digital-Cinema-Professional-Handbook/dp/0240806174) – Charles S. Swartz, 2004.
 
-## Papers & Articles
+## Discussion Papers & Articles
 
 - [DCI Must Do More on HDR](http://digitalcinemareport.com/article/dci-must-do-more-hdr) – Michael Karagosian, 2019.
 - [How Loud is a Movie?](https://isdcf.com/papers/ISDCF-Doc11-MovieLoudnessMeasurement20160315.pdf) – leq(m10), a new measurement procedure, Ioan Allen, 2016 (direct link to PDF).
-- [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems, SMPTE, 2020.
 - [What’s Wrong with the DCP?](http://www.digitalcinemareport.com/article/what%E2%80%99s-wrong-dcp) – Michael Karagosian, 2015.
 
 ## Education
@@ -115,6 +114,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
 - [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct link to PDF).
+- [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems.
 - [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct link to PDF).
 
@@ -240,6 +240,6 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [Gaffer](https://github.com/GafferHQ/gaffer) – open source framework to automate processes, build production workflows and more (based on Cortex).
 - [Kitsu](https://github.com/cgwire/kitsu) – open source production tracker for indie studios.
 - [Kitsu, hosted at CGWire](https://www.cg-wire.com/) - hosted production tracker for indie studios.
-- [MCMA](https://tech.ebu.ch/groups/mcma) ([GitHub Repos](https://github.com/ebu?q=mcma)) - open source serverless architecture and media workflows in the cloud.
+- [MCMA Project Repos](https://github.com/ebu?q=mcma) - open source serverless architecture and media workflows in the cloud.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
 - [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – open source platform for enterprise workflow solutions (originated in the VFX industry).
