@@ -43,6 +43,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [HPA IMF User Group](https://imfug.com/) – forum for end-users and implementers of the IMF standard.
 - [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) – working group for digital cinema technology, meets about once a month.
 - [MovieLabs](https://movielabs.com/) – hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
+- [Open Services Alliance - for Media](https://openservicesalliance.com/) – global alliance to enable open media services.
 - [SMPTE DCP Migration Project](https://www.smptedcp.com/) – the project is pushing the transition from Interop to SMTPE DCP usage in cinemas.
 - [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) – standards body of the motion picture industry.
 - [Trailer Audio Standards Association (TASA)](http://tasatrailers.org/) – leq(m) audio standard for motion picture trailer volume.
