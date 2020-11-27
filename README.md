@@ -60,10 +60,11 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [The JPEG 2000 Suite](https://www.wiley.com/en-us/The+JPEG+2000+Suite-p-9780470721476) – Peter Schelkens et al., 2009.
 - [Understanding Digital Cinema](https://www.amazon.com/Understanding-Digital-Cinema-Professional-Handbook/dp/0240806174) – Charles S. Swartz, 2004.
 
-## Discussion Papers & Articles
+## Papers & Articles
 
 - [DCI Must Do More on HDR](http://digitalcinemareport.com/article/dci-must-do-more-hdr) – Michael Karagosian, 2019.
 - [How Loud is a Movie?](https://isdcf.com/papers/ISDCF-Doc11-MovieLoudnessMeasurement20160315.pdf) – leq(m10), a new measurement procedure, Ioan Allen, 2016 (direct link to PDF).
+- [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems, SMPTE, 2020.
 - [What’s Wrong with the DCP?](http://www.digitalcinemareport.com/article/what%E2%80%99s-wrong-dcp) – Michael Karagosian, 2015.
 
 ## Education
