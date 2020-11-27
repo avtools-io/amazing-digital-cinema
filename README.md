@@ -117,6 +117,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct link to PDF).
 - [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems.
 - [SMPTE ST 2125, Public Committee Draft](https://github.com/SMPTE/st2125) – IMF registration service API.
+- [SMPTE ST 2126, Public Committee Draft](https://github.com/SMPTE/st2126) – microservice status reporting and logging.
 - [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct link to PDF).
 
