@@ -160,6 +160,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Leq(m) Meters
 
+- [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools (includes Leq(m) meter).
 - [Dolby Media Meter 2](http://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [dpMeter 3](https://www.tb-software.com/TBProAudio/dpmeter3.html) – freeware loudness meter plugin from TB Software.
@@ -230,8 +231,9 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Web Apps
 
-- [CineLexi Web Tools](https://cinelexi.com/) – web tools for DCP CPL insides, timecode calculation and timecode bulk conversion.
+- [CineLexi Web Tools](https://www.cinelexi.com/) – web tools for DCP CPL insides, timecode calculation and timecode bulk conversion.
 - [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) – online color space calculator for RGB color spaces.
+- [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools.
 - [Michael Cinquin tools](http://www.michaelcinquin.com/tools) – web tools, e.g. timecode calculator, DCP-subtitle creator and DCP versioning.
 
 ## Workflow tools
