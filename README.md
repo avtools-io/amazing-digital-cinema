@@ -239,5 +239,6 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [Gaffer](https://github.com/GafferHQ/gaffer) – open source framework to automate processes, build production workflows and more (based on Cortex).
 - [Kitsu](https://github.com/cgwire/kitsu) – open source production tracker for indie studios.
 - [Kitsu, hosted at CGWire](https://www.cg-wire.com/) - hosted production tracker for indie studios.
+- [MCMA](https://tech.ebu.ch/groups/mcma) ([GitHub Repos](https://github.com/ebu?q=mcma)) - open source serverless architecture and media workflows in the cloud.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
 - [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – open source platform for enterprise workflow solutions (originated in the VFX industry).
