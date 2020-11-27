@@ -211,6 +211,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) – framework for the various MDDF standards.
 - [node-cpl](https://github.com/artsalliancemedia/node-cpl) – a Node.js library for CPL-parsing.
 - [OpenJPEG](http://www.openjpeg.org/) – open source JPEG 2000 codec written in C.
+- [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) – interchange format and API for editorial cut information.
 - [Photon](https://github.com/Netflix/photon) – Photon is open source a Java implementation of the Interoperable Master Format (IMF) standard.
 - [python-dcitools](https://github.com/ronhanson/python-dcitools) – a Python library for working with digital cinema server APIs.
 - [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) – a JavaScript library for operations with SMPTE timecodes.
