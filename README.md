@@ -91,6 +91,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [ASWF Landscape](https://github.com/AcademySoftwareFoundation/aswf-landscape) – map of open source projects used in the motion picture industry.
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – curated, broadcast related list.
 - [Awesome Colour](https://github.com/colour-science/awesome-colour) – a curated list of color science resources.
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) – a curated list of pipeline toolkits.
 - [open-workflows](https://github.com/amiaopensource/open-workflows) – curated list of resources and workflows for a/v archivists.
 
 ## News
