@@ -242,6 +242,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [DIVO](https://divo.fishtank.cloud/) – a Dolby Vision HDR web tool. Parse, compare and edit Dolby Vision XML.
 - [Dolby Log Analyzer](http://loganalyzer.dolbycustomer.com/) – a web app that scans Dolby D-cinema server logs to produce an overview.
 - [Michael Cinquin tools](http://www.michaelcinquin.com/tools) – web tools, e.g. timecode calculator, DCP-subtitle creator and DCP versioning.
+- [Online Reg-XML MXF Dump Tool](https://registry.smpte-ra.org/apps/regxmldump/view/published/) – only a few bytes are uploaded to the server.
 
 ## Workflow tools
 
