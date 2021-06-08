@@ -88,7 +88,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Lists
 
-- [ASWF Landscape](https://github.com/AcademySoftwareFoundation/aswf-landscape) – map of open source projects used in the motion picture industry.
+- [ASWF Landscape](https://github.com/AcademySoftwareFoundation/aswf-landscape) – map of open-source projects used in the motion picture industry.
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – curated, broadcast related list.
 - [Awesome Colour](https://github.com/colour-science/awesome-colour) – a curated list of color science resources.
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) – a curated list of pipeline toolkits.
@@ -133,7 +133,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 ## DCP Duplication
 
 - [DCP360 : D2 DCP duplicator](https://d2.eu/digital-cinema/digital-for-post-production/dcp-duplication/) – a compact 19 inch stackable device that is equipped with CRU slots.
-- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open source command line tool for formatting a hard drive for cinema usage.
+- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command line tool for formatting a hard drive for cinema usage.
 - [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
 - [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
 
@@ -176,17 +176,17 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) – all in one solution with DCP, IMP (IMF) mastering capabilities.
-- [DCP-o-matic](https://dcpomatic.com/) – open source DCP mastering, player and KDM creation software.
+- [DCP-o-matic](https://dcpomatic.com/) – open-source DCP mastering, player and KDM creation software.
 - [easyDCP](https://en.easydcp.com/) – DCP/IMP mastering, player and KDM creation software for the professional market.
 - [MIST](http://www.marquise-tech.com/mist.html) – DCP/IMP mastering, player and KDM creation system/software for the professional market.
-- [OpenDCP](https://www.opendcp.org/) – open source DCP mastering software.
+- [OpenDCP](https://www.opendcp.org/) – open-source DCP mastering software.
 - [WAILUA](https://www.cinecert.com/product/wailua/) – DCP/IMP mastering software for the professional market.
 
 ## Plug-ins
 
 - [DCIconverter, rolling release](https://github.com/fnordware/DCIconverter) – RGB to XYZ and vice versa for Adobe After Effects and Premiere (self compile).
 - [DCIconverter, v0.7, 2014](http://fnordware.blogspot.de/2013/01/dci-converter.html) – RGB to XYZ and vice versa for Adobe After Effects and Premiere.
-- [j2k, rolling release](https://github.com/fnordware/j2k) – open source JPEG 2000 encoder plug-in for Adobe programs (self compile).
+- [j2k, rolling release](https://github.com/fnordware/j2k) – open-source JPEG 2000 encoder plug-in for Adobe programs (self compile).
 - [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) – JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
 ## QC Player
@@ -199,21 +199,21 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Software Libraries
 
-- [asdcplib](https://github.com/cinecert/asdcplib) – open source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
+- [asdcplib](https://github.com/cinecert/asdcplib) – open-source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – library for checking and probing of Digital Cinema Packages.
 - [Colour](http://colour-science.org/) – a color science package for Python.
 - [Comprimato](https://comprimato.com/) – commerical GPU JPEG 2000 codec.
-- [grok](https://github.com/GrokImageCompression/grok) – open source JPEG 2000 codec - fork of OpenJPEG.
+- [grok](https://github.com/GrokImageCompression/grok) – open-source JPEG 2000 codec - fork of OpenJPEG.
 - [itu-r-468-weighting](https://github.com/cinelexi/itu-r-468-weighting) – a zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz).
 - [Kakadu](http://kakadusoftware.com/) – commercial JPEG 2000 codec.
 - [leqm-nrt](https://github.com/lucat/leqm-nrt) – a non-real-time implementation of Leq(M) measurement according to ISO 21727.
-- [libdcp](https://github.com/cth103/libdcp) – open source library for reading and writing Digital Cinema Packages (DCPs).
-- [libsub](https://github.com/cth103/libsub) – open source subtitle reading/writing library.
+- [libdcp](https://github.com/cth103/libdcp) – open-source library for reading and writing Digital Cinema Packages (DCPs).
+- [libsub](https://github.com/cth103/libsub) – open-source subtitle reading/writing library.
 - [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) – framework for the various MDDF standards.
 - [node-cpl](https://github.com/artsalliancemedia/node-cpl) – a Node.js library for CPL-parsing.
-- [OpenJPEG](http://www.openjpeg.org/) – open source JPEG 2000 codec written in C.
+- [OpenJPEG](http://www.openjpeg.org/) – open-source JPEG 2000 codec written in C.
 - [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) – interchange format and API for editorial cut information.
-- [Photon](https://github.com/Netflix/photon) – Photon is open source a Java implementation of the Interoperable Master Format (IMF) standard.
+- [Photon](https://github.com/Netflix/photon) – Photon is an open-source Java implementation of the Interoperable Master Format (IMF) standard.
 - [python-dcitools](https://github.com/ronhanson/python-dcitools) – a Python library for working with digital cinema server APIs.
 - [regxmllib](https://github.com/sandflow/regxmllib) – Java library for the creation of XML representations of MXF header metadata.
 - [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) – a JavaScript library for operations with SMPTE timecodes.
@@ -224,7 +224,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) – extract DCP subtitles and save them as SRT (SubRib) file.
 - [IMFTool](https://github.com/IMFTool/IMFTool) – a tool for editing IMF CPLs and creating new versions of an existing IMF package.
 - [Annotation Edit](http://www.zeitanker.com/content/tools/zeitanker_tools/zeitanker_annotation_edit/) – subtitle program (macOS only) that supports digital cinema Interop and SMPTE subtitles.
-- [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open source subtitle program that supports digital cinema subtitles.
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open-source subtitle program that supports digital cinema subtitles.
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php) – freeware (Windows only) program for renaming vast amounts of files.
 
 ## Transcoding Engines
@@ -249,11 +249,11 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 ## Workflow tools
 
 - [CineFMS] – an open-source framework for film festival DCP workflow management, used at the Berlinale.
-- [Cortex](https://github.com/ImageEngine/cortex) – open source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
+- [Cortex](https://github.com/ImageEngine/cortex) – open-source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
 - [Frame.io](https://frame.io/) – cloud-based collaboration platform.
-- [Gaffer](https://github.com/GafferHQ/gaffer) – open source framework to automate processes, build production workflows and more (based on Cortex).
-- [Kitsu](https://github.com/cgwire/kitsu) – open source production tracker for indie studios.
+- [Gaffer](https://github.com/GafferHQ/gaffer) – open-source framework to automate processes, build production workflows and more (based on Cortex).
+- [Kitsu](https://github.com/cgwire/kitsu) – open-source production tracker for indie studios.
 - [Kitsu, hosted at CGWire](https://www.cg-wire.com/) - hosted production tracker for indie studios.
-- [MCMA Project Repos](https://github.com/ebu?q=mcma) - open source serverless architecture and media workflows in the cloud.
+- [MCMA Project Repos](https://github.com/ebu?q=mcma) - open-source serverless architecture and media workflows in the cloud.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
-- [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – open source platform for enterprise workflow solutions (originated in the VFX industry).
+- [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – open-source platform for enterprise workflow solutions (originated in the VFX industry).
