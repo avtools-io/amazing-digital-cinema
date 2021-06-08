@@ -206,6 +206,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [grok](https://github.com/GrokImageCompression/grok) – open source JPEG 2000 codec - fork of OpenJPEG.
 - [itu-r-468-weighting](https://github.com/cinelexi/itu-r-468-weighting) – a zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz).
 - [Kakadu](http://kakadusoftware.com/) – commercial JPEG 2000 codec.
+- [leqm-nrt](https://github.com/lucat/leqm-nrt) – a non-real-time implementation of Leq(M) measurement according to ISO 21727.
 - [libdcp](https://github.com/cth103/libdcp) – open source library for reading and writing Digital Cinema Packages (DCPs).
 - [libsub](https://github.com/cth103/libsub) – open source subtitle reading/writing library.
 - [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) – framework for the various MDDF standards.
