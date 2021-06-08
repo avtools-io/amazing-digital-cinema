@@ -214,6 +214,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) – interchange format and API for editorial cut information.
 - [Photon](https://github.com/Netflix/photon) – Photon is open source a Java implementation of the Interoperable Master Format (IMF) standard.
 - [python-dcitools](https://github.com/ronhanson/python-dcitools) – a Python library for working with digital cinema server APIs.
+- [regxmllib](https://github.com/sandflow/regxmllib) – Java library for the creation of XML representations of MXF header metadata.
 - [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) – a JavaScript library for operations with SMPTE timecodes.
 - [timecode](https://github.com/eoyilmaz/timecode) – a Python module that handles SMPTE timecode.
 
