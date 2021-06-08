@@ -238,8 +238,9 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [CineLexi Web Tools](https://www.cinelexi.com/) – web tools for DCP CPL insides, timecode calculation and timecode bulk conversion.
 - [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) – online color space calculator for RGB color spaces.
 - [CPL Translator](https://cpl.fishtank.cloud/) – a web tool that parses DCPs and IMPs (IMF).
-- [DIVO](https://divo.fishtank.cloud/) – a Dolby Vision HDR web tool. Parse, compare and edit Dolby Vision XML.
 - [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools.
+- [DIVO](https://divo.fishtank.cloud/) – a Dolby Vision HDR web tool. Parse, compare and edit Dolby Vision XML.
+- [Dolby Log Analyzer](http://loganalyzer.dolbycustomer.com/) – a web app that scans Dolby D-cinema server logs to produce an overview.
 - [Michael Cinquin tools](http://www.michaelcinquin.com/tools) – web tools, e.g. timecode calculator, DCP-subtitle creator and DCP versioning.
 
 ## Workflow tools
