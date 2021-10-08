@@ -85,6 +85,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 - [Cinepedia](https://cinepedia.com/) – knowledge base about DCP mastering, delivery and exhibition.
 - [Knut Erik Evensen](http://www.knuterikevensen.com/) – insights into DCP mastering, delivery and exhibition.
+- [Netflix TechBlog](https://netflixtechblog.com/) – learn about Netflix's world class engineering efforts.
 
 ## Lists
 
