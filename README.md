@@ -1,13 +1,12 @@
 # Amazing Digital Cinema
 
-A curated list of resources for film technicians in the fields of digital cinema content mastering, delivery, archiving and exhibition.
+A curated list of resources for film technicians in the areas of mastering, delivering, archiving, and exhibiting digital film content.
 
 **Please feel free to contribute to this list!**
 
-If you don't know how to contribute on GitHub, please follow this [guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) and the [guidelines](https://github.com/4lm/amazing-digital-cinema/blob/master/CONTRIBUTING.md) of this repository. If this is too much of an effort for you to learn, but you still want to contribute, then [post an issue](https://github.com/4lm/amazing-digital-cinema/issues) here on Github with your suggestion(s) for adding to the list.
+If you don't know how to contribute on GitHub, follow this [guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) and the [guidelines](https://github.com/4lm/amazing-digital-cinema/blob/master/CONTRIBUTING.md) of this repository. If this is too much effort for you to learn, but you still want to contribute, [post an issue](https://github.com/4lm/amazing-digital-cinema/issues) here on GitHub with your suggestion(s) for adding to the list.
 
-This list was inspired by the [awesome-broadcasting list](https://github.com/ebu/awesome-broadcasting). Which itself was inspired by the awesome [awesome list](https://github.com/sindresorhus/awesome).
-In contrast, this list also lists non open-source resources. To reflect this matter and out of respect towards the open-source only awesome list projects, I named this list amazing digital cinema instead of awesome digital cinema.
+This list was inspired by the [awesome-broadcasting list](https://github.com/ebu/awesome-broadcasting), which itself was inspired by the awesome [awesome list](https://github.com/sindresorhus/awesome). In contrast, this list also lists non open-source resources. To reflect this matter and out of respect towards the open-source only awesome list projects, I named this list "Amazing" Digital Cinema instead of "Awesome" Digital Cinema.
 
 - [Contributors to This List](#contributors)
 - [Interest Groups](#interest-groups)
@@ -43,12 +42,12 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 - [Academy of Motion Picture Arts and Sciences (AMPAS)](https://www.oscars.org/science-technology/projects) – link goes to the AMPAS science & technology projects.
 - [Academy Software Foundation (ASWF)](https://www.aswf.io/) – code, collaboration and creativity.
-- [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – joint venture by the majors studios in Hollywood for an open digital cinema architecture.
+- [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – a joint venture by the major Hollywood studios for an open digital cinema architecture.
 - [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) – meeting forum to discuss key issues surrounding digital cinema in Europe.
-- [HPA IMF User Group](https://imfug.com/) – forum for end-users and implementers of the IMF standard.
-- [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) – working group for digital cinema technology, meets about once a month.
-- [MovieLabs](https://movielabs.com/) – hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
-- [Open Services Alliance - for Media](https://openservicesalliance.com/) – global alliance to enable open media services.
+- [HPA IMF User Group](https://imfug.com/) – the forum for end-users and implementers of the IMF standard.
+- [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) – the working group for digital cinema technology, meets about once a month.
+- [MovieLabs](https://movielabs.com/) – Hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
+- [Open Services Alliance - for Media](https://openservicesalliance.com/) – a global alliance to enable open media services.
 - [SMPTE DCP Migration Project](https://www.smptedcp.com/) – the project is pushing the transition from Interop to SMTPE DCP usage in cinemas.
 - [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) – standards body of the motion picture industry.
 - [Trailer Audio Standards Association (TASA)](http://tasatrailers.org/) – leq(m) audio standard for motion picture trailer volume.
@@ -81,30 +80,30 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Forums
 
-- [dcinemaforum](http://dcinemaforum.com/forum/index.php) – general digital cinema forum, with slight focus on the DCP mastering software OpenDCP.
+- [dcinemaforum](http://dcinemaforum.com/forum/index.php) – general digital cinema forum, with a slight focus on the DCP mastering software OpenDCP.
 - [DCP-o-matic User Forum](https://dcpomatic.com/forum/) – user forum of the DCP mastering software DCP-o-matic.
 - [ISDCF Online Forum](http://isdcf.com/forum/) – online forum of the professional association Inter-Society Digital Cinema Forum (ISDCF).
-- [Lift Gamma Gain](http://www.liftgammagain.com/forum/index.php) – colorist forum, also with focus on digital cinema workflows and DCP mastering.
+- [Lift Gamma Gain](http://www.liftgammagain.com/forum/index.php) – colourist forum, also with a focus on digital cinema workflows and DCP mastering.
 
 ## Knowledge Sources
 
 - [Cinepedia](https://cinepedia.com/) – knowledge base about DCP mastering, delivery and exhibition.
 - [Knut Erik Evensen](http://www.knuterikevensen.com/) – insights into DCP mastering, delivery and exhibition.
-- [Netflix TechBlog](https://netflixtechblog.com/) – learn about Netflix's world class engineering efforts.
+- [Netflix TechBlog](https://netflixtechblog.com/) – learn about Netflix's world-class engineering efforts.
 
 ## Lists
 
 - [ASWF Landscape](https://github.com/AcademySoftwareFoundation/aswf-landscape) – map of open-source projects used in the motion picture industry.
-- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – curated, broadcast related list.
-- [Awesome Colour](https://github.com/colour-science/awesome-colour) – a curated list of color science resources.
+- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) – curated, broadcast-related list.
+- [Awesome Colour](https://github.com/colour-science/awesome-colour) – a curated list of colour science resources.
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) – a curated list of pipeline toolkits.
-- [open-workflows](https://github.com/amiaopensource/open-workflows) – curated list of resources and workflows for a/v archivists.
+- [open-workflows](https://github.com/amiaopensource/open-workflows) – a curated list of resources and workflows for a/v archivists.
 
 ## News
 
-- [Celluloid Junkie](https://celluloidjunkie.com/) – news resource, dedicated to the global film and cinema business.
-- [CineTechGeek](https://www.cinetechgeek.com/) – james Gardiner's video blog about digital cinema technology.
-- [DCinema Today](https://www.dcinematoday.com/) – industry sponsored press release site about digital cinema technology.
+- [Celluloid Junkie](https://celluloidjunkie.com/) – news resource dedicated to the global film and cinema business.
+- [CineTechGeek](https://www.cinetechgeek.com/) – James Gardiner's video blog about digital cinema technology.
+- [DCinema Today](https://www.dcinematoday.com/) – industry-sponsored press release site about digital cinema technology.
 - [Digital Cinema Report](http://digitalcinemareport.com/) – news, perspective and analysis on the digital cinema industry.
 - [mkpeReport](https://mkpereport.com/) – news, perspective and analysis on digital cinema technology.
 
@@ -114,32 +113,32 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [Color Transformation Language (CTL)](https://www.oscars.org/science-technology/sci-tech-projects/color-transformation-language) – Color Transformation Language for Digital Motion Picture Pipelines.
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – DCI Spec and Compliance Test Plan.
 - [EBU Tech Publications](https://tech.ebu.ch/publications) – recommendations and guidelines of the European Broadcasting Union.
-- [EIDR](https://eidr.org/) – a universal unique identifier for movie and television assets.
-- [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated, but still actively used Digital Cinema Package recommendations.
-- [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – eecommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
+- [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
+- [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
+- [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
 - [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) – EBU framework for integrating multiple services and processes.
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
-- [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct link to PDF).
+- [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
 - [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems.
 - [SMPTE ST 2125, Public Committee Draft](https://github.com/SMPTE/st2125) – IMF registration service API.
 - [SMPTE ST 2126, Public Committee Draft](https://github.com/SMPTE/st2126) – microservice status reporting and logging.
 - [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
-- [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct link to PDF).
+- [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
 
 # Tools
 
 ## Command Line Tools
 
-- [ClairMeta](https://github.com/Ymagis/ClairMeta) – command line tool for checking and probing of Digital Cinema Packages.
+- [ClairMeta](https://github.com/Ymagis/ClairMeta) – command-line tool for checking and probing of Digital Cinema Packages.
 - [dcp_inspect](https://github.com/wolfgangw/backports) – tool for inspection and validation of DCPs (SMPTE and Interop).
 - [IFIscripts](https://github.com/kieranjol/IFIscripts) – scripts developed and used by the IFI Irish Film Archive.
 
 ## DCP Duplication
 
-- [DCP360 : D2 DCP duplicator](https://d2.eu/digital-cinema/digital-for-post-production/dcp-duplication/) – a compact 19 inch stackable device that is equipped with CRU slots.
-- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command line tool for formatting a hard drive for cinema usage.
+- [DCP360 : D2 DCP duplicator](https://d2.eu/digital-cinema/digital-for-post-production/dcp-duplication/) – a compact 19-inch stackable device equipped with CRU slots.
+- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
 - [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
 - [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
 
@@ -147,7 +146,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 - [Aspera](https://asperasoft.com/) – a multitude of solutions for large, fast file transfer.
 - [Bagger](https://github.com/LibraryOfCongress/bagger) – Application to produce a package of data files according to the BagIt specification.
-- [bagit-python](https://github.com/LibraryOfCongress/bagit-python) – a Python library and command line utility for working with BagIt style packages.
+- [bagit-python](https://github.com/LibraryOfCongress/bagit-python) – a Python library and command-line utility for working with BagIt style packages.
 - [MASV](https://www.massive.io/) – fast, large file transfer in the browser, no client software needed. Pay as you go.
 - [Media Shuttle](https://www.signiant.com/products/media-shuttle/) – browser and desktop solutions for large, fast file transfer.
 - [MediaSilo](https://mediasilo.com/) – video asset management & sharing solution.
@@ -163,7 +162,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 ## KDM Tools
 
 - [DCPtools KDM Studio](https://www.dcptools.com/products/kdm-studio/) – online KDM creation, with cinema database. Pay as you go (bundle prices).
-- [easyDCP KDM Generator+](https://www.easydcp.com/product.php?id=7&product=easydcp-kdm-generator) – allows to use external DKDM (Distribution KDM) generate KDMs.
+- [easyDCP KDM Generator+](https://www.easydcp.com/product.php?id=7&product=easydcp-kdm-generator) – allows using external DKDM (Distribution-KDM) to generate KDMs.
 - [KEYMASTER](http://www.marquise-tech.com/keymaster.html) – online KDM creation, with cinema database. Annual subscription.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
 
@@ -172,9 +171,9 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 - [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools (includes Leq(m) meter).
 - [Dolby Media Meter 2](http://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
-- [dpMeter 3](https://www.tb-software.com/TBProAudio/dpmeter3.html) – freeware loudness meter plugin from TB Software.
+- [dpMeter 3](https://www.tb-software.com/TBProAudio/dpmeter3.html) – freeware loudness meter plug-in from TB Software.
 - [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
-- [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plugin from Waves Audio.
+- [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
 ## Mastering Tools
 
@@ -207,15 +206,15 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 - [asdcplib](https://github.com/cinecert/asdcplib) – open-source implementation of the SMPTE and Interop MXF “Sound & Picture Track File” format.
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – library for checking and probing of Digital Cinema Packages.
-- [Colour](http://colour-science.org/) – a color science package for Python.
-- [Comprimato](https://comprimato.com/) – commerical GPU JPEG 2000 codec.
+- [Colour](http://colour-science.org/) – a colour science package for Python.
+- [Comprimato](https://comprimato.com/) – commercial GPU JPEG 2000 codec.
 - [grok](https://github.com/GrokImageCompression/grok) – open-source JPEG 2000 codec - fork of OpenJPEG.
 - [itu-r-468-weighting](https://github.com/cinelexi/itu-r-468-weighting) – a zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz).
 - [Kakadu](http://kakadusoftware.com/) – commercial JPEG 2000 codec.
 - [leqm-nrt](https://github.com/lucat/leqm-nrt) – a non-real-time implementation of Leq(M) measurement according to ISO 21727.
 - [libdcp](https://github.com/cth103/libdcp) – open-source library for reading and writing Digital Cinema Packages (DCPs).
 - [libsub](https://github.com/cth103/libsub) – open-source subtitle reading/writing library.
-- [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) – framework for the various MDDF standards.
+- [MovieLabs Digital Distribution Framework (MDDF)](https://github.com/MovieLabs/mddf) – a framework for the various MDDF standards.
 - [node-cpl](https://github.com/artsalliancemedia/node-cpl) – a Node.js library for CPL-parsing.
 - [OpenJPEG](http://www.openjpeg.org/) – open-source JPEG 2000 codec written in C.
 - [OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) – interchange format and API for editorial cut information.
@@ -235,8 +234,8 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 ## Transcoding Engines
 
-- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats (not the same as IE's Cortex).
-- [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats (not the same as IE's Cortex).
+- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
+- [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [PixelStrings](https://pixelstrings.com/) – framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 - [TORNADO](http://www.marquise-tech.com/tornado.html) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
 - [Transkoder](http://www.colorfront.com/?page=SOFTWARE&spage=Transkoder) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
@@ -245,7 +244,7 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 
 - [CineCert Cloud Tools](https://cinecert.com/online-tools/) – online KDM generator and asset inspector.
 - [CineLexi Web Tools](https://www.cinelexi.com/) – web tools for DCP CPL insides, timecode calculation and timecode bulk conversion.
-- [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) – online color space calculator for RGB color spaces.
+- [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) – online colour space calculator for RGB colour spaces.
 - [CPL Translator](https://cpl.fishtank.cloud/) – a web tool that parses DCPs and IMPs (IMF).
 - [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools.
 - [DIVO](https://divo.fishtank.cloud/) – a Dolby Vision HDR web tool. Parse, compare and edit Dolby Vision XML.
@@ -258,11 +257,11 @@ In contrast, this list also lists non open-source resources. To reflect this mat
 ## Workflow tools
 
 - [CineFMS](https://github.com/cinefms/fms-oss) – an open-source framework for film festival DCP workflow management, used at the Berlinale.
-- [Cortex](https://github.com/ImageEngine/cortex) – open-source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
+- [Cortex](https://github.com/ImageEngine/cortex) – an open-source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
 - [Frame.io](https://frame.io/) – cloud-based collaboration platform.
-- [Gaffer](https://github.com/GafferHQ/gaffer) – open-source framework to automate processes, build production workflows and more (based on Cortex).
+- [Gaffer](https://github.com/GafferHQ/gaffer) – an open-source framework to automate processes, build production workflows and more (based on Cortex).
 - [Kitsu](https://github.com/cgwire/kitsu) – open-source production tracker for indie studios.
 - [Kitsu, hosted at CGWire](https://www.cg-wire.com/) – hosted production tracker for indie studios.
 - [MCMA Project Repos](https://github.com/ebu?q=mcma) – open-source serverless architecture and media workflows in the cloud.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
-- [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – open-source platform for enterprise workflow solutions (originated in the VFX industry).
+- [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – an open-source platform for enterprise workflow solutions (originated in the VFX industry).
