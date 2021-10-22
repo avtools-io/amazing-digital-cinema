@@ -8,7 +8,7 @@ If you don't know how to contribute on GitHub, follow this [guide](http://ablwr.
 
 This list was inspired by the [awesome-broadcasting list](https://github.com/ebu/awesome-broadcasting), which itself was inspired by the awesome [awesome list](https://github.com/sindresorhus/awesome). In contrast, this list also lists non open-source resources. To reflect this matter and out of respect towards the open-source only awesome list projects, I named this list "Amazing" Digital Cinema instead of "Awesome" Digital Cinema.
 
-- [Contributors to This List](#contributors)
+- [Contributors to This List](#contributors-to-this-list)
 - [Interest Groups](#interest-groups)
 - [Resources](#resources)
   - [Books](#books)
