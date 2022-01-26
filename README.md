@@ -163,7 +163,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [DCPtools KDM Studio](https://www.dcptools.com/products/kdm-studio/) – online KDM creation, with cinema database. Pay as you go (bundle prices).
 - [easyDCP KDM Generator+](https://www.easydcp.com/product.php?id=7&product=easydcp-kdm-generator) – allows using external DKDM (Distribution-KDM) to generate KDMs.
-- [KEYMASTER](http://www.marquise-tech.com/keymaster.html) – online KDM creation, with cinema database. Annual subscription.
+- [KEYMaster](https://www.marquise-tech.com/keymaster/) – online KDM creation, with cinema database. Annual subscription.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
 
 ## Leq(m) Meters
@@ -183,7 +183,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) – all in one solution with DCP, IMP (IMF) mastering capabilities.
 - [DCP-o-matic](https://dcpomatic.com/) – open-source DCP mastering, player and KDM creation software.
 - [easyDCP](https://en.easydcp.com/) – DCP/IMP mastering, player and KDM creation software for the professional market.
-- [MIST](http://www.marquise-tech.com/mist.html) – DCP/IMP mastering, player and KDM creation system/software for the professional market.
+- [MIST](https://www.marquise-tech.com/mist/) – DCP/IMP mastering, player and KDM creation system/software for the professional market.
 - [OpenDCP](https://www.opendcp.org/) – open-source DCP mastering software.
 - [WAILUA](https://www.cinecert.com/product/wailua/) – DCP/IMP mastering software for the professional market.
 
@@ -199,7 +199,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [CLIPSTER Play](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) – can play DCPs and IMPs (IMF).
 - [easyDCP Player](https://www.easydcp.com/product.php?id=5&product=easydcp-player) – can play DCPs and IMPs (IMF).
 - [easyDCP Player+](https://www.easydcp.com/product.php?id=4&product=easydcp-player) – can play DCPs and IMPs (IMF) – more features than non plus version.
-- [ICE QC Player](http://www.marquise-tech.com/ice.html) – can play DCPs and IMPs (IMF).
+- [ICE QC Player](https://www.marquise-tech.com/ice/) – can play DCPs and IMPs (IMF).
 - [NeoDCP Player](https://www.neodcp.com/features-and-prices/) – can play DCPs - has multiple software versions. Too many to list here.
 
 ## Software Libraries
@@ -237,7 +237,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [PixelStrings](https://pixelstrings.com/) – framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
-- [TORNADO](http://www.marquise-tech.com/tornado.html) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
+- [TORNADO](https://www.marquise-tech.com/tornado/) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
 - [Transkoder](http://www.colorfront.com/?page=SOFTWARE&spage=Transkoder) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
 
 ## Web Apps
