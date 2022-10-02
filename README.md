@@ -243,8 +243,8 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Web Apps
 
+- [AVTOOLS.IO](https://www.avtools.io/) – web apps for DCP CPL insides, bulk timecode calculations and timecode conversions.
 - [CineCert Cloud Tools](https://cinecert.com/online-tools/) – online KDM generator and asset inspector.
-- [CineLexi Web Tools](https://www.cinelexi.com/) – web tools for DCP CPL insides, timecode calculation and timecode bulk conversion.
 - [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) – online colour space calculator for RGB colour spaces.
 - [CPL Translator](https://cpl.fishtank.cloud/) – a web tool that parses DCPs and IMPs (IMF).
 - [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools.
