@@ -148,6 +148,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Aspera](https://asperasoft.com/) – a multitude of solutions for large, fast file transfer.
 - [Bagger](https://github.com/LibraryOfCongress/bagger) – Application to produce a package of data files according to the BagIt specification.
 - [bagit-python](https://github.com/LibraryOfCongress/bagit-python) – a Python library and command-line utility for working with BagIt style packages.
+- [Filemail](https://www.filemail.com/) – fast, large file transfer via app, browser, FTP or Torrent
 - [MASV](https://www.massive.io/) – fast, large file transfer in the browser, no client software needed. Pay as you go.
 - [Media Shuttle](https://www.signiant.com/products/media-shuttle/) – browser and desktop solutions for large, fast file transfer.
 - [MediaSilo](https://mediasilo.com/) – video asset management & sharing solution.
