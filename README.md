@@ -172,7 +172,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools (includes Leq(m) meter).
 - [Dolby Media Meter 2](http://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
-- [dpMeter 3](https://www.tb-software.com/TBProAudio/dpmeter3.html) – freeware loudness meter plug-in from TB Software.
+- [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
 - [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
 - [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
