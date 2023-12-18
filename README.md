@@ -134,7 +134,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – command-line tool for checking and probing of Digital Cinema Packages.
 - [dcp_inspect](https://github.com/wolfgangw/backports) – tool for inspection and validation of DCPs (SMPTE and Interop).
-- [IFIscripts](https://github.com/kieranjol/IFIscripts) – scripts developed and used by the IFI Irish Film Archive.
+- [IFIscripts](https://github.com/Irish-Film-Institute/IFIscripts) – scripts developed and used by the IFI Irish Film Archive.
 
 ## DCP Duplication
 
