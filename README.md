@@ -14,11 +14,12 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
   - [Books](#books)
   - [Discussion Papers & Articles](#discussion-papers-articles)
   - [Education](#education)
-  - [Forums](#online-forums)
+  - [Forums](#forums)
   - [Knowledge Sources](#knowledge-sources)
   - [Lists](#lists)
   - [News](#news)
   - [Standards & Recommendations](#standards-recommendations)
+  - [Test materials](#test-materials)
 - [Tools](#tools)
   - [Command Line Tools](#command-line-tools)
   - [DCP Duplication](#dcp-duplication)
@@ -128,6 +129,10 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [SMPTE ST 2126, Public Committee Draft](https://github.com/SMPTE/st2126) – microservice status reporting and logging.
 - [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
+
+## Test materials
+
+- [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – materials for testing EBU Tech 3341/3342 metering
 
 # Tools
 
