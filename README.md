@@ -14,7 +14,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
   - [Books](#books)
   - [Discussion Papers & Articles](#discussion-papers-articles)
   - [Education](#education)
-  - [Forums](#online-forums)
+  - [Forums](#forums)
   - [Knowledge Sources](#knowledge-sources)
   - [Lists](#lists)
   - [News](#news)
