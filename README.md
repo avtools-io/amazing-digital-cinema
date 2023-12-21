@@ -17,6 +17,8 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
   - [Forums](#forums)
   - [Knowledge Sources](#knowledge-sources)
   - [Lists](#lists)
+  - [Manuals](#manuals)
+  - [Media Block (Server) Serial Numbers and Certificates](#media-block-server-serial-numbers-and-certificates)
   - [News](#news)
   - [Standards & Recommendations](#standards-recommendations)
   - [Test materials](#test-materials)
@@ -70,7 +72,9 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Discussion Papers & Articles
 
+- [D-Cinema Equipment Frequently Asked Questions](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/TC_resources/D-Cinema%20FAQs%20release%20FIAF%202012%20V1.1.pdf) - Torkell Sætervadet, 2012.
 - [DCI Must Do More on HDR](http://digitalcinemareport.com/article/dci-must-do-more-hdr) – Michael Karagosian, 2019.
+- [Digital Cinema Technologies from the Archive's Perspective](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/TC_resources/Nowak%20-%20Digital%20Cinema%20Technologies%20v2.0%20FIAF-TC_final%20V1.1.pdf) - Arne Nowak, 2012.
 - [How Loud is a Movie?](https://isdcf.com/papers/ISDCF-Doc11-MovieLoudnessMeasurement20160315.pdf) – leq(m10), a new measurement procedure, Ioan Allen, 2016 (direct link to PDF).
 - [What’s Wrong with the DCP?](http://www.digitalcinemareport.com/article/what%E2%80%99s-wrong-dcp) – Michael Karagosian, 2015.
 
@@ -84,9 +88,13 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Forums
 
 - [dcinemaforum](http://dcinemaforum.com/forum/index.php) – general digital cinema forum, with a slight focus on the DCP mastering software OpenDCP.
+- [Film-Tech Digital Cinema Forum](http://www.film-tech.com/vbb/forum/main-forum) - General forum, with a focus on projection
+- [Filmvorführerforum](http://www.filmvorfuehrer.de/) - (German) General cinema tech forum
 - [DCP-o-matic User Forum](https://dcpomatic.com/forum/) – user forum of the DCP mastering software DCP-o-matic.
+- [DCP-o-matic Mailing Lists](https://lists.dcpomatic.com/postorius/lists/) - Mailing lists for DCP-o-matic.
 - [ISDCF Online Forum](http://isdcf.com/forum/) – online forum of the professional association Inter-Society Digital Cinema Forum (ISDCF).
 - [Lift Gamma Gain](http://www.liftgammagain.com/forum/index.php) – colourist forum, also with a focus on digital cinema workflows and DCP mastering.
+- [Projectioniste.net](https://www.projectionniste.net/forums/) - (French) General cinema tech forum
 
 ## Knowledge Sources
 
@@ -102,9 +110,18 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) – a curated list of pipeline toolkits.
 - [open-workflows](https://github.com/amiaopensource/open-workflows) – a curated list of resources and workflows for a/v archivists.
 
+## Manuals
+- [Film-Tech Equipment Manual Warehouse](http://www.film-tech.com/warehouse/index.php?category=2) - Manuals for Cinema equipment
+- [kinotehnik.net](https://kinotehnik.net/) - (Ukranian) Various equipment manuals in English
+
+## Media Block (Server) Serial Numbers and Certificates
+- [Server Serial Guide](https://picnickdm.freshdesk.com/support/solutions/articles/17000069284-server-serial-guide) - Serial number format for most servers
+- [How to identify your Servers Serial and Media Block Number](https://picnickdm.freshdesk.com/support/solutions/articles/17000069283-how-to-identify-your-servers-serial-and-media-block-number) - Finding the serial number on most servers
+
 ## News
 
 - [Celluloid Junkie](https://celluloidjunkie.com/) – news resource dedicated to the global film and cinema business.
+- [Cinema Tech Today](https://www.cinematech.today/) - Online edition of the Cinema Technology Magazine
 - [CineTechGeek](https://www.cinetechgeek.com/) – James Gardiner's video blog about digital cinema technology.
 - [DCinema Today](https://www.dcinematoday.com/) – industry-sponsored press release site about digital cinema technology.
 - [Digital Cinema Report](http://digitalcinemareport.com/) – news, perspective and analysis on the digital cinema industry.
@@ -114,7 +131,9 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [Archive eXchange Format (AXF)](http://www.axf.io/) – archive file format standard by SMPTE (2014) and later by ISO/IEC (2017).
 - [Color Transformation Language (CTL)](https://www.oscars.org/science-technology/sci-tech-projects/color-transformation-language) – Color Transformation Language for Digital Motion Picture Pipelines.
+- [CST Technical recommendations](https://cst.fr/recommandations-techniques-cst/) - (French) Technical Recommendations from CST (La Commission supérieure technique de l'image et du son)
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – DCI Spec and Compliance Test Plan.
+- [Digital Cinema Naming Convention and Metadata/Terminology Registries](https://registry-page.isdcf.com/) - ISDCF Naming Convention for CPL ContentTitleText, Metadata UL and terminology registry
 - [EBU Tech Publications](https://tech.ebu.ch/publications) – recommendations and guidelines of the European Broadcasting Union.
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
