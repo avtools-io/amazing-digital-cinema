@@ -91,7 +91,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Film-Tech Digital Cinema Forum](http://www.film-tech.com/vbb/forum/main-forum) - General forum, with a focus on projection
 - [Filmvorführerforum](http://www.filmvorfuehrer.de/) - (German) General cinema tech forum
 - [DCP-o-matic User Forum](https://dcpomatic.com/forum/) – user forum of the DCP mastering software DCP-o-matic.
-- [DCP-o-matic Mailing Lists](https://lists.dcpomatic.com/postorius/lists/) - Mailing lists for DCP-o-matic.
 - [ISDCF Online Forum](http://isdcf.com/forum/) – online forum of the professional association Inter-Society Digital Cinema Forum (ISDCF).
 - [Lift Gamma Gain](http://www.liftgammagain.com/forum/index.php) – colourist forum, also with a focus on digital cinema workflows and DCP mastering.
 - [Projectioniste.net](https://www.projectionniste.net/forums/) - (French) General cinema tech forum
@@ -121,7 +120,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## News
 
 - [Celluloid Junkie](https://celluloidjunkie.com/) – news resource dedicated to the global film and cinema business.
-- [Cinema Tech Today](https://www.cinematech.today/) - Online edition of the Cinema Technology Magazine
+- [Cinema Tech Today](http://www.cinematech.today/) - Online edition of the Cinema Technology Magazine
 - [CineTechGeek](https://www.cinetechgeek.com/) – James Gardiner's video blog about digital cinema technology.
 - [DCinema Today](https://www.dcinematoday.com/) – industry-sponsored press release site about digital cinema technology.
 - [Digital Cinema Report](http://digitalcinemareport.com/) – news, perspective and analysis on the digital cinema industry.
