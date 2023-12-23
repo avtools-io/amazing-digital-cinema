@@ -39,6 +39,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 # Contributors to This List
 
 - [Sebastian Böhm](https://dcpmanufaktur.com/)
+- [Mattias Iko Mattsson](https://github.com/matmat)
 - [Alexis Michaltsis](https://www.destacks.com/)
 - [Laurence Stoll](https://www.marquise-tech.com/)
 - [Wolfgang Woehl](https://github.com/wolfgangw)
@@ -110,10 +111,12 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [open-workflows](https://github.com/amiaopensource/open-workflows) – a curated list of resources and workflows for a/v archivists.
 
 ## Manuals
+
 - [Film-Tech Equipment Manual Warehouse](http://www.film-tech.com/warehouse/index.php?category=2) - Manuals for Cinema equipment
 - [kinotehnik.net](https://kinotehnik.net/) - (Ukranian) Various equipment manuals in English
 
 ## Media Block (Server) Serial Numbers and Certificates
+
 - [Server Serial Guide](https://picnickdm.freshdesk.com/support/solutions/articles/17000069284-server-serial-guide) - Serial number format for most servers
 - [How to identify your Servers Serial and Media Block Number](https://picnickdm.freshdesk.com/support/solutions/articles/17000069283-how-to-identify-your-servers-serial-and-media-block-number) - Finding the serial number on most servers
 
