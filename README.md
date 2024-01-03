@@ -153,8 +153,9 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Test materials
 
-- [ClairMeta Data](https://github.com/Ymagis/ClairMeta_Data) – various Digital Cinema essences and packages
-- [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – materials for testing EBU Tech 3341/3342 metering
+- [ClairMeta Data](https://github.com/Ymagis/ClairMeta_Data) – various Digital Cinema essences and packages from Ymagis
+- [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – EBU materials for testing EBU Tech 3341/3342 metering
+- [Cinema Test Tools](https://cinematesttools.com/dcp-tiffs/) – CJ Flynn's amazing suite of plates for _subjective measurement_
 
 # Tools
 
