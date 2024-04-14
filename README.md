@@ -12,7 +12,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Interest Groups](#interest-groups)
 - [Resources](#resources)
   - [Books](#books)
-  - [Discussion Papers & Articles](#discussion-papers-articles)
+  - [Discussion Papers & Articles](#discussion-papers--articles)
   - [Education](#education)
   - [Forums](#forums)
   - [Knowledge Sources](#knowledge-sources)
@@ -20,7 +20,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
   - [Manuals](#manuals)
   - [Media Block (Server) Serial Numbers and Certificates](#media-block-server-serial-numbers-and-certificates)
   - [News](#news)
-  - [Standards & Recommendations](#standards-recommendations)
+  - [Standards & Recommendations](#standards--recommendations)
   - [Test materials](#test-materials)
 - [Tools](#tools)
   - [Command Line Tools](#command-line-tools)
@@ -240,6 +240,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Colour](http://colour-science.org/) – a colour science package for Python.
 - [Comprimato](https://comprimato.com/) – commercial GPU JPEG 2000 codec.
 - [grok](https://github.com/GrokImageCompression/grok) – open-source JPEG 2000 codec - fork of OpenJPEG.
+- [IABLib](https://github.com/DTSProAudio/iab-renderer) – open-source C++ library for creating, parsing and rendering IAB essence, as specified in SMPTE ST 2098-2.
 - [itu-r-468-weighting](https://github.com/cinelexi/itu-r-468-weighting) – a zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz).
 - [Kakadu](http://kakadusoftware.com/) – commercial JPEG 2000 codec.
 - [leqm-nrt](https://github.com/lucat/leqm-nrt) – a non-real-time implementation of Leq(M) measurement according to ISO 21727.
@@ -257,11 +258,12 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Standalone
 
+- [Annotation Edit](http://www.zeitanker.com/content/tools/zeitanker_tools/zeitanker_annotation_edit/) – subtitle program (macOS only) that supports digital cinema Interop and SMPTE subtitles.
+- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php) – freeware (Windows only) program for renaming vast amounts of files.
+- [CineIA_CLI](https://github.com/izwb003/CineIA_CLI) – command-line tool for encoding IMF IAB into (Atmos compatible) DCP IAB.
 - [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) – extract DCP subtitles and save them as SRT (SubRib) file.
 - [IMFTool](https://github.com/IMFTool/IMFTool) – a tool for editing IMF CPLs and creating new versions of an existing IMF package.
-- [Annotation Edit](http://www.zeitanker.com/content/tools/zeitanker_tools/zeitanker_annotation_edit/) – subtitle program (macOS only) that supports digital cinema Interop and SMPTE subtitles.
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open-source subtitle program that supports digital cinema subtitles.
-- [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php) – freeware (Windows only) program for renaming vast amounts of files.
 
 ## Transcoding Engines
 
