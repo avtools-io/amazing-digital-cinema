@@ -39,9 +39,9 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 # Contributors to This List
 
 - [Sebastian Böhm](https://dcpmanufaktur.com/)
-- [@izwb003](https://github.com/izwb003)
 - [Mattias Iko Mattsson](https://github.com/matmat)
 - [Alexis Michaltsis](https://www.destacks.com/)
+- [Steven Song](https://github.com/izwb003)
 - [Laurence Stoll](https://www.marquise-tech.com/)
 - [Wolfgang Woehl](https://github.com/wolfgangw)
 
