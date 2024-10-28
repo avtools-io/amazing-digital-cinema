@@ -43,6 +43,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Alexis Michaltsis](https://www.destacks.com/)
 - [Steven Song](https://github.com/izwb003)
 - [Laurence Stoll](https://www.marquise-tech.com/)
+- [Julius Waltenberger](https://digital-cinema-mastering.com/)
 - [Wolfgang Woehl](https://github.com/wolfgangw)
 
 # Interest Groups
@@ -168,7 +169,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## DCP Duplication
 
-- [DCP360 : D2 DCP duplicator](https://d2.eu/digital-cinema/digital-for-post-production/dcp-duplication/) – a compact 19-inch stackable device equipped with CRU slots.
 - [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
 - [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
 - [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
@@ -265,6 +265,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) – extract DCP subtitles and save them as SRT (SubRib) file.
 - [IMFTool](https://github.com/IMFTool/IMFTool) – a tool for editing IMF CPLs and creating new versions of an existing IMF package.
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open-source subtitle program that supports digital cinema subtitles.
+- [TI Subtitle Font Compressor](https://web.archive.org/web/20140721001034/http:/www.dlp.com/cinema/technical-docs/default.aspx) – a tool to compress .ttf files to meet requirements of series 1 DLP Projectors. 
 
 ## Transcoding Engines
 
@@ -299,3 +300,4 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MCMA Project Repos](https://github.com/ebu?q=mcma) – open-source serverless architecture and media workflows in the cloud.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
 - [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – an open-source platform for enterprise workflow solutions (originated in the VFX industry).
+- [Cinestash](https://www.kdms-gmbh.com/) – cloud-based digital delivery of media files and DCPs, KDM online creation.
