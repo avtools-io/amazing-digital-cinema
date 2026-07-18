@@ -331,7 +331,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [DCIconverter, rolling release](https://github.com/fnordware/DCIconverter) – RGB to XYZ and vice versa for Adobe After Effects and Premiere (self compile).
 - [DCIconverter, v0.7, 2014](http://fnordware.blogspot.de/2013/01/dci-converter.html) – RGB to XYZ and vice versa for Adobe After Effects and Premiere.
 - [j2k, rolling release](https://github.com/fnordware/j2k) – open-source JPEG 2000 encoder plug-in for Adobe programs (self compile).
-- [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) – JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
 ## Projector, Screen & Booth Control
 
