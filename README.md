@@ -324,7 +324,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [easyDCP](https://en.easydcp.com/) – DCP/IMP mastering, player and KDM creation software for the professional market.
 - [MIST](https://www.marquise-tech.com/mist/) – DCP/IMP mastering, player and KDM creation system/software for the professional market.
 - [OpenDCP](https://www.opendcp.org/) – open-source DCP mastering software.
-- [WAILUA](https://www.cinecert.com/product/wailua/) – DCP/IMP mastering software for the professional market.
+- [WAILUA](https://cinecert.com/products/wailua-d-cinema-packaging-tools/) – DCP/IMP mastering software for the professional market.
 
 ## Plug-ins
 
