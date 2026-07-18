@@ -391,6 +391,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Timed Text & Accessibility
 
 - [BBC TTML Validator](https://github.com/bbc/ttml-validator) – open-source validator for TTML documents and professional timed-text profiles.
+- [imscHRM](https://github.com/sandflow/imscHRM) – open-source validator for IMSC Hypothetical Render Model complexity constraints.
 - [imscJS](https://github.com/sandflow/imscJS) – open-source JavaScript renderer for IMSC text and image subtitle documents.
 - [ttconv](https://github.com/sandflow/ttconv) – open-source library and CLI for converting professional subtitle formats.
 
