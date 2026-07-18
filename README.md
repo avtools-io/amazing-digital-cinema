@@ -197,6 +197,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
 - [I-Simpa](https://github.com/Ifsttar/I-Simpa) – open-source graphical platform for three-dimensional room-acoustic simulation.
 - [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
+- [Open Sound Meter](https://github.com/psmokotnin/osm) – open-source real-time audio measurement application for transfer functions, RTA, SPL and phase.
 - [pyfar](https://pyfar.org/) – open-source Python ecosystem for acoustic signal processing, spatial audio and SOFA data.
 - [pyroomacoustics](https://github.com/LCAV/pyroomacoustics) – open-source Python library for room simulation, microphone arrays and beamforming.
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) – open-source Python package for acoustic analysis, weighting and room metrics.
