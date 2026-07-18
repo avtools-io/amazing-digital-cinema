@@ -288,6 +288,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [easyDCP Player](https://www.easydcp.com/product.php?id=5&product=easydcp-player) – can play DCPs and IMPs (IMF).
 - [easyDCP Player+](https://www.easydcp.com/product.php?id=4&product=easydcp-player) – can play DCPs and IMPs (IMF) – more features than non plus version.
 - [ICE QC Player](https://www.marquise-tech.com/ice/) – can play DCPs and IMPs (IMF).
+- [mpv](https://github.com/mpv-player/mpv) – open-source, scriptable technical player and reusable playback library.
 - [NeoDCP Player](https://www.neodcp.com/features-and-prices/) – can play DCPs - has multiple software versions. Too many to list here.
 - [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) – open-source professional playback, comparison and review application for image sequences and media files.
 - [xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio) – open-source high-performance review and playback platform for post-production and VFX.
