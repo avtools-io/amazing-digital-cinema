@@ -216,6 +216,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [EAR Production Suite](https://github.com/ebu/ear-production-suite) – open-source plug-ins and tools for authoring and monitoring ADM-based audio.
 - [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) – Python reference implementation of the EBU and ITU ADM rendering specifications.
 - [EBU ADM Toolbox](https://github.com/ebu/ebu-adm-toolbox) – open-source framework and CLI for validating, repairing, converting and rendering ADM files.
+- [Google Open Binaural Renderer](https://github.com/google/obr) – open-source C++ library for binaural rendering of immersive audio.
 - [IEM Plug-in Suite](https://git.iem.at/audioplugins/IEMPluginSuite) – open-source plug-ins for Ambisonic encoding, decoding, visualization and multichannel processing.
 - [libadm](https://github.com/ebu/libadm) – open-source C++ library for creating, manipulating and serializing ADM metadata.
 - [libbw64](https://github.com/ebu/libbw64) – open-source C++ library for BW64, RF64 and ADM-compatible audio files.
