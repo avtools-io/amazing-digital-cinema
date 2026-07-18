@@ -85,7 +85,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Discussion Papers & Articles
 
 - [D-Cinema Equipment Frequently Asked Questions](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/TC_resources/D-Cinema%20FAQs%20release%20FIAF%202012%20V1.1.pdf) - Torkell Sætervadet, 2012.
-- [DCI Must Do More on HDR](http://digitalcinemareport.com/article/dci-must-do-more-hdr) – Michael Karagosian, 2019.
+- [DCI Must Do More on HDR](https://www.digitalcinemareport.com/dci-must-do-more-on-hdr/) – Michael Karagosian, 2019.
 - [Digital Cinema Technologies from the Archive's Perspective](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/TC_resources/Nowak%20-%20Digital%20Cinema%20Technologies%20v2.0%20FIAF-TC_final%20V1.1.pdf) - Arne Nowak, 2012.
 - [How Loud is a Movie?](https://isdcf.com/papers/ISDCF-Doc11-MovieLoudnessMeasurement20160315.pdf) – leq(m10), a new measurement procedure, Ioan Allen, 2016 (direct link to PDF).
 - [What’s Wrong with the DCP?](http://www.digitalcinemareport.com/article/what%E2%80%99s-wrong-dcp) – Michael Karagosian, 2015.
