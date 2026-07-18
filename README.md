@@ -209,7 +209,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) – open-source Python package for acoustic analysis, weighting and room metrics.
 - [PyTTA](https://github.com/PyTTAmaster/PyTTa) – open-source Python toolkit for electroacoustic measurements and analysis.
 - [Room EQ Wizard](https://www.roomeqwizard.com/) – free room and loudspeaker measurement software with response, distortion and decay analysis.
-- [Smaart](https://www.rationalacoustics.com/pages/smaart) – commercial real-time sound-system measurement platform for spectrum, transfer-function and SPL analysis.
+- [Smaart](https://www.rationalacoustics.com/pages/smaart-home) – commercial real-time sound-system measurement platform for spectrum, transfer-function and SPL analysis.
 - [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
 ## Automated QC
