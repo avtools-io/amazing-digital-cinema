@@ -318,7 +318,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Mastering Tools
 
 - [CLIPSTER](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) – DCP/IMP mastering, player and KDM creation system for the professional market.
-- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) – all in one solution with DCP, IMP (IMF) mastering capabilities.
 - [DCP-o-matic](https://dcpomatic.com/) – open-source DCP mastering, player and KDM creation software.
@@ -405,7 +404,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Transcoding Engines
 
-- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [PixelStrings](https://pixelstrings.com/) – framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 - [TORNADO](https://www.marquise-tech.com/tornado/) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
