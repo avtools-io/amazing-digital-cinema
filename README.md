@@ -58,12 +58,12 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [Academy of Motion Picture Arts and Sciences (AMPAS)](https://www.oscars.org/science-technology/projects) – link goes to the AMPAS science & technology projects.
 - [Academy Software Foundation (ASWF)](https://www.aswf.io/) – code, collaboration and creativity.
+- [Alliance for Open Media (AOMedia)](https://aomedia.org/) – a global alliance developing open media standards and software under royalty-free patent terms and permissive licences.
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – a joint venture by the major Hollywood studios for an open digital cinema architecture.
 - [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) – meeting forum to discuss key issues surrounding digital cinema in Europe.
 - [HPA IMF User Group](https://imfug.com/) – the forum for end-users and implementers of the IMF standard.
 - [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) – the working group for digital cinema technology, meets about once a month.
 - [MovieLabs](https://movielabs.com/) – Hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
-- [Open Services Alliance - for Media](https://aomedia.org/) – a global alliance to enable open media services.
 - [SMPTE DCP Migration Project](https://www.smptedcp.com/) – the project is pushing the transition from Interop to SMTPE DCP usage in cinemas.
 - [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) – standards body of the motion picture industry.
 - [Trailer Audio Standards Association (TASA)](http://tasatrailers.org/) – leq(m) audio standard for motion picture trailer volume.
