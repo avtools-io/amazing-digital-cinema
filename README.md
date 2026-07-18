@@ -215,6 +215,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Command Line Tools
 
+- [ASC Media Hash List](https://github.com/ascmitc/mhl) – open-source reference implementation and CLI for creating and verifying MHL manifests.
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – command-line tool for checking and probing of Digital Cinema Packages.
 - [dcp_inspect](https://github.com/wolfgangw/backports) – tool for inspection and validation of DCPs (SMPTE and Interop).
 - [Digital Cinema Tools](https://github.com/wolfgangw/digital_cinema_tools) – open-source scripts and references for digital-cinema certificates, signing and encryption.
