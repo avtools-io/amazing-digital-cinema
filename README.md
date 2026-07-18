@@ -204,6 +204,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MediaTrace](https://mediaarea.net/MediaTrace) – low-level parser exposing media-container and bitstream structures for forensic analysis.
 - [MXFInspect](https://github.com/Myriadbits/MXFInspect) – GUI and command-line inspection of MXF partitions, metadata, descriptors and essence structures.
 - [QCTools](https://github.com/bavc/qctools) – open-source audiovisual QC application with playback, graphs, filters and signal analysis.
+- [VMAF](https://github.com/Netflix/vmaf) – open-source perceptual video-quality framework for comparing source and derived image sequences.
 
 ## Cinema Audio Authoring & Mastering
 
