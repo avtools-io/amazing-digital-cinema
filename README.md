@@ -197,6 +197,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
 - [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
 - [pyfar](https://pyfar.org/) – open-source Python ecosystem for acoustic signal processing, spatial audio and SOFA data.
+- [pyroomacoustics](https://github.com/LCAV/pyroomacoustics) – open-source Python library for room simulation, microphone arrays and beamforming.
 - [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
 ## Automated QC
