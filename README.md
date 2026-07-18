@@ -150,6 +150,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
 - [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
+- [ISO 26431-1:2008](https://www.iso.org/standard/50207.html) – digital-cinema screen luminance, white-point chromaticity and luminance-uniformity requirements.
 - [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) – EBU framework for integrating multiple services and processes.
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
