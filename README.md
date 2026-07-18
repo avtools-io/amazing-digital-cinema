@@ -210,6 +210,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Cinema Audio Authoring & Mastering
 
 - [Avid Pro Tools Ultimate](https://www.avid.com/pro-tools) – commercial theatrical audio-post DAW with multichannel, object-based and Dolby workflows.
+- [Dolby Atmos Conversion Tool](https://professional.dolby.com/product/dolby-atmos-content-creation/dolby-atmos-conversion-tool/) – free GUI and CLI for converting and editing Atmos masters, Cinema MXF and IMF IAB.
 - [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
 
 ## Cinema Operations & TMS
