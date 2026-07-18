@@ -216,6 +216,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Colour, Image & Display Engineering
 
 - [ACES](https://github.com/aces-aswf/aces) – official open-source components, transforms and releases of the Academy Color Encoding System.
+- [Little CMS](https://github.com/mm2/Little-CMS) – compact open-source colour-management engine for ICC transforms and profile handling.
 - [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) – open-source colour-management framework for motion-picture, animation and VFX pipelines.
 - [OpenColorIO Configuration for ACES](https://github.com/AcademySoftwareFoundation/OpenColorIO-Config-ACES) – generated OCIO configurations for interoperable ACES colour pipelines.
 - [OpenEXR](https://github.com/AcademySoftwareFoundation/openexr) – open-source reference implementation of the professional high-dynamic-range image format.
