@@ -181,6 +181,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Cinema Test Tools](https://cinematesttools.com/dcp-tiffs/) – CJ Flynn's amazing suite of plates for _subjective measurement_
 - [ClairMeta Data](https://github.com/Ymagis/ClairMeta_Data) – various Digital Cinema essences and packages from Ymagis
 - [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – EBU materials for testing EBU Tech 3341/3342 metering
+- [ISDCF Audio Test DCP](https://www.isdcf.com/audiotest/) – DCP test material for identifying loudspeaker-channel, routing and playback-level problems.
 - [ISDCF SMPTE DCP Test Content](https://www.isdcf.com/smpte-dcp-tests/) – reference packages for testing SMPTE DCP compatibility and playback behaviour.
 
 # Tools
