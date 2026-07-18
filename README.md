@@ -200,6 +200,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Automated QC
 
+- [ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics) – open-source CLI for calculating VMAF, PSNR, SSIM and related video metrics.
 - [MediaConch](https://github.com/MediaArea/MediaConch) – open-source policy-based conformance checker and reporting system for audiovisual files.
 - [MediaTrace](https://mediaarea.net/MediaTrace) – low-level parser exposing media-container and bitstream structures for forensic analysis.
 - [MXFInspect](https://github.com/Myriadbits/MXFInspect) – GUI and command-line inspection of MXF partitions, metadata, descriptors and essence structures.
