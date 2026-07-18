@@ -92,7 +92,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Education
 
-- [Advanced Media Technology, M.Eng.](https://www.hs-rm.de/en/faculties/engineering/degree-programs/advanced-media-technology-meng/) – digital cinema lab. Program in German. RheinMain University, Germany.
+- [Advanced Media Technology, M.Eng.](https://www.hs-rm.de/en/ingenieurwissenschaften/studiengaenge/master/advanced-media-technology) – digital cinema programme at RheinMain University, being phased out from winter semester 2026/27.
 - [Creative Technologies, M.A.](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/) – computer science, movie technology and arts program. Konrad Wolf University, Germany.
 - [Media Technology, B.Eng.](https://www.hs-rm.de/de/fachbereiche/ingenieurwissenschaften/studiengaenge/medientechnik-beng/) – digital cinema lab. Program in German. RheinMain University, Germany.
 - [Motion Picture Science, B.Sc.](https://www.rit.edu/programs/motion-picture-science-bs) – Rochester Institute of Technology, USA.
