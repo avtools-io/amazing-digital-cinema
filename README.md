@@ -213,6 +213,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Cinema Operations & TMS
 
 - [Cinema Catcher](https://github.com/jamiegau/cinema-catcher-app) – free public-beta cinema-management server for DCP ingest, KDM handling, monitoring and auditing.
+- [Qube Cinema / Arts Alliance Media TMS Portfolio](https://www.qubecinema.com/products/theatre-management-system) – consolidated TMS portfolio for independent cinemas, multiplexes and circuits.
 
 ## Colour, Image & Display Engineering
 
