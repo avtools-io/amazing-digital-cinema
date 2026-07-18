@@ -316,6 +316,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Standalone Applications
 
 - [Annotation Edit](http://www.zeitanker.com/content/tools/zeitanker_tools/zeitanker_annotation_edit/) – subtitle program (macOS only) that supports digital cinema Interop and SMPTE subtitles.
+- [AVI MetaEdit](https://mediaarea.net/AVIMetaEdit) – open-source application for embedding, validating and exporting AVI and RF64 metadata.
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php) – freeware (Windows only) program for renaming vast amounts of files.
 - [BWF MetaEdit](https://github.com/MediaArea/BWFMetaEdit) – open-source application for editing and validating Broadcast Wave metadata and checksums.
 - [CineIA_CLI](https://github.com/izwb003/CineIA_CLI) – command-line tool for encoding IMF IAB into (Atmos compatible) DCP IAB.
