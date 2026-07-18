@@ -200,6 +200,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Automated QC
 
+- [MediaTrace](https://mediaarea.net/MediaTrace) – low-level parser exposing media-container and bitstream structures for forensic analysis.
 
 ## Cinema Audio Authoring & Mastering
 
