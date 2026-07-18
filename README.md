@@ -99,7 +99,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Forums
 
-- [dcinemaforum](http://dcinemaforum.com/forum/index.php) – general digital cinema forum, with a slight focus on the DCP mastering software OpenDCP.
+- [OpenDCP Forum](https://www.opendcp.org/forum/) – discussion forum for the OpenDCP mastering software.
 - [Film-Tech Digital Cinema Forum](http://www.film-tech.com/vbb/forum/main-forum) - General forum, with a focus on projection
 - [Filmvorführerforum](http://www.filmvorfuehrer.de/) - (German) General cinema tech forum
 - [DCP-o-matic User Forum](https://dcpomatic.com/forum/) – user forum of the DCP mastering software DCP-o-matic.
