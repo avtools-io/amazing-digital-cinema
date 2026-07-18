@@ -21,20 +21,28 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
   - [Media Block (Server) Serial Numbers and Certificates](#media-block-server-serial-numbers-and-certificates)
   - [News](#news)
   - [Standards & Recommendations](#standards--recommendations)
-  - [Test materials](#test-materials)
+  - [Test Materials](#test-materials)
 - [Tools](#tools)
+  - [Acoustic Measurement & Calibration](#acoustic-measurement--calibration)
+  - [Automated QC](#automated-qc)
+  - [Cinema Audio Authoring & Mastering](#cinema-audio-authoring--mastering)
+  - [Cinema Operations & TMS](#cinema-operations--tms)
+  - [Colour, Image & Display Engineering](#colour-image--display-engineering)
   - [Command Line Tools](#command-line-tools)
   - [DCP Duplication](#dcp-duplication)
-  - [File Transfer](#file-transfer)
+  - [File Transfer & Data Integrity](#file-transfer--data-integrity)
   - [Framerate Converters](#framerate-converters)
   - [KDM Tools](#kdm-tools)
-  - [Leq(m) Meters](#leqm-meters)
   - [Mastering Tools](#mastering-tools)
   - [Plug-ins](#plug-ins)
-  - [QC Player](#qc-player)
-  - [Standalone](#standalone)
+  - [Projector, Screen & Booth Control](#projector-screen--booth-control)
+  - [QC & Technical Playback](#qc--technical-playback)
+  - [Software Libraries](#software-libraries)
+  - [Standalone Applications](#standalone-applications)
+  - [Timed Text & Accessibility](#timed-text--accessibility)
   - [Transcoding Engines](#transcoding-engines)
   - [Web Apps](#web-apps)
+  - [Workflow Tools](#workflow-tools)
 
 # Contributors to This List
 
@@ -153,13 +161,34 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
 
-## Test materials
+## Test Materials
 
+- [Cinema Test Tools](https://cinematesttools.com/dcp-tiffs/) – CJ Flynn's amazing suite of plates for _subjective measurement_
 - [ClairMeta Data](https://github.com/Ymagis/ClairMeta_Data) – various Digital Cinema essences and packages from Ymagis
 - [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – EBU materials for testing EBU Tech 3341/3342 metering
-- [Cinema Test Tools](https://cinematesttools.com/dcp-tiffs/) – CJ Flynn's amazing suite of plates for _subjective measurement_
 
 # Tools
+
+## Acoustic Measurement & Calibration
+
+- [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools (includes Leq(m) meter).
+- [Dolby Media Meter 2](https://web.archive.org/web/20190713015325/https://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
+- [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
+- [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
+- [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
+- [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
+
+## Automated QC
+
+
+## Cinema Audio Authoring & Mastering
+
+
+## Cinema Operations & TMS
+
+
+## Colour, Image & Display Engineering
+
 
 ## Command Line Tools
 
@@ -169,11 +198,11 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## DCP Duplication
 
-- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
 - [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
+- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
 - [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
 
-## File Transfer
+## File Transfer & Data Integrity
 
 - [Aspera](https://asperasoft.com/) – a multitude of solutions for large, fast file transfer.
 - [Bagger](https://github.com/LibraryOfCongress/bagger) – Application to produce a package of data files according to the BagIt specification.
@@ -182,8 +211,8 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MASV](https://www.massive.io/) – fast, large file transfer in the browser, no client software needed. Pay as you go.
 - [Media Shuttle](https://www.signiant.com/products/media-shuttle/) – browser and desktop solutions for large, fast file transfer.
 - [MediaSilo](https://mediasilo.com/) – video asset management & sharing solution.
-- [Signiant](https://www.signiant.com/) – move large files with speed, reliability, and security.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
+- [Signiant](https://www.signiant.com/) – move large files with speed, reliability, and security.
 
 ## Framerate Converters
 
@@ -197,15 +226,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [easyDCP KDM Generator+](https://www.easydcp.com/product.php?id=7&product=easydcp-kdm-generator) – allows using external DKDM (Distribution-KDM) to generate KDMs.
 - [KEYMaster](https://www.marquise-tech.com/keymaster/) – online KDM creation, with cinema database. Annual subscription.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
-
-## Leq(m) Meters
-
-- [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools (includes Leq(m) meter).
-- [Dolby Media Meter 2](https://web.archive.org/web/20190713015325/https://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
-- [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
-- [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
-- [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
-- [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
 ## Mastering Tools
 
@@ -226,7 +246,10 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [j2k, rolling release](https://github.com/fnordware/j2k) – open-source JPEG 2000 encoder plug-in for Adobe programs (self compile).
 - [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) – JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
-## QC Player
+## Projector, Screen & Booth Control
+
+
+## QC & Technical Playback
 
 - [CLIPSTER Play](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) – can play DCPs and IMPs (IMF).
 - [easyDCP Player](https://www.easydcp.com/product.php?id=5&product=easydcp-player) – can play DCPs and IMPs (IMF).
@@ -257,7 +280,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) – a JavaScript library for operations with SMPTE timecodes.
 - [timecode](https://github.com/eoyilmaz/timecode) – a Python module that handles SMPTE timecode.
 
-## Standalone
+## Standalone Applications
 
 - [Annotation Edit](http://www.zeitanker.com/content/tools/zeitanker_tools/zeitanker_annotation_edit/) – subtitle program (macOS only) that supports digital cinema Interop and SMPTE subtitles.
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php) – freeware (Windows only) program for renaming vast amounts of files.
@@ -265,7 +288,10 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) – extract DCP subtitles and save them as SRT (SubRib) file.
 - [IMFTool](https://github.com/IMFTool/IMFTool) – a tool for editing IMF CPLs and creating new versions of an existing IMF package.
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open-source subtitle program that supports digital cinema subtitles.
-- [TI Subtitle Font Compressor](https://web.archive.org/web/20140721001034/http:/www.dlp.com/cinema/technical-docs/default.aspx) – a tool to compress .ttf files to meet requirements of series 1 DLP Projectors. 
+- [TI Subtitle Font Compressor](https://web.archive.org/web/20140721001034/http:/www.dlp.com/cinema/technical-docs/default.aspx) – a tool to compress .ttf files to meet requirements of series 1 DLP Projectors.
+
+## Timed Text & Accessibility
+
 
 ## Transcoding Engines
 
@@ -289,9 +315,10 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Michael Cinquin tools](http://www.michaelcinquin.com/tools) – web tools, e.g. timecode calculator, DCP-subtitle creator and DCP versioning.
 - [Online Reg-XML MXF Dump Tool](https://registry.smpte-ra.org/apps/regxmldump/view/published/) – only a few bytes are uploaded to the server.
 
-## Workflow tools
+## Workflow Tools
 
 - [CineFMS](https://github.com/4lm/fms-oss) – an open-source framework for film festival DCP workflow management, used at the Berlinale.
+- [Cinestash](https://www.kdms-gmbh.com/) – cloud-based digital delivery of media files and DCPs, KDM online creation.
 - [Cortex](https://github.com/ImageEngine/cortex) – an open-source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
 - [Frame.io](https://frame.io/) – cloud-based collaboration platform.
 - [Gaffer](https://github.com/GafferHQ/gaffer) – an open-source framework to automate processes, build production workflows and more (based on Cortex).
@@ -300,4 +327,3 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MCMA Project Repos](https://github.com/ebu?q=mcma) – open-source serverless architecture and media workflows in the cloud.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
 - [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – an open-source platform for enterprise workflow solutions (originated in the VFX industry).
-- [Cinestash](https://www.kdms-gmbh.com/) – cloud-based digital delivery of media files and DCPs, KDM online creation.
