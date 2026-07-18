@@ -12,4 +12,14 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - New categories, or improvements to the existing categorisation are welcome.
 
+## Checking links
+
+Check all links in `README.md` before submitting a pull request:
+
+```sh
+./scripts/check-links.sh
+```
+
+The checker requires `curl`. It reports restricted and rate-limited responses as warnings and exits with a non-zero status when it finds dead links.
+
 Thank you for your suggestions!
