@@ -261,6 +261,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Media Shuttle](https://www.signiant.com/products/media-shuttle/) – browser and desktop solutions for large, fast file transfer.
 - [MediaSilo](https://mediasilo.com/) – video asset management & sharing solution.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
+- [rclone](https://github.com/rclone/rclone) – open-source CLI and library for verified copying and synchronization across local and cloud storage.
 - [Signiant](https://www.signiant.com/) – move large files with speed, reliability, and security.
 
 ## Framerate Converters
