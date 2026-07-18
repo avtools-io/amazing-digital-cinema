@@ -210,6 +210,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Cinema Audio Authoring & Mastering
 
 - [Avid Pro Tools Ultimate](https://www.avid.com/pro-tools) – commercial theatrical audio-post DAW with multichannel, object-based and Dolby workflows.
+- [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
 
 ## Cinema Operations & TMS
 
