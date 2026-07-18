@@ -321,6 +321,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [BWF MetaEdit](https://github.com/MediaArea/BWFMetaEdit) – open-source application for editing and validating Broadcast Wave metadata and checksums.
 - [CineIA_CLI](https://github.com/izwb003/CineIA_CLI) – command-line tool for encoding IMF IAB into (Atmos compatible) DCP IAB.
 - [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) – extract DCP subtitles and save them as SRT (SubRib) file.
+- [embARC](https://github.com/LibraryOfCongress/embARC) – Library of Congress application for validating and editing embedded DPX and MXF metadata.
 - [IMFTool](https://github.com/IMFTool/IMFTool) – a tool for editing IMF CPLs and creating new versions of an existing IMF package.
 - [MOV MetaEdit](https://mediaarea.net/MOVMetaEdit) – open-source application for modifying selected MOV metadata without re-encoding essence.
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open-source subtitle program that supports digital cinema subtitles.
