@@ -222,6 +222,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [libbw64](https://github.com/ebu/libbw64) – open-source C++ library for BW64, RF64 and ADM-compatible audio files.
 - [libear](https://github.com/ebu/libear) – open-source C++ rendering library for channel-, object- and scene-based ADM audio.
 - [libebur128](https://github.com/jiixyj/libebur128) – open-source implementation of EBU R128 and ITU loudness measurements.
+- [libmysofa](https://github.com/hoene/libmysofa) – open-source C library for reading and querying AES SOFA spatial-audio datasets.
 - [libspatialaudio](https://github.com/videolabs/libspatialaudio) – open-source C++ library for Ambisonic, object, loudspeaker and binaural rendering.
 - [Q-SYS Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/) – DSP, routing, monitoring and control-system design environment with cinema components.
 - [SoundScape Renderer](https://github.com/SoundScapeRenderer/ssr) – open-source real-time spatial-audio framework supporting loudspeaker and binaural rendering.
