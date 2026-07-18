@@ -216,6 +216,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) – Python reference implementation of the EBU and ITU ADM rendering specifications.
 - [EBU ADM Toolbox](https://github.com/ebu/ebu-adm-toolbox) – open-source framework and CLI for validating, repairing, converting and rendering ADM files.
 - [libadm](https://github.com/ebu/libadm) – open-source C++ library for creating, manipulating and serializing ADM metadata.
+- [libbw64](https://github.com/ebu/libbw64) – open-source C++ library for BW64, RF64 and ADM-compatible audio files.
 - [Q-SYS Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/) – DSP, routing, monitoring and control-system design environment with cinema components.
 - [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
 
