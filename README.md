@@ -198,6 +198,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
 - [pyfar](https://pyfar.org/) – open-source Python ecosystem for acoustic signal processing, spatial audio and SOFA data.
 - [pyroomacoustics](https://github.com/LCAV/pyroomacoustics) – open-source Python library for room simulation, microphone arrays and beamforming.
+- [python-acoustics](https://github.com/python-acoustics/python-acoustics) – open-source Python package for acoustic analysis, weighting and room metrics.
 - [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
 ## Automated QC
