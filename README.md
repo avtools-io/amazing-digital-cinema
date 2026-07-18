@@ -295,6 +295,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – library for checking and probing of Digital Cinema Packages.
 - [Colour](http://colour-science.org/) – a colour science package for Python.
 - [Comprimato](https://comprimato.com/) – commercial GPU JPEG 2000 codec.
+- [EBU MXF SDK](https://github.com/Limecraft/ebu-mxfsdk) – open-source SDK for reading, writing and modifying EBUCore metadata in MXF files.
 - [grok](https://github.com/GrokImageCompression/grok) – open-source JPEG 2000 codec - fork of OpenJPEG.
 - [IABLib](https://github.com/DTSProAudio/iab-renderer) – open-source C++ library for creating, parsing and rendering IAB essence, as specified in SMPTE ST 2098-2.
 - [itu-r-468-weighting](https://github.com/cinelexi/itu-r-468-weighting) – a zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz).
