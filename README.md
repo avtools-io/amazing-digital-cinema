@@ -290,6 +290,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Projector, Screen & Booth Control
 
+- [Bitfocus Companion](https://github.com/bitfocus/companion) – open-source control and automation platform with PJLink and manufacturer-specific modules.
 
 ## QC & Technical Playback
 
