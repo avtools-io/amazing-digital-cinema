@@ -218,6 +218,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ACES](https://github.com/aces-aswf/aces) – official open-source components, transforms and releases of the Academy Color Encoding System.
 - [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) – open-source colour-management framework for motion-picture, animation and VFX pipelines.
 - [OpenColorIO Configuration for ACES](https://github.com/AcademySoftwareFoundation/OpenColorIO-Config-ACES) – generated OCIO configurations for interoperable ACES colour pipelines.
+- [OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) – open-source libraries and CLI tools for processing professional image formats and sequences.
 
 ## Command Line Tools
 
