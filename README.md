@@ -394,6 +394,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [CCExtractor](https://github.com/CCExtractor/ccextractor) – open-source toolkit for extracting and converting embedded captions and subtitles.
 - [imscHRM](https://github.com/sandflow/imscHRM) – open-source validator for IMSC Hypothetical Render Model complexity constraints.
 - [imscJS](https://github.com/sandflow/imscJS) – open-source JavaScript renderer for IMSC text and image subtitle documents.
+- [MovieReading](https://www.moviereading.com/) – synchronized personal-device service for cinema subtitles, audio description and sign language.
 - [ttconv](https://github.com/sandflow/ttconv) – open-source library and CLI for converting professional subtitle formats.
 
 ## Transcoding Engines
