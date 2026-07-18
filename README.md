@@ -339,7 +339,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Christie CineMaster](https://www.christiedigital.com/help-center/tools-and-calculators/) – cinema-projection calculator for throw geometry, screen size and system design.
 - [Christie Conductor](https://www.christiedigital.com/products/projector-management/conductor/) – fleet-management software for monitoring, controlling and diagnosing Christie projectors.
 - [myHarkness](https://www.harkness-screens.com/myharkness-info) – cloud tools for projection geometry, screen selection and auditorium modelling.
-- [PJLink.Client](https://www.nuget.org/packages/PJLink.Client) – .NET client library implementing PJLink Class 1 projector control and diagnostics.
+- [PJLink.Client](https://github.com/pathartl/PJLink.Client) – .NET client library implementing PJLink Class 1 projector control and diagnostics.
 
 ## QC & Technical Playback
 
