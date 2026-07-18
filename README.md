@@ -185,6 +185,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ISDCF Framing Charts](https://www.isdcf.com/smpte-dcp-tests/framing-chart/) – flat and scope charts for projector, masking and screen-alignment checks.
 - [ISDCF SMPTE DCP Test Content](https://www.isdcf.com/smpte-dcp-tests/) – reference packages for testing SMPTE DCP compatibility and playback behaviour.
 - [Netflix Open Content](https://opencontent.netflix.com/) – professional source sequences, finished assets and metadata for evaluating media workflows.
+- [W3C IMSC Test Suites](https://github.com/w3c/imsc-tests) – open conformance material for implementations of IMSC timed-text profiles.
 
 # Tools
 
