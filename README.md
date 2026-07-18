@@ -212,6 +212,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Cinema Operations & TMS
 
+- [Cinema Catcher](https://github.com/jamiegau/cinema-catcher-app) – free public-beta cinema-management server for DCP ingest, KDM handling, monitoring and auditing.
 
 ## Colour, Image & Display Engineering
 
