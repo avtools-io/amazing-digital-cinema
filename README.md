@@ -103,7 +103,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Film-Tech Digital Cinema Forum](http://www.film-tech.com/vbb/forum/main-forum) - General forum, with a focus on projection
 - [Filmvorführerforum](http://www.filmvorfuehrer.de/) - (German) General cinema tech forum
 - [DCP-o-matic User Forum](https://dcpomatic.com/forum/) – user forum of the DCP mastering software DCP-o-matic.
-- [ISDCF Online Forum](http://isdcf.com/forum/) – online forum of the professional association Inter-Society Digital Cinema Forum (ISDCF).
+- [ISDCF Discussion Group](https://www.isdcf.com/about/) – subscription details for the ISDCF discussion group and meetings.
 - [Lift Gamma Gain](http://www.liftgammagain.com/forum/index.php) – colourist forum, also with a focus on digital cinema workflows and DCP mastering.
 - [Projectioniste.net](https://www.projectionniste.net/forums/) - (French) General cinema tech forum
 
