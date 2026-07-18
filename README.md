@@ -222,6 +222,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – command-line tool for checking and probing of Digital Cinema Packages.
 - [dcp_inspect](https://github.com/wolfgangw/backports) – tool for inspection and validation of DCPs (SMPTE and Interop).
 - [Digital Cinema Tools](https://github.com/wolfgangw/digital_cinema_tools) – open-source scripts and references for digital-cinema certificates, signing and encryption.
+- [EBU BMX](https://github.com/ebu/bmx) – actively maintained EBU continuation of the [archived BBC BMX repository](https://github.com/bbc/bmx) for professional MXF media.
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) – open-source framework for processing, transcoding, analysing and automatically checking media.
 - [GPAC](https://github.com/gpac/gpac) – open-source framework for inspecting, packaging, playing and transforming timed media.
 - [IFIscripts](https://github.com/Irish-Film-Institute/IFIscripts) – scripts developed and used by the IFI Irish Film Archive.
