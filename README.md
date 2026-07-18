@@ -151,6 +151,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
 - [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
 - [ISO 26431-1:2008](https://www.iso.org/standard/50207.html) – digital-cinema screen luminance, white-point chromaticity and luminance-uniformity requirements.
+- [ISO 2969:2015](https://www.iso.org/standard/43646.html) – B-chain electroacoustic response and measurement requirements for dubbing theatres, screening rooms and cinemas.
 - [ISO 5926:2023](https://www.iso.org/standard/81846.html) – requirements and measurement methods for digital-cinema stereoscopic projection.
 - [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) – EBU framework for integrating multiple services and processes.
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
