@@ -162,7 +162,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ITU-R BS.2051](https://www.itu.int/rec/R-REC-BS.2051) – advanced sound-system loudspeaker configurations for programme production.
 - [ITU-R BS.2076](https://www.itu.int/rec/R-REC-BS.2076) – Audio Definition Model metadata for channel-, object- and scene-based audio.
 - [ITU-R BS.2127](https://www.itu.int/rec/R-REC-BS.2127) – reference renderer for advanced sound systems and ADM-based next-generation audio.
-- [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) – EBU framework for integrating multiple services and processes.
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
