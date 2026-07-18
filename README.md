@@ -304,7 +304,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Framerate Converters
 
-- [Alchemist File](https://www.grassvalley.com/products/alchemist_file/) – framerate converter.
+- [Alchemist File](https://www.grassvalley.com/products/standalone-processing/file-conversion/) – framerate converter.
 - [PixelStrings](https://pixelstrings.com/) – framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 - [Tachyon](https://cinnafilm.com/product/tachyon/) – framerate conversions, standards conversions, reverse telecine and frame rate normalization.
 
