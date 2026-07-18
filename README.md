@@ -158,6 +158,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ISO 2969:2015](https://www.iso.org/standard/43646.html) – B-chain electroacoustic response and measurement requirements for dubbing theatres, screening rooms and cinemas.
 - [ISO 5926:2023](https://www.iso.org/standard/81846.html) – requirements and measurement methods for digital-cinema stereoscopic projection.
 - [ISO 9568:1993](https://www.iso.org/standard/17314.html) – methods and limits for background acoustic noise in cinemas, review rooms and dubbing rooms.
+- [ITU-R BS.2051](https://www.itu.int/rec/R-REC-BS.2051) – advanced sound-system loudspeaker configurations for programme production.
 - [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) – EBU framework for integrating multiple services and processes.
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
