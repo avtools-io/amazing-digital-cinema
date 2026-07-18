@@ -136,7 +136,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Celluloid Junkie](https://celluloidjunkie.com/) – news resource dedicated to the global film and cinema business.
 - [Cinema Tech Today](http://www.cinematech.today/) - Online edition of the Cinema Technology Magazine
 - [CineTechGeek](https://www.cinetechgeek.com/) – James Gardiner's video blog about digital cinema technology.
-- [DCinema Today](https://www.dcinematoday.com/) – industry-sponsored press release site about digital cinema technology.
 - [Digital Cinema Report](http://digitalcinemareport.com/) – news, perspective and analysis on the digital cinema industry.
 - [mkpeReport](https://mkpereport.com/) – news, perspective and analysis on digital cinema technology.
 
