@@ -221,6 +221,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [dcp_inspect](https://github.com/wolfgangw/backports) – tool for inspection and validation of DCPs (SMPTE and Interop).
 - [Digital Cinema Tools](https://github.com/wolfgangw/digital_cinema_tools) – open-source scripts and references for digital-cinema certificates, signing and encryption.
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) – open-source framework for processing, transcoding, analysing and automatically checking media.
+- [GPAC](https://github.com/gpac/gpac) – open-source framework for inspecting, packaging, playing and transforming timed media.
 - [IFIscripts](https://github.com/Irish-Film-Institute/IFIscripts) – scripts developed and used by the IFI Irish Film Archive.
 - [MediaInfo](https://github.com/MediaArea/MediaInfo) – open-source application, CLI and library for extracting audiovisual metadata.
 
