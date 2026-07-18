@@ -181,6 +181,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Big Buck Bunny — lossless digital source masters](https://media.xiph.org/BBB/) – complete 1080p PNG image sequence with stereo and 5.1-channel FLAC audio masters; the download repository also contains stereoscopic PNG and OpenEXR material.
 - [Cinema Test Tools](https://cinematesttools.com/dcp-tiffs/) – CJ Flynn's amazing suite of plates for _subjective measurement_
 - [ClairMeta Data](https://github.com/Ymagis/ClairMeta_Data) – various Digital Cinema essences and packages from Ymagis
+- [Cosmos Laundromat — HDR digital source masters](https://media.xiph.org/cosmoslaundromat/) – complete 2K HDR image sequences, including a P3/PQ OpenEXR master and P2/PQ PNG version, together with the final stereo FLAC audio master.
 - [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – EBU materials for testing EBU Tech 3341/3342 metering
 - [Elephants Dream — lossless digital source masters](https://media.xiph.org/ED/) – complete 1080p PNG image sequence with stereo and discrete or interleaved 5.1-channel FLAC audio masters.
 - [ISDCF Audio Test DCP](https://www.isdcf.com/audiotest/) – DCP test material for identifying loudspeaker-channel, routing and playback-level problems.
