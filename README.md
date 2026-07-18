@@ -21,20 +21,28 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
   - [Media Block (Server) Serial Numbers and Certificates](#media-block-server-serial-numbers-and-certificates)
   - [News](#news)
   - [Standards & Recommendations](#standards--recommendations)
-  - [Test materials](#test-materials)
+  - [Test Materials](#test-materials)
 - [Tools](#tools)
+  - [Acoustic Measurement & Calibration](#acoustic-measurement--calibration)
+  - [Automated QC](#automated-qc)
+  - [Cinema Audio Authoring & Mastering](#cinema-audio-authoring--mastering)
+  - [Cinema Operations & TMS](#cinema-operations--tms)
+  - [Colour, Image & Display Engineering](#colour-image--display-engineering)
   - [Command Line Tools](#command-line-tools)
   - [DCP Duplication](#dcp-duplication)
-  - [File Transfer](#file-transfer)
+  - [File Transfer & Data Integrity](#file-transfer--data-integrity)
   - [Framerate Converters](#framerate-converters)
   - [KDM Tools](#kdm-tools)
-  - [Leq(m) Meters](#leqm-meters)
   - [Mastering Tools](#mastering-tools)
   - [Plug-ins](#plug-ins)
-  - [QC Player](#qc-player)
-  - [Standalone](#standalone)
+  - [Projector, Screen & Booth Control](#projector-screen--booth-control)
+  - [QC & Technical Playback](#qc--technical-playback)
+  - [Software Libraries](#software-libraries)
+  - [Standalone Applications](#standalone-applications)
+  - [Timed Text & Accessibility](#timed-text--accessibility)
   - [Transcoding Engines](#transcoding-engines)
   - [Web Apps](#web-apps)
+  - [Workflow Tools](#workflow-tools)
 
 # Contributors to This List
 
@@ -50,12 +58,13 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [Academy of Motion Picture Arts and Sciences (AMPAS)](https://www.oscars.org/science-technology/projects) – link goes to the AMPAS science & technology projects.
 - [Academy Software Foundation (ASWF)](https://www.aswf.io/) – code, collaboration and creativity.
+- [Alliance for Open Media (AOMedia)](https://aomedia.org/) – a global alliance developing open media standards and software under royalty-free patent terms and permissive licences.
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – a joint venture by the major Hollywood studios for an open digital cinema architecture.
 - [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) – meeting forum to discuss key issues surrounding digital cinema in Europe.
 - [HPA IMF User Group](https://imfug.com/) – the forum for end-users and implementers of the IMF standard.
 - [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) – the working group for digital cinema technology, meets about once a month.
 - [MovieLabs](https://movielabs.com/) – Hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
-- [Open Services Alliance - for Media](https://openservicesalliance.com/) – a global alliance to enable open media services.
+- [Open Services Alliance for Media (OSA)](https://openservicesalliance.com/) – industry organization standardizing and streamlining cloud-based media workflows.
 - [SMPTE DCP Migration Project](https://www.smptedcp.com/) – the project is pushing the transition from Interop to SMTPE DCP usage in cinemas.
 - [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) – standards body of the motion picture industry.
 - [Trailer Audio Standards Association (TASA)](http://tasatrailers.org/) – leq(m) audio standard for motion picture trailer volume.
@@ -142,48 +151,156 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
 - [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
+- [ISO 21727:2016](https://www.iso.org/standard/69744.html) – Leq(M)-based loudness measurement for short motion-picture content such as trailers and advertisements.
+- [ISO 22234:2005](https://www.iso.org/standard/40957.html) – measurement methods and reference sound-pressure levels for motion-picture multichannel sound systems.
+- [ISO 26428-2:2008](https://www.iso.org/standard/50218.html) – D-cinema distribution-master audio characteristics, including channel count and reference levels.
+- [ISO 26431-1:2008](https://www.iso.org/standard/50207.html) – digital-cinema screen luminance, white-point chromaticity and luminance-uniformity requirements.
+- [ISO 26432-2:2008](https://www.iso.org/standard/50208.html) – playback and monitoring response for the digital-cinema low-frequency-effects channel.
+- [ISO 2969:2015](https://www.iso.org/standard/43646.html) – B-chain electroacoustic response and measurement requirements for dubbing theatres, screening rooms and cinemas.
+- [ISO 5926:2023](https://www.iso.org/standard/81846.html) – requirements and measurement methods for digital-cinema stereoscopic projection.
+- [ISO 9568:1993](https://www.iso.org/standard/17314.html) – methods and limits for background acoustic noise in cinemas, review rooms and dubbing rooms.
+- [ITU-R BS.2051](https://www.itu.int/rec/R-REC-BS.2051) – advanced sound-system loudspeaker configurations for programme production.
+- [ITU-R BS.2076](https://www.itu.int/rec/R-REC-BS.2076) – Audio Definition Model metadata for channel-, object- and scene-based audio.
+- [ITU-R BS.2127](https://www.itu.int/rec/R-REC-BS.2127) – reference renderer for advanced sound systems and ADM-based next-generation audio.
 - [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) – EBU framework for integrating multiple services and processes.
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
+- [PJLink](https://pjlink.jbmia.or.jp/english/) – vendor-neutral network-control standard for projectors and professional displays, covering power, inputs, status, errors and device information.
 - [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
 - [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems.
+- [SMPTE RDD 57](https://pub.smpte.org/latest/rdd57/) – IAB Application Profile 1 constraints for interoperable immersive-audio delivery in digital cinema.
+- [SMPTE RP 431-2](https://www.smpte.org/standards/document-index/RP) – reference-projector and reference-environment recommendations for evaluating digital-cinema presentation.
+- [SMPTE ST 2098-2](https://pub.smpte.org/latest/st2098-2/) – bitstream specification for Immersive Audio Bitstream essence.
 - [SMPTE ST 2125, Public Committee Draft](https://github.com/SMPTE/st2125) – IMF registration service API.
 - [SMPTE ST 2126, Public Committee Draft](https://github.com/SMPTE/st2126) – microservice status reporting and logging.
 - [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
 
-## Test materials
+## Test Materials
 
-- [ClairMeta Data](https://github.com/Ymagis/ClairMeta_Data) – various Digital Cinema essences and packages from Ymagis
-- [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – EBU materials for testing EBU Tech 3341/3342 metering
+- [Big Buck Bunny — lossless digital source masters](https://media.xiph.org/BBB/) – complete 1080p PNG image sequence with stereo and 5.1-channel FLAC audio masters; the download repository also contains stereoscopic PNG and OpenEXR material.
 - [Cinema Test Tools](https://cinematesttools.com/dcp-tiffs/) – CJ Flynn's amazing suite of plates for _subjective measurement_
+- [ClairMeta Data](https://github.com/Ymagis/ClairMeta_Data) – various Digital Cinema essences and packages from Ymagis
+- [Cosmos Laundromat — HDR digital source masters](https://media.xiph.org/cosmoslaundromat/) – complete 2K HDR image sequences, including a P3/PQ OpenEXR master and P2/PQ PNG version, together with the final stereo FLAC audio master.
+- [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – EBU materials for testing EBU Tech 3341/3342 metering
+- [Elephants Dream — lossless digital source masters](https://media.xiph.org/ED/) – complete 1080p PNG image sequence with stereo and discrete or interleaved 5.1-channel FLAC audio masters.
+- [ISDCF Audio Test DCP](https://www.isdcf.com/audiotest/) – DCP test material for identifying loudspeaker-channel, routing and playback-level problems.
+- [ISDCF Framing Charts](https://www.isdcf.com/smpte-dcp-tests/framing-chart/) – flat and scope charts for projector, masking and screen-alignment checks.
+- [ISDCF SMPTE DCP Test Content](https://www.isdcf.com/smpte-dcp-tests/) – reference packages for testing SMPTE DCP compatibility and playback behaviour.
+- [Netflix Open Content](https://opencontent.netflix.com/) – professional source sequences, finished assets and metadata for evaluating media workflows.
+- [Sintel — lossless digital source masters](https://media.xiph.org/sintel/) – complete 2K and 4K image sequences, including 4K 16-bit PNG and TIFF versions, with stereo, music-and-effects and 5.1-channel FLAC or WAV audio masters.
+- [Tears of Steel — digital source and distribution masters](https://media.xiph.org/tearsofsteel/) – complete 1080p PNG and 4K 16-bit TIFF image sequences, final OpenEXR frames organized by scene, stereo and discrete or interleaved 5.1-channel audio masters, and a downloadable 4K DCP.
+- [W3C IMSC Test Suites](https://github.com/w3c/imsc-tests) – open conformance material for implementations of IMSC timed-text profiles.
 
 # Tools
 
+## Acoustic Measurement & Calibration
+
+- [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools (includes Leq(m) meter).
+- [Dolby Media Meter 2](https://web.archive.org/web/20190713015325/https://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
+- [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
+- [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
+- [EASE 5](https://www.afmg.eu/en/ease) – commercial electroacoustic simulation software for coverage, intelligibility, reflections and auralization.
+- [I-Simpa](https://github.com/Ifsttar/I-Simpa) – open-source graphical platform for three-dimensional room-acoustic simulation.
+- [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
+- [Open Sound Meter](https://github.com/psmokotnin/osm) – open-source real-time audio measurement application for transfer functions, RTA, SPL and phase.
+- [pyfar](https://pyfar.org/) – open-source Python ecosystem for acoustic signal processing, spatial audio and SOFA data.
+- [pyroomacoustics](https://github.com/LCAV/pyroomacoustics) – open-source Python library for room simulation, microphone arrays and beamforming.
+- [python-acoustics](https://github.com/python-acoustics/python-acoustics) – open-source Python package for acoustic analysis, weighting and room metrics.
+- [PyTTA](https://github.com/PyTTAmaster/PyTTa) – open-source Python toolkit for electroacoustic measurements and analysis.
+- [Room EQ Wizard](https://www.roomeqwizard.com/) – free room and loudspeaker measurement software with response, distortion and decay analysis.
+- [Smaart](https://www.rationalacoustics.com/pages/smaart) – commercial real-time sound-system measurement platform for spectrum, transfer-function and SPL analysis.
+- [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
+
+## Automated QC
+
+- [ffmpeg-quality-metrics](https://github.com/slhck/ffmpeg-quality-metrics) – open-source CLI for calculating VMAF, PSNR, SSIM and related video metrics.
+- [MediaConch](https://github.com/MediaArea/MediaConch) – open-source policy-based conformance checker and reporting system for audiovisual files.
+- [MediaTrace](https://mediaarea.net/MediaTrace) – low-level parser exposing media-container and bitstream structures for forensic analysis.
+- [MXFInspect](https://github.com/Myriadbits/MXFInspect) – GUI and command-line inspection of MXF partitions, metadata, descriptors and essence structures.
+- [QCTools](https://github.com/bavc/qctools) – open-source audiovisual QC application with playback, graphs, filters and signal analysis.
+- [VMAF](https://github.com/Netflix/vmaf) – open-source perceptual video-quality framework for comparing source and derived image sequences.
+
+## Cinema Audio Authoring & Mastering
+
+- [Avid Pro Tools Ultimate](https://www.avid.com/pro-tools) – commercial theatrical audio-post DAW with multichannel, object-based and Dolby workflows.
+- [Binaural NGA Renderer](https://github.com/IRT-Open-Source/binaural_nga_renderer) – open-source renderer for converting ADM/BW64 content to binaural audio.
+- [Dolby Atmos Conversion Tool](https://professional.dolby.com/product/dolby-atmos-content-creation/dolby-atmos-conversion-tool/) – free GUI and CLI for converting and editing Atmos masters, Cinema MXF and IMF IAB.
+- [Dolby Atmos Designer](https://professional.dolby.com/product/dolby-audio-solutions-for-movie-theaters/cp950a/) – cinema-auditorium setup and calibration software for supported Dolby systems.
+- [EAR Production Suite](https://github.com/ebu/ear-production-suite) – open-source plug-ins and tools for authoring and monitoring ADM-based audio.
+- [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) – Python reference implementation of the EBU and ITU ADM rendering specifications.
+- [EBU ADM Toolbox](https://github.com/ebu/ebu-adm-toolbox) – open-source framework and CLI for validating, repairing, converting and rendering ADM files.
+- [Google Open Binaural Renderer](https://github.com/google/obr) – open-source C++ library for binaural rendering of immersive audio.
+- [IEM Plug-in Suite](https://git.iem.at/audioplugins/IEMPluginSuite) – open-source plug-ins for Ambisonic encoding, decoding, visualization and multichannel processing.
+- [libadm](https://github.com/ebu/libadm) – open-source C++ library for creating, manipulating and serializing ADM metadata.
+- [libbw64](https://github.com/ebu/libbw64) – open-source C++ library for BW64, RF64 and ADM-compatible audio files.
+- [libear](https://github.com/ebu/libear) – open-source C++ rendering library for channel-, object- and scene-based ADM audio.
+- [libebur128](https://github.com/jiixyj/libebur128) – open-source implementation of EBU R128 and ITU loudness measurements.
+- [libmysofa](https://github.com/hoene/libmysofa) – open-source C library for reading and querying AES SOFA spatial-audio datasets.
+- [libspatialaudio](https://github.com/videolabs/libspatialaudio) – open-source C++ library for Ambisonic, object, loudspeaker and binaural rendering.
+- [Q-SYS Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/) – DSP, routing, monitoring and control-system design environment with cinema components.
+- [SoundScape Renderer](https://github.com/SoundScapeRenderer/ssr) – open-source real-time spatial-audio framework supporting loudspeaker and binaural rendering.
+- [SPARTA](https://github.com/leomccormack/SPARTA) – open-source spatial-audio plug-ins for panning, Ambisonics, analysis and rendering.
+- [Spatial Audio Framework](https://github.com/leomccormack/Spatial_Audio_Framework) – open-source C framework for Ambisonics, beamforming and spatial-audio processing.
+- [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
+- [TASCAR](https://github.com/gisogrimm/tascar) – open-source framework for creating and rendering interactive spatial-audio scenes.
+- [Virtual Acoustics](https://git.rwth-aachen.de/ita/VA) – open-source real-time auralization framework for virtual acoustic environments.
+
+## Cinema Operations & TMS
+
+- [CIELO Cinema](https://cielocinema.com/) – TMS-independent cinema-operations and NOC platform for monitoring, maintenance and support.
+- [Cinema Catcher](https://github.com/jamiegau/cinema-catcher-app) – free public-beta cinema-management server for DCP ingest, KDM handling, monitoring and auditing.
+- [GDC Cinema Enterprise Software](https://www.gdc-tech.com/cinema-solutions/cinema-enterprise-software/) – integrated TMS, central-management and NOC software for cinema circuits.
+- [OneCinema](https://onecinema.de/en/) – cloud-first platform for playlists, pre-shows, monitoring, signage and building automation.
+- [Qube Cinema / Arts Alliance Media TMS Portfolio](https://www.qubecinema.com/products/theatre-management-system) – consolidated TMS portfolio for independent cinemas, multiplexes and circuits.
+- [Unique X Rosetta Cinema Operations Suite](https://uniquex.com/exhibitor-services/) – theatre management, circuit scheduling, KDM handling, monitoring and support platform.
+
+## Colour, Image & Display Engineering
+
+- [ACES](https://github.com/aces-aswf/aces) – official open-source components, transforms and releases of the Academy Color Encoding System.
+- [ArgyllCMS](https://www.argyllcms.com/) – open-source command-line colour-management and device-calibration system.
+- [ColourSpace](https://www.lightillusion.com/colourspace.html) – commercial display-calibration, profiling, LUT-generation and colour-verification platform.
+- [DisplayCAL](https://github.com/eoyilmaz/displaycal-py3) – open-source display calibration and profiling interface built around ArgyllCMS.
+- [Little CMS](https://github.com/mm2/Little-CMS) – compact open-source colour-management engine for ICC transforms and profile handling.
+- [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) – open-source colour-management framework for motion-picture, animation and VFX pipelines.
+- [OpenColorIO Configuration for ACES](https://github.com/AcademySoftwareFoundation/OpenColorIO-Config-ACES) – generated OCIO configurations for interoperable ACES colour pipelines.
+- [OpenEXR](https://github.com/AcademySoftwareFoundation/openexr) – open-source reference implementation of the professional high-dynamic-range image format.
+- [OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) – open-source libraries and CLI tools for processing professional image formats and sequences.
+- [OpenJPH](https://github.com/aous72/OpenJPH) – open-source High-Throughput JPEG 2000 implementation for emerging IMF and preservation workflows.
+
 ## Command Line Tools
 
+- [ASC Media Hash List](https://github.com/ascmitc/mhl) – open-source reference implementation and CLI for creating and verifying MHL manifests.
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – command-line tool for checking and probing of Digital Cinema Packages.
 - [dcp_inspect](https://github.com/wolfgangw/backports) – tool for inspection and validation of DCPs (SMPTE and Interop).
+- [Digital Cinema Tools](https://github.com/wolfgangw/digital_cinema_tools) – open-source scripts and references for digital-cinema certificates, signing and encryption.
+- [EBU BMX](https://github.com/ebu/bmx) – actively maintained EBU continuation of the [archived BBC BMX repository](https://github.com/bbc/bmx) for professional MXF media.
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) – open-source framework for processing, transcoding, analysing and automatically checking media.
+- [GPAC](https://github.com/gpac/gpac) – open-source framework for inspecting, packaging, playing and transforming timed media.
 - [IFIscripts](https://github.com/Irish-Film-Institute/IFIscripts) – scripts developed and used by the IFI Irish Film Archive.
+- [MediaInfo](https://github.com/MediaArea/MediaInfo) – open-source application, CLI and library for extracting audiovisual metadata.
 
 ## DCP Duplication
 
-- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
 - [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
+- [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
 - [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
 
-## File Transfer
+## File Transfer & Data Integrity
 
 - [Aspera](https://asperasoft.com/) – a multitude of solutions for large, fast file transfer.
 - [Bagger](https://github.com/LibraryOfCongress/bagger) – Application to produce a package of data files according to the BagIt specification.
 - [bagit-python](https://github.com/LibraryOfCongress/bagit-python) – a Python library and command-line utility for working with BagIt style packages.
+- [CineSend Files](https://www.cinesend.com/products/files) – commercial cloud service for collecting, reviewing, sharing and delivering professional media and DCP folders.
 - [Filemail](https://www.filemail.com/) – fast, large file transfer via app, browser, FTP or Torrent
 - [MASV](https://www.massive.io/) – fast, large file transfer in the browser, no client software needed. Pay as you go.
 - [Media Shuttle](https://www.signiant.com/products/media-shuttle/) – browser and desktop solutions for large, fast file transfer.
 - [MediaSilo](https://mediasilo.com/) – video asset management & sharing solution.
-- [Signiant](https://www.signiant.com/) – move large files with speed, reliability, and security.
+- [OffShoot](https://hedge.co/products/offshoot) – commercial verified-offload application with checksums, transfer logs and ASC MHL support.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
+- [rclone](https://github.com/rclone/rclone) – open-source CLI and library for verified copying and synchronization across local and cloud storage.
+- [Signiant](https://www.signiant.com/) – move large files with speed, reliability, and security.
 
 ## Framerate Converters
 
@@ -197,15 +314,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [easyDCP KDM Generator+](https://www.easydcp.com/product.php?id=7&product=easydcp-kdm-generator) – allows using external DKDM (Distribution-KDM) to generate KDMs.
 - [KEYMaster](https://www.marquise-tech.com/keymaster/) – online KDM creation, with cinema database. Annual subscription.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
-
-## Leq(m) Meters
-
-- [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools (includes Leq(m) meter).
-- [Dolby Media Meter 2](https://web.archive.org/web/20190713015325/https://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
-- [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
-- [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
-- [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
-- [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
 ## Mastering Tools
 
@@ -226,13 +334,27 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [j2k, rolling release](https://github.com/fnordware/j2k) – open-source JPEG 2000 encoder plug-in for Adobe programs (self compile).
 - [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) – JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
-## QC Player
+## Projector, Screen & Booth Control
+
+- [Barco Web Commander](https://www.barco.com/en/product/barco-web-commander) and [Communicator](https://www.barco.com/en/product/communicator-software) – cinema screen-operation, scheduling, configuration and diagnostic software.
+- [Bitfocus Companion](https://github.com/bitfocus/companion) – open-source control and automation platform with PJLink and manufacturer-specific modules.
+- [Christie CineMaster](https://www.christiedigital.com/help-center/tools-and-calculators/) – cinema-projection calculator for throw geometry, screen size and system design.
+- [Christie Conductor](https://www.christiedigital.com/products/projector-management/conductor/) – fleet-management software for monitoring, controlling and diagnosing Christie projectors.
+- [myHarkness](https://www.harkness-screens.com/myharkness-info) – cloud tools for projection geometry, screen selection and auditorium modelling.
+- [PJLink.Client](https://www.nuget.org/packages/PJLink.Client) – .NET client library implementing PJLink Class 1 projector control and diagnostics.
+
+## QC & Technical Playback
 
 - [CLIPSTER Play](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) – can play DCPs and IMPs (IMF).
+- [DJV](https://github.com/darbyjohnston/DJV) – open-source professional player for high-resolution image sequences and movie files.
 - [easyDCP Player](https://www.easydcp.com/product.php?id=5&product=easydcp-player) – can play DCPs and IMPs (IMF).
 - [easyDCP Player+](https://www.easydcp.com/product.php?id=4&product=easydcp-player) – can play DCPs and IMPs (IMF) – more features than non plus version.
 - [ICE QC Player](https://www.marquise-tech.com/ice/) – can play DCPs and IMPs (IMF).
+- [mpv](https://github.com/mpv-player/mpv) – open-source, scriptable technical player and reusable playback library.
 - [NeoDCP Player](https://www.neodcp.com/features-and-prices/) – can play DCPs - has multiple software versions. Too many to list here.
+- [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) – open-source professional playback, comparison and review application for image sequences and media files.
+- [xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio) – open-source high-performance review and playback platform for post-production and VFX.
+- [YUView](https://github.com/IENT/YUView) – open-source raw-video and YUV inspector with comparison and codec-analysis functions.
 
 ## Software Libraries
 
@@ -240,6 +362,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ClairMeta](https://github.com/Ymagis/ClairMeta) – library for checking and probing of Digital Cinema Packages.
 - [Colour](http://colour-science.org/) – a colour science package for Python.
 - [Comprimato](https://comprimato.com/) – commercial GPU JPEG 2000 codec.
+- [EBU MXF SDK](https://github.com/Limecraft/ebu-mxfsdk) – open-source SDK for reading, writing and modifying EBUCore metadata in MXF files.
 - [grok](https://github.com/GrokImageCompression/grok) – open-source JPEG 2000 codec - fork of OpenJPEG.
 - [IABLib](https://github.com/DTSProAudio/iab-renderer) – open-source C++ library for creating, parsing and rendering IAB essence, as specified in SMPTE ST 2098-2.
 - [itu-r-468-weighting](https://github.com/cinelexi/itu-r-468-weighting) – a zero dependency Python ITU-R 468 noise weighting filter (1 kHz and 2 kHz).
@@ -257,15 +380,28 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [smpte-timecode](https://github.com/CrystalComputerCorp/smpte-timecode) – a JavaScript library for operations with SMPTE timecodes.
 - [timecode](https://github.com/eoyilmaz/timecode) – a Python module that handles SMPTE timecode.
 
-## Standalone
+## Standalone Applications
 
 - [Annotation Edit](http://www.zeitanker.com/content/tools/zeitanker_tools/zeitanker_annotation_edit/) – subtitle program (macOS only) that supports digital cinema Interop and SMPTE subtitles.
+- [AVI MetaEdit](https://mediaarea.net/AVIMetaEdit) – open-source application for embedding, validating and exporting AVI and RF64 metadata.
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Main_Intro.php) – freeware (Windows only) program for renaming vast amounts of files.
+- [BWF MetaEdit](https://github.com/MediaArea/BWFMetaEdit) – open-source application for editing and validating Broadcast Wave metadata and checksums.
 - [CineIA_CLI](https://github.com/izwb003/CineIA_CLI) – command-line tool for encoding IMF IAB into (Atmos compatible) DCP IAB.
 - [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) – extract DCP subtitles and save them as SRT (SubRib) file.
+- [embARC](https://github.com/LibraryOfCongress/embARC) – Library of Congress application for validating and editing embedded DPX and MXF metadata.
 - [IMFTool](https://github.com/IMFTool/IMFTool) – a tool for editing IMF CPLs and creating new versions of an existing IMF package.
+- [MOV MetaEdit](https://mediaarea.net/MOVMetaEdit) – open-source application for modifying selected MOV metadata without re-encoding essence.
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open-source subtitle program that supports digital cinema subtitles.
-- [TI Subtitle Font Compressor](https://web.archive.org/web/20140721001034/http:/www.dlp.com/cinema/technical-docs/default.aspx) – a tool to compress .ttf files to meet requirements of series 1 DLP Projectors. 
+- [TI Subtitle Font Compressor](https://web.archive.org/web/20140721001034/http:/www.dlp.com/cinema/technical-docs/default.aspx) – a tool to compress .ttf files to meet requirements of series 1 DLP Projectors.
+
+## Timed Text & Accessibility
+
+- [BBC TTML Validator](https://github.com/bbc/ttml-validator) – open-source validator for TTML documents and professional timed-text profiles.
+- [CCExtractor](https://github.com/CCExtractor/ccextractor) – open-source toolkit for extracting and converting embedded captions and subtitles.
+- [imscHRM](https://github.com/sandflow/imscHRM) – open-source validator for IMSC Hypothetical Render Model complexity constraints.
+- [imscJS](https://github.com/sandflow/imscJS) – open-source JavaScript renderer for IMSC text and image subtitle documents.
+- [MovieReading](https://www.moviereading.com/) – synchronized personal-device service for cinema subtitles, audio description and sign language.
+- [ttconv](https://github.com/sandflow/ttconv) – open-source library and CLI for converting professional subtitle formats.
 
 ## Transcoding Engines
 
@@ -289,9 +425,10 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Michael Cinquin tools](http://www.michaelcinquin.com/tools) – web tools, e.g. timecode calculator, DCP-subtitle creator and DCP versioning.
 - [Online Reg-XML MXF Dump Tool](https://registry.smpte-ra.org/apps/regxmldump/view/published/) – only a few bytes are uploaded to the server.
 
-## Workflow tools
+## Workflow Tools
 
 - [CineFMS](https://github.com/4lm/fms-oss) – an open-source framework for film festival DCP workflow management, used at the Berlinale.
+- [Cinestash](https://www.kdms-gmbh.com/) – cloud-based digital delivery of media files and DCPs, KDM online creation.
 - [Cortex](https://github.com/ImageEngine/cortex) – an open-source framework for computation, rendering, and file I/O (not the same as MTI's CORTEX).
 - [Frame.io](https://frame.io/) – cloud-based collaboration platform.
 - [Gaffer](https://github.com/GafferHQ/gaffer) – an open-source framework to automate processes, build production workflows and more (based on Cortex).
@@ -300,4 +437,3 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MCMA Project Repos](https://github.com/ebu?q=mcma) – open-source serverless architecture and media workflows in the cloud.
 - [Mistika Workflows](https://www.sgo.es/mistika-workflows/) – standard & user-defined media workflows.
 - [TACTIC](https://github.com/Southpaw-TACTIC/TACTIC) – an open-source platform for enterprise workflow solutions (originated in the VFX industry).
-- [Cinestash](https://www.kdms-gmbh.com/) – cloud-based digital delivery of media files and DCPs, KDM online creation.
