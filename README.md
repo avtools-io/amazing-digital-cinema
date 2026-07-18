@@ -218,6 +218,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [libadm](https://github.com/ebu/libadm) – open-source C++ library for creating, manipulating and serializing ADM metadata.
 - [libbw64](https://github.com/ebu/libbw64) – open-source C++ library for BW64, RF64 and ADM-compatible audio files.
 - [libear](https://github.com/ebu/libear) – open-source C++ rendering library for channel-, object- and scene-based ADM audio.
+- [libebur128](https://github.com/jiixyj/libebur128) – open-source implementation of EBU R128 and ITU loudness measurements.
 - [Q-SYS Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/) – DSP, routing, monitoring and control-system design environment with cinema components.
 - [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
 
