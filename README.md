@@ -260,6 +260,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MASV](https://www.massive.io/) – fast, large file transfer in the browser, no client software needed. Pay as you go.
 - [Media Shuttle](https://www.signiant.com/products/media-shuttle/) – browser and desktop solutions for large, fast file transfer.
 - [MediaSilo](https://mediasilo.com/) – video asset management & sharing solution.
+- [OffShoot](https://hedge.co/products/offshoot) – commercial verified-offload application with checksums, transfer logs and ASC MHL support.
 - [Qube Wire](https://www.qubewire.com/) – deliver DCPs and KDMs to cinemas worldwide.
 - [rclone](https://github.com/rclone/rclone) – open-source CLI and library for verified copying and synchronization across local and cloud storage.
 - [Signiant](https://www.signiant.com/) – move large files with speed, reliability, and security.
