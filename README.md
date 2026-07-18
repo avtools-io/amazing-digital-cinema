@@ -150,6 +150,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [EBU Tech Publications](https://tech.ebu.ch/publications) – recommendations and guidelines of the European Broadcasting Union.
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
+- [ISDCF SMPTE and Other Standards](https://www.isdcf.com/smptestandards/) – active SMPTE Digital Cinema Package standards.
 - [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
 - [ISO 21727:2016](https://www.iso.org/standard/69744.html) – Leq(M)-based loudness measurement for short motion-picture content such as trailers and advertisements.
 - [ISO 22234:2005](https://www.iso.org/standard/40957.html) – measurement methods and reference sound-pressure levels for motion-picture multichannel sound systems.
@@ -174,7 +175,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [SMPTE ST 2098-2](https://pub.smpte.org/latest/st2098-2/) – bitstream specification for Immersive Audio Bitstream essence.
 - [SMPTE ST 2125, Public Committee Draft](https://github.com/SMPTE/st2125) – IMF registration service API.
 - [SMPTE ST 2126, Public Committee Draft](https://github.com/SMPTE/st2126) – microservice status reporting and logging.
-- [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
 
 ## Test Materials
