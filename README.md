@@ -200,6 +200,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Automated QC
 
+- [MediaConch](https://github.com/MediaArea/MediaConch) – open-source policy-based conformance checker and reporting system for audiovisual files.
 - [MediaTrace](https://mediaarea.net/MediaTrace) – low-level parser exposing media-container and bitstream structures for forensic analysis.
 
 ## Cinema Audio Authoring & Mastering
