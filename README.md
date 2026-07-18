@@ -129,7 +129,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Media Block (Server) Serial Numbers and Certificates
 
 - [Server Serial Guide](https://picnickdm.freshdesk.com/support/solutions/articles/17000069284-server-serial-guide) – legacy server serial-number guide, last updated in 2018.
-- [How to identify your Servers Serial and Media Block Number](https://picnickdm.freshdesk.com/support/solutions/articles/17000069283-how-to-identify-your-servers-serial-and-media-block-number) - Finding the serial number on most servers
+- [How to identify your Server Serial and Media Block Number](https://picnickdm.freshdesk.com/support/solutions/articles/17000069283-how-to-identify-your-servers-serial-and-media-block-number) – legacy server interfaces, last updated in 2020.
 
 ## News
 
