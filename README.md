@@ -213,6 +213,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Dolby Atmos Conversion Tool](https://professional.dolby.com/product/dolby-atmos-content-creation/dolby-atmos-conversion-tool/) – free GUI and CLI for converting and editing Atmos masters, Cinema MXF and IMF IAB.
 - [Dolby Atmos Designer](https://professional.dolby.com/product/dolby-audio-solutions-for-movie-theaters/cp950a/) – cinema-auditorium setup and calibration software for supported Dolby systems.
 - [EAR Production Suite](https://github.com/ebu/ear-production-suite) – open-source plug-ins and tools for authoring and monitoring ADM-based audio.
+- [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) – Python reference implementation of the EBU and ITU ADM rendering specifications.
 - [EBU ADM Toolbox](https://github.com/ebu/ebu-adm-toolbox) – open-source framework and CLI for validating, repairing, converting and rendering ADM files.
 - [Q-SYS Designer Software](https://www.qsys.com/resources/software-and-firmware/q-sys-designer-software/) – DSP, routing, monitoring and control-system design environment with cinema components.
 - [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
