@@ -142,7 +142,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Standards & Recommendations
 
 - [Archive eXchange Format (AXF)](http://www.axf.io/) – archive file format standard by SMPTE (2014) and later by ISO/IEC (2017).
-- [Color Transformation Language (CTL)](https://www.oscars.org/science-technology/sci-tech-projects/color-transformation-language) – Color Transformation Language for Digital Motion Picture Pipelines.
+- [Color Transformation Language (CTL)](https://github.com/ampas/CTL) – open-source reference implementation for colour transforms in digital motion-picture pipelines.
 - [CST Technical recommendations](https://cst.fr/recommandations-techniques-cst/) - (French) Technical Recommendations from CST (La Commission supérieure technique de l'image et du son)
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – DCI Spec and Compliance Test Plan.
 - [Digital Cinema Naming Convention and Metadata/Terminology Registries](https://registry-page.isdcf.com/) - ISDCF Naming Convention for CPL ContentTitleText, Metadata UL and terminology registry
