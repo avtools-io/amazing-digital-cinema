@@ -146,7 +146,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [CST Technical recommendations](https://cst.fr/recommandations-techniques-cst/) - (French) Technical Recommendations from CST (La Commission supérieure technique de l'image et du son)
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – DCI Spec and Compliance Test Plan.
 - [Digital Cinema Naming Convention and Metadata/Terminology Registries](https://registry-page.isdcf.com/) - ISDCF Naming Convention for CPL ContentTitleText, Metadata UL and terminology registry
-- [EBU Tech Publications](https://tech.ebu.ch/publications) – recommendations and guidelines of the European Broadcasting Union.
+- [EBU Tech Publications](https://tech.ebu.ch/publication_types) – recommendations and guidelines of the European Broadcasting Union.
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
 - [ISDCF SMPTE and Other Standards](https://www.isdcf.com/smptestandards/) – active SMPTE Digital Cinema Package standards.
