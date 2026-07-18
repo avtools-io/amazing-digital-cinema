@@ -154,6 +154,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ISO 22234:2005](https://www.iso.org/standard/40957.html) – measurement methods and reference sound-pressure levels for motion-picture multichannel sound systems.
 - [ISO 26428-2:2008](https://www.iso.org/standard/50218.html) – D-cinema distribution-master audio characteristics, including channel count and reference levels.
 - [ISO 26431-1:2008](https://www.iso.org/standard/50207.html) – digital-cinema screen luminance, white-point chromaticity and luminance-uniformity requirements.
+- [ISO 26432-2:2008](https://www.iso.org/standard/50208.html) – playback and monitoring response for the digital-cinema low-frequency-effects channel.
 - [ISO 2969:2015](https://www.iso.org/standard/43646.html) – B-chain electroacoustic response and measurement requirements for dubbing theatres, screening rooms and cinemas.
 - [ISO 5926:2023](https://www.iso.org/standard/81846.html) – requirements and measurement methods for digital-cinema stereoscopic projection.
 - [ISO 9568:1993](https://www.iso.org/standard/17314.html) – methods and limits for background acoustic noise in cinemas, review rooms and dubbing rooms.
