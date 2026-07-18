@@ -150,6 +150,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
 - [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
+- [ISO 22234:2005](https://www.iso.org/standard/40957.html) – measurement methods and reference sound-pressure levels for motion-picture multichannel sound systems.
 - [ISO 26431-1:2008](https://www.iso.org/standard/50207.html) – digital-cinema screen luminance, white-point chromaticity and luminance-uniformity requirements.
 - [ISO 2969:2015](https://www.iso.org/standard/43646.html) – B-chain electroacoustic response and measurement requirements for dubbing theatres, screening rooms and cinemas.
 - [ISO 5926:2023](https://www.iso.org/standard/81846.html) – requirements and measurement methods for digital-cinema stereoscopic projection.
