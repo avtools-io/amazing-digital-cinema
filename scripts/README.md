@@ -8,7 +8,7 @@ Maintainers can check all links in `README.md` with:
 ./scripts/check-links.sh
 ```
 
-The checker requires `curl`. It reports restricted and rate-limited responses as warnings and exits with a non-zero status when it finds dead links.
+The checker requires `curl`. It retries transient responses with exponential backoff, limits checks to one concurrent request per host and exits with a non-zero status when it finds dead links. Narrowly scoped response exceptions and retry settings are maintained in `check-policies.json`.
 
 Pass another Markdown file as the first argument when needed:
 

@@ -4,7 +4,7 @@ A curated list of resources for film technicians in the areas of mastering, deli
 
 **Please feel free to contribute to this list!**
 
-If you don't know how to contribute on GitHub, follow this [guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) and the [guidelines](https://github.com/4lm/amazing-digital-cinema/blob/master/CONTRIBUTING.md) of this repository. If this is too much effort for you to learn, but you still want to contribute, [post an issue](https://github.com/4lm/amazing-digital-cinema/issues) here on GitHub with your suggestion(s) for adding to the list.
+If you don't know how to contribute on GitHub, follow this [guide](https://web.archive.org/web/20240105074411/https://bits.ashleyblewer.com/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/) and the [guidelines](https://github.com/4lm/amazing-digital-cinema/blob/master/CONTRIBUTING.md) of this repository. If this is too much effort for you to learn, but you still want to contribute, [post an issue](https://github.com/4lm/amazing-digital-cinema/issues) here on GitHub with your suggestion(s) for adding to the list.
 
 This list was inspired by the [awesome-broadcasting list](https://github.com/ebu/awesome-broadcasting), which itself was inspired by the awesome [awesome list](https://github.com/sindresorhus/awesome). In contrast, this list also lists non open-source resources. To reflect this matter and out of respect towards the open-source only awesome list projects, I named this list "Amazing" Digital Cinema instead of "Awesome" Digital Cinema.
 
@@ -62,10 +62,10 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – a joint venture by the major Hollywood studios for an open digital cinema architecture.
 - [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) – meeting forum to discuss key issues surrounding digital cinema in Europe.
 - [HPA IMF User Group](https://imfug.com/) – the forum for end-users and implementers of the IMF standard.
-- [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) – the working group for digital cinema technology, meets about once a month.
+- [Inter-Society Digital Cinema Forum (ISDCF)](https://www.isdcf.com/) – the working group for digital cinema technology, meets about once a month.
 - [MovieLabs](https://movielabs.com/) – Hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
-- [Open Services Alliance for Media (OSA)](https://openservicesalliance.com/) – industry organization standardizing and streamlining cloud-based media workflows.
 - [SMPTE DCP Migration Project](https://www.smptedcp.com/) – the project is pushing the transition from Interop to SMTPE DCP usage in cinemas.
+- [SMPTE Rapid Industry Solutions – Open Services Alliance](https://www.smpte.org/rapid-industry-solutions/osa) – OSA cloud-workflow and Catena control-plane initiatives within SMPTE Rapid Industry Solutions.
 - [Society of Motion Picture & Television Engineers (SMPTE)](https://www.smpte.org/) – standards body of the motion picture industry.
 - [Trailer Audio Standards Association (TASA)](http://tasatrailers.org/) – leq(m) audio standard for motion picture trailer volume.
 
@@ -84,26 +84,26 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Discussion Papers & Articles
 
-- [D-Cinema Equipment Frequently Asked Questions](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/TC_resources/D-Cinema%20FAQs%20release%20FIAF%202012%20V1.1.pdf) - Torkell Sætervadet, 2012.
-- [DCI Must Do More on HDR](http://digitalcinemareport.com/article/dci-must-do-more-hdr) – Michael Karagosian, 2019.
-- [Digital Cinema Technologies from the Archive's Perspective](https://www.fiafnet.org/images/tinyUpload/E-Resources/Commission-And-PIP-Resources/TC_resources/Nowak%20-%20Digital%20Cinema%20Technologies%20v2.0%20FIAF-TC_final%20V1.1.pdf) - Arne Nowak, 2012.
-- [How Loud is a Movie?](https://isdcf.com/papers/ISDCF-Doc11-MovieLoudnessMeasurement20160315.pdf) – leq(m10), a new measurement procedure, Ioan Allen, 2016 (direct link to PDF).
-- [What’s Wrong with the DCP?](http://www.digitalcinemareport.com/article/what%E2%80%99s-wrong-dcp) – Michael Karagosian, 2015.
+- [D-Cinema Equipment Frequently Asked Questions](https://www.fiafnet.org/pages/e-resources/technical-commission-resources.html) – Torkell Sætervadet, 2012; listed in the FIAF Technical Commission resources.
+- [DCI Must Do More on HDR](https://www.digitalcinemareport.com/dci-must-do-more-on-hdr/) – Michael Karagosian, 2019.
+- [Digital Cinema Technologies from the Archive's Perspective](https://www.fiafnet.org/pages/Training/Summer-School-resources.html) – Arne Nowak, 2012; listed in the FIAF Summer School resources.
+- [How Loud is a Movie?](https://files.isdcf.com/papers/ISDCF-Doc11-MovieLoudnessMeasurement20160315.pdf) – leq(m10), a new measurement procedure, Ioan Allen, 2016 (direct link to PDF).
+- [What’s Wrong with the DCP?](https://www.digitalcinemareport.com/whats-wrong-with-the-dcp/) – Michael Karagosian, 2015.
 
 ## Education
 
-- [Advanced Media Technology, M.Eng.](https://www.hs-rm.de/en/faculties/engineering/degree-programs/advanced-media-technology-meng/) – digital cinema lab. Program in German. RheinMain University, Germany.
+- [Advanced Media Technology, M.Eng.](https://www.hs-rm.de/en/ingenieurwissenschaften/studiengaenge/master/advanced-media-technology) – digital cinema programme at RheinMain University, being phased out from winter semester 2026/27.
 - [Creative Technologies, M.A.](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies/) – computer science, movie technology and arts program. Konrad Wolf University, Germany.
 - [Media Technology, B.Eng.](https://www.hs-rm.de/de/fachbereiche/ingenieurwissenschaften/studiengaenge/medientechnik-beng/) – digital cinema lab. Program in German. RheinMain University, Germany.
 - [Motion Picture Science, B.Sc.](https://www.rit.edu/programs/motion-picture-science-bs) – Rochester Institute of Technology, USA.
 
 ## Forums
 
-- [dcinemaforum](http://dcinemaforum.com/forum/index.php) – general digital cinema forum, with a slight focus on the DCP mastering software OpenDCP.
+- [OpenDCP Forum](https://www.opendcp.org/forum/) – discussion forum for the OpenDCP mastering software.
 - [Film-Tech Digital Cinema Forum](http://www.film-tech.com/vbb/forum/main-forum) - General forum, with a focus on projection
 - [Filmvorführerforum](http://www.filmvorfuehrer.de/) - (German) General cinema tech forum
 - [DCP-o-matic User Forum](https://dcpomatic.com/forum/) – user forum of the DCP mastering software DCP-o-matic.
-- [ISDCF Online Forum](http://isdcf.com/forum/) – online forum of the professional association Inter-Society Digital Cinema Forum (ISDCF).
+- [ISDCF Discussion Group](https://www.isdcf.com/about/) – subscription details for the ISDCF discussion group and meetings.
 - [Lift Gamma Gain](http://www.liftgammagain.com/forum/index.php) – colourist forum, also with a focus on digital cinema workflows and DCP mastering.
 - [Projectioniste.net](https://www.projectionniste.net/forums/) - (French) General cinema tech forum
 
@@ -128,29 +128,29 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Media Block (Server) Serial Numbers and Certificates
 
-- [Server Serial Guide](https://picnickdm.freshdesk.com/support/solutions/articles/17000069284-server-serial-guide) - Serial number format for most servers
-- [How to identify your Servers Serial and Media Block Number](https://picnickdm.freshdesk.com/support/solutions/articles/17000069283-how-to-identify-your-servers-serial-and-media-block-number) - Finding the serial number on most servers
+- [Server Serial Guide](https://picnickdm.freshdesk.com/support/solutions/articles/17000069284-server-serial-guide) – legacy server serial-number guide, last updated in 2018.
+- [How to identify your Server Serial and Media Block Number](https://picnickdm.freshdesk.com/support/solutions/articles/17000069283-how-to-identify-your-servers-serial-and-media-block-number) – legacy server interfaces, last updated in 2020.
 
 ## News
 
 - [Celluloid Junkie](https://celluloidjunkie.com/) – news resource dedicated to the global film and cinema business.
 - [Cinema Tech Today](http://www.cinematech.today/) - Online edition of the Cinema Technology Magazine
 - [CineTechGeek](https://www.cinetechgeek.com/) – James Gardiner's video blog about digital cinema technology.
-- [DCinema Today](https://www.dcinematoday.com/) – industry-sponsored press release site about digital cinema technology.
 - [Digital Cinema Report](http://digitalcinemareport.com/) – news, perspective and analysis on the digital cinema industry.
 - [mkpeReport](https://mkpereport.com/) – news, perspective and analysis on digital cinema technology.
 
 ## Standards & Recommendations
 
 - [Archive eXchange Format (AXF)](http://www.axf.io/) – archive file format standard by SMPTE (2014) and later by ISO/IEC (2017).
-- [Color Transformation Language (CTL)](https://www.oscars.org/science-technology/sci-tech-projects/color-transformation-language) – Color Transformation Language for Digital Motion Picture Pipelines.
+- [Color Transformation Language (CTL)](https://github.com/ampas/CTL) – open-source reference implementation for colour transforms in digital motion-picture pipelines.
 - [CST Technical recommendations](https://cst.fr/recommandations-techniques-cst/) - (French) Technical Recommendations from CST (La Commission supérieure technique de l'image et du son)
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – DCI Spec and Compliance Test Plan.
 - [Digital Cinema Naming Convention and Metadata/Terminology Registries](https://registry-page.isdcf.com/) - ISDCF Naming Convention for CPL ContentTitleText, Metadata UL and terminology registry
-- [EBU Tech Publications](https://tech.ebu.ch/publications) – recommendations and guidelines of the European Broadcasting Union.
+- [EBU Tech Publications](https://tech.ebu.ch/publication_types) – recommendations and guidelines of the European Broadcasting Union.
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
-- [ISDCF Technical Documents](http://isdcf.com/ISDCF/technical-documents.html) – recommendations and guidelines by the Inter-Society Digital Cinema Forum (ISDCF).
+- [ISDCF SMPTE and Other Standards](https://www.isdcf.com/smptestandards/) – active SMPTE Digital Cinema Package standards.
+- [ISDCF Technical Docs](https://www.isdcf.com/technical-docs/) – recommendations and guidelines from the Inter-Society Digital Cinema Forum.
 - [ISO 21727:2016](https://www.iso.org/standard/69744.html) – Leq(M)-based loudness measurement for short motion-picture content such as trailers and advertisements.
 - [ISO 22234:2005](https://www.iso.org/standard/40957.html) – measurement methods and reference sound-pressure levels for motion-picture multichannel sound systems.
 - [ISO 26428-2:2008](https://www.iso.org/standard/50218.html) – D-cinema distribution-master audio characteristics, including channel count and reference levels.
@@ -162,19 +162,17 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [ITU-R BS.2051](https://www.itu.int/rec/R-REC-BS.2051) – advanced sound-system loudspeaker configurations for programme production.
 - [ITU-R BS.2076](https://www.itu.int/rec/R-REC-BS.2076) – Audio Definition Model metadata for channel-, object- and scene-based audio.
 - [ITU-R BS.2127](https://www.itu.int/rec/R-REC-BS.2127) – reference renderer for advanced sound systems and ADM-based next-generation audio.
-- [Media Cloud Microservices Architecture (MCMA)](https://tech.ebu.ch/groups/mcma) – EBU framework for integrating multiple services and processes.
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
 - [PJLink](https://pjlink.jbmia.or.jp/english/) – vendor-neutral network-control standard for projectors and professional displays, covering power, inputs, status, errors and device information.
-- [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
+- [SAWA Leq(m) measurement](https://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
 - [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems.
 - [SMPTE RDD 57](https://pub.smpte.org/latest/rdd57/) – IAB Application Profile 1 constraints for interoperable immersive-audio delivery in digital cinema.
 - [SMPTE RP 431-2](https://www.smpte.org/standards/document-index/RP) – reference-projector and reference-environment recommendations for evaluating digital-cinema presentation.
 - [SMPTE ST 2098-2](https://pub.smpte.org/latest/st2098-2/) – bitstream specification for Immersive Audio Bitstream essence.
 - [SMPTE ST 2125, Public Committee Draft](https://github.com/SMPTE/st2125) – IMF registration service API.
 - [SMPTE ST 2126, Public Committee Draft](https://github.com/SMPTE/st2126) – microservice status reporting and logging.
-- [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
 
 ## Test Materials
@@ -210,7 +208,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [python-acoustics](https://github.com/python-acoustics/python-acoustics) – open-source Python package for acoustic analysis, weighting and room metrics.
 - [PyTTA](https://github.com/PyTTAmaster/PyTTa) – open-source Python toolkit for electroacoustic measurements and analysis.
 - [Room EQ Wizard](https://www.roomeqwizard.com/) – free room and loudspeaker measurement software with response, distortion and decay analysis.
-- [Smaart](https://www.rationalacoustics.com/pages/smaart) – commercial real-time sound-system measurement platform for spectrum, transfer-function and SPL analysis.
+- [Smaart](https://www.rationalacoustics.com/pages/smaart-home) – commercial real-time sound-system measurement platform for spectrum, transfer-function and SPL analysis.
 - [WLM Plus Loudness Meter](https://www.waves.com/plugins/wlm-loudness-meter) – loudness meter plug-in from Waves Audio.
 
 ## Automated QC
@@ -285,7 +283,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
 - [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
-- [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
+- [LIHUE](https://cinecert.com/products/lihue-dcp-volume-mgmt/) – DCP volume management appliance. Format, copy, validate.
 
 ## File Transfer & Data Integrity
 
@@ -304,7 +302,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Framerate Converters
 
-- [Alchemist File](https://www.grassvalley.com/products/alchemist_file/) – framerate converter.
+- [Alchemist File](https://www.grassvalley.com/products/standalone-processing/file-conversion/) – framerate converter.
 - [PixelStrings](https://pixelstrings.com/) – framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 - [Tachyon](https://cinnafilm.com/product/tachyon/) – framerate conversions, standards conversions, reverse telecine and frame rate normalization.
 
@@ -318,21 +316,19 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Mastering Tools
 
 - [CLIPSTER](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) – DCP/IMP mastering, player and KDM creation system for the professional market.
-- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
-- [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
+- [CORTEX Enterprise](https://mtifilm.com/software/cortex/) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) – all in one solution with DCP, IMP (IMF) mastering capabilities.
 - [DCP-o-matic](https://dcpomatic.com/) – open-source DCP mastering, player and KDM creation software.
 - [easyDCP](https://en.easydcp.com/) – DCP/IMP mastering, player and KDM creation software for the professional market.
 - [MIST](https://www.marquise-tech.com/mist/) – DCP/IMP mastering, player and KDM creation system/software for the professional market.
 - [OpenDCP](https://www.opendcp.org/) – open-source DCP mastering software.
-- [WAILUA](https://www.cinecert.com/product/wailua/) – DCP/IMP mastering software for the professional market.
+- [WAILUA](https://cinecert.com/products/wailua-d-cinema-packaging-tools/) – DCP/IMP mastering software for the professional market.
 
 ## Plug-ins
 
 - [DCIconverter, rolling release](https://github.com/fnordware/DCIconverter) – RGB to XYZ and vice versa for Adobe After Effects and Premiere (self compile).
 - [DCIconverter, v0.7, 2014](http://fnordware.blogspot.de/2013/01/dci-converter.html) – RGB to XYZ and vice versa for Adobe After Effects and Premiere.
 - [j2k, rolling release](https://github.com/fnordware/j2k) – open-source JPEG 2000 encoder plug-in for Adobe programs (self compile).
-- [j2k, v2.7, 2012](http://www.fnordware.com/j2k/) – JPEG 2000 encoder plug-in for Adobe Photoshop, After Effects and Premiere.
 
 ## Projector, Screen & Booth Control
 
@@ -341,7 +337,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Christie CineMaster](https://www.christiedigital.com/help-center/tools-and-calculators/) – cinema-projection calculator for throw geometry, screen size and system design.
 - [Christie Conductor](https://www.christiedigital.com/products/projector-management/conductor/) – fleet-management software for monitoring, controlling and diagnosing Christie projectors.
 - [myHarkness](https://www.harkness-screens.com/myharkness-info) – cloud tools for projection geometry, screen selection and auditorium modelling.
-- [PJLink.Client](https://www.nuget.org/packages/PJLink.Client) – .NET client library implementing PJLink Class 1 projector control and diagnostics.
+- [PJLink.Client](https://github.com/pathartl/PJLink.Client) – .NET client library implementing PJLink Class 1 projector control and diagnostics.
 
 ## QC & Technical Playback
 
@@ -405,8 +401,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Transcoding Engines
 
-- [CORTEX Cloud](http://www.mtifilm.com/cortex-cloud) – transcode and master DCPs, IMPs (IMF) and additional formats.
-- [CORTEX Enterprise](http://www.mtifilm.com/cortex) – transcode and master DCPs, IMPs (IMF) and additional formats.
+- [CORTEX Enterprise](https://mtifilm.com/software/cortex/) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [PixelStrings](https://pixelstrings.com/) – framerate conversions, standards conversion and transcoding in the cloud. Pay as you go.
 - [TORNADO](https://www.marquise-tech.com/tornado/) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
 - [Transkoder](http://www.colorfront.com/?page=SOFTWARE&spage=Transkoder) – transcoding engine for DCPs, IMPs (IMF) and additional formats.
@@ -414,7 +409,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Web Apps
 
 - [AVTOOLS.IO](https://www.avtools.io/) – web apps for DCP CPL insides, bulk timecode calculations, and timecode conversions.
-- [CineCert Cloud Tools](https://cinecert.com/online-tools/) – online KDM generator and asset inspector.
+- [CineCert Digital Cinema Cloud Tools](https://cinecert.com/digital-cinema-online-tools/) – online inspectors for KDMs, CPLs, PKLs, certificates, AssetMaps and IMF files.
 - [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) – online colour space calculator for RGB colour spaces.
 - [CPL Translator](https://cpl.fishtank.cloud/) – a web tool that parses DCPs and IMPs (IMF).
 - [DCP QA Tools](https://www.d-cine.net/free-dcp-quality-assurance-and-audio-level-assurance-tools/) – free (sign up only) DCP quality assurance and audio level assurance tools.

@@ -1,0 +1,35 @@
+{
+  "allowedResponses": [
+    "403 https://tech.ebu.ch/publication_types",
+    "403 https://tech.ebu.ch/publications/ebu_loudness_test_set",
+    "403 https://www.barco.com/en/product/barco-web-commander",
+    "403 https://www.barco.com/en/product/communicator-software",
+    "403 https://www.oscars.org/science-technology/projects",
+    "429 https://www.avtools.io/",
+    "429 https://www.barco.com/en/product/barco-web-commander",
+    "429 https://www.barco.com/en/product/communicator-software",
+    "429 https://www.destacks.com/"
+  ],
+  "allowedCurlErrors": [
+    "47 https://picnickdm.freshdesk.com/support/solutions/articles/17000069283-how-to-identify-your-servers-serial-and-media-block-number",
+    "47 https://picnickdm.freshdesk.com/support/solutions/articles/17000069284-server-serial-guide"
+  ],
+  "retryStatusCodes": [
+    "429",
+    "500",
+    "502",
+    "503",
+    "504"
+  ],
+  "headFallbackStatusCodes": [
+    "403",
+    "404",
+    "405",
+    "501"
+  ],
+  "defaultJobs": 8,
+  "defaultTimeoutSeconds": 20,
+  "defaultRetries": 3,
+  "initialRetryDelaySeconds": 1,
+  "maxRedirects": 100
+}
