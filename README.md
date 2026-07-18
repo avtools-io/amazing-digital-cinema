@@ -195,6 +195,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Dolby Media Meter 2](https://web.archive.org/web/20190713015325/https://sonic.arts.ccny.cuny.edu/Private/wp-content/themes/twentyeleven-child/manuals/Dolby_MediaMeter2.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [Dolby Model 737 (hardware unit)](http://www.film-tech.com/warehouse/manuals/DOLBYMODEL737.pdf) – discontinued 2018 (direct link to user's manual PDF).
 - [dpMeter5](https://www.tbproaudio.de/products/dpmeter) – freeware loudness meter plug-in from TB Software.
+- [I-Simpa](https://github.com/Ifsttar/I-Simpa) – open-source graphical platform for three-dimensional room-acoustic simulation.
 - [NUGEN Audio Loudness Toolkit](https://nugenaudio.com/loudnesstoolkit/) – solution for loudness compliant delivery.
 - [pyfar](https://pyfar.org/) – open-source Python ecosystem for acoustic signal processing, spatial audio and SOFA data.
 - [pyroomacoustics](https://github.com/LCAV/pyroomacoustics) – open-source Python library for room simulation, microphone arrays and beamforming.
