@@ -169,6 +169,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
 - [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems.
 - [SMPTE RP 431-2](https://www.smpte.org/standards/document-index/RP) – reference-projector and reference-environment recommendations for evaluating digital-cinema presentation.
+- [SMPTE ST 2098-2](https://pub.smpte.org/latest/st2098-2/) – bitstream specification for Immersive Audio Bitstream essence.
 - [SMPTE ST 2125, Public Committee Draft](https://github.com/SMPTE/st2125) – IMF registration service API.
 - [SMPTE ST 2126, Public Committee Draft](https://github.com/SMPTE/st2126) – microservice status reporting and logging.
 - [SMPTE Standards Overview](http://isdcf.com/ISDCF/smpte-standards.html) – active SMPTE Digital Cinema Package standards.
