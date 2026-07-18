@@ -213,6 +213,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Cinema Operations & TMS
 
 - [Cinema Catcher](https://github.com/jamiegau/cinema-catcher-app) – free public-beta cinema-management server for DCP ingest, KDM handling, monitoring and auditing.
+- [GDC Cinema Enterprise Software](https://www.gdc-tech.com/cinema-solutions/cinema-enterprise-software/) – integrated TMS, central-management and NOC software for cinema circuits.
 - [Qube Cinema / Arts Alliance Media TMS Portfolio](https://www.qubecinema.com/products/theatre-management-system) – consolidated TMS portfolio for independent cinemas, multiplexes and circuits.
 - [Unique X Rosetta Cinema Operations Suite](https://uniquex.com/exhibitor-services/) – theatre management, circuit scheduling, KDM handling, monitoring and support platform.
 
