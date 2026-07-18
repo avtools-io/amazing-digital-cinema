@@ -1,6 +1,8 @@
 # Amazing Digital Cinema
 
-A curated list of resources for film technicians in the areas of mastering, delivering, archiving, and exhibiting digital film content.
+A curated list for film technicians, cinema engineers, archivists, post-production professionals, and media-software developers working with digital cinema.
+
+It covers mastering, validating, packaging, delivering, preserving, operating, and exhibiting digital cinema content, and brings together standards, technical documentation, test materials, open-source projects, software libraries, applications, and cloud services.
 
 **Please feel free to contribute to this list!**
 
