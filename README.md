@@ -292,6 +292,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [NeoDCP Player](https://www.neodcp.com/features-and-prices/) – can play DCPs - has multiple software versions. Too many to list here.
 - [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) – open-source professional playback, comparison and review application for image sequences and media files.
 - [xSTUDIO](https://github.com/AcademySoftwareFoundation/xstudio) – open-source high-performance review and playback platform for post-production and VFX.
+- [YUView](https://github.com/IENT/YUView) – open-source raw-video and YUV inspector with comparison and codec-analysis functions.
 
 ## Software Libraries
 
