@@ -285,7 +285,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [DCP Transfer](https://www.cinematiq.com/dcptransfer/) – format hard drives and copy DCPs for delivery (macOS version).
 - [dcp.py](https://github.com/chrisbarrett/dcp.py) – open-source command-line tool for formatting a hard drive for cinema usage.
-- [LIHUE](https://www.cinecert.com/product/lihue/) – DCP volume management appliance. Format, copy, validate.
+- [LIHUE](https://cinecert.com/products/lihue-dcp-volume-mgmt/) – DCP volume management appliance. Format, copy, validate.
 
 ## File Transfer & Data Integrity
 
