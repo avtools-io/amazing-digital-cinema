@@ -229,6 +229,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Spatial Audio Framework](https://github.com/leomccormack/Spatial_Audio_Framework) – open-source C framework for Ambisonics, beamforming and spatial-audio processing.
 - [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
 - [TASCAR](https://github.com/gisogrimm/tascar) – open-source framework for creating and rendering interactive spatial-audio scenes.
+- [Virtual Acoustics](https://git.rwth-aachen.de/ita/VA) – open-source real-time auralization framework for virtual acoustic environments.
 
 ## Cinema Operations & TMS
 
