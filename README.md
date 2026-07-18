@@ -291,6 +291,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Projector, Screen & Booth Control
 
 - [Bitfocus Companion](https://github.com/bitfocus/companion) – open-source control and automation platform with PJLink and manufacturer-specific modules.
+- [PJLink.Client](https://www.nuget.org/packages/PJLink.Client) – .NET client library implementing PJLink Class 1 projector control and diagnostics.
 
 ## QC & Technical Playback
 
