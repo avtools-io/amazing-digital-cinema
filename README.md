@@ -166,7 +166,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
 - [PJLink](https://pjlink.jbmia.or.jp/english/) – vendor-neutral network-control standard for projectors and professional displays, covering power, inputs, status, errors and device information.
-- [SAWA Leq(m) measurement](http://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
+- [SAWA Leq(m) measurement](https://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
 - [SMPTE RDD 52:2020](https://ieeexplore.ieee.org/document/9161348) – requirements for DCP mastering for playback on the highest percentage of systems.
 - [SMPTE RDD 57](https://pub.smpte.org/latest/rdd57/) – IAB Application Profile 1 constraints for interoperable immersive-audio delivery in digital cinema.
 - [SMPTE RP 431-2](https://www.smpte.org/standards/document-index/RP) – reference-projector and reference-environment recommendations for evaluating digital-cinema presentation.
