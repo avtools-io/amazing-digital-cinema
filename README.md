@@ -62,7 +62,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – a joint venture by the major Hollywood studios for an open digital cinema architecture.
 - [European Digital Cinema Forum (EDCF)](http://www.edcf.net/) – meeting forum to discuss key issues surrounding digital cinema in Europe.
 - [HPA IMF User Group](https://imfug.com/) – the forum for end-users and implementers of the IMF standard.
-- [Inter-Society Digital Cinema Forum (ISDCF)](http://isdcf.com/ISDCF/index.html) – the working group for digital cinema technology, meets about once a month.
+- [Inter-Society Digital Cinema Forum (ISDCF)](https://www.isdcf.com/) – the working group for digital cinema technology, meets about once a month.
 - [MovieLabs](https://movielabs.com/) – Hollywood onramp for advanced technologies, innovations in digital distribution and consumer engagement.
 - [Open Services Alliance for Media (OSA)](https://openservicesalliance.com/) – industry organization standardizing and streamlining cloud-based media workflows.
 - [SMPTE DCP Migration Project](https://www.smptedcp.com/) – the project is pushing the transition from Interop to SMTPE DCP usage in cinemas.
