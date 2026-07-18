@@ -321,6 +321,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [CineIA_CLI](https://github.com/izwb003/CineIA_CLI) – command-line tool for encoding IMF IAB into (Atmos compatible) DCP IAB.
 - [DCP-Subtitle Extract](https://www.supramotion.de/software/dcp-subtitle-extract) – extract DCP subtitles and save them as SRT (SubRib) file.
 - [IMFTool](https://github.com/IMFTool/IMFTool) – a tool for editing IMF CPLs and creating new versions of an existing IMF package.
+- [MOV MetaEdit](https://mediaarea.net/MOVMetaEdit) – open-source application for modifying selected MOV metadata without re-encoding essence.
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit) – open-source subtitle program that supports digital cinema subtitles.
 - [TI Subtitle Font Compressor](https://web.archive.org/web/20140721001034/http:/www.dlp.com/cinema/technical-docs/default.aspx) – a tool to compress .ttf files to meet requirements of series 1 DLP Projectors.
 
