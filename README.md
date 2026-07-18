@@ -292,6 +292,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 - [Barco Web Commander](https://www.barco.com/en/product/barco-web-commander) and [Communicator](https://www.barco.com/en/product/communicator-software) – cinema screen-operation, scheduling, configuration and diagnostic software.
 - [Bitfocus Companion](https://github.com/bitfocus/companion) – open-source control and automation platform with PJLink and manufacturer-specific modules.
+- [Christie CineMaster](https://www.christiedigital.com/help-center/tools-and-calculators/) – cinema-projection calculator for throw geometry, screen size and system design.
 - [Christie Conductor](https://www.christiedigital.com/products/projector-management/conductor/) – fleet-management software for monitoring, controlling and diagnosing Christie projectors.
 - [PJLink.Client](https://www.nuget.org/packages/PJLink.Client) – .NET client library implementing PJLink Class 1 projector control and diagnostics.
 
