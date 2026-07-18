@@ -212,6 +212,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Cinema Operations & TMS
 
+- [CIELO Cinema](https://cielocinema.com/) – TMS-independent cinema-operations and NOC platform for monitoring, maintenance and support.
 - [Cinema Catcher](https://github.com/jamiegau/cinema-catcher-app) – free public-beta cinema-management server for DCP ingest, KDM handling, monitoring and auditing.
 - [GDC Cinema Enterprise Software](https://www.gdc-tech.com/cinema-solutions/cinema-enterprise-software/) – integrated TMS, central-management and NOC software for cinema circuits.
 - [OneCinema](https://onecinema.de/en/) – cloud-first platform for playlists, pre-shows, monitoring, signage and building automation.
