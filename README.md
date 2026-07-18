@@ -228,6 +228,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [SPARTA](https://github.com/leomccormack/SPARTA) – open-source spatial-audio plug-ins for panning, Ambisonics, analysis and rendering.
 - [Spatial Audio Framework](https://github.com/leomccormack/Spatial_Audio_Framework) – open-source C framework for Ambisonics, beamforming and spatial-audio processing.
 - [Steinberg Nuendo](https://www.steinberg.net/nuendo/) – commercial film and immersive-audio post-production system with ADM authoring.
+- [TASCAR](https://github.com/gisogrimm/tascar) – open-source framework for creating and rendering interactive spatial-audio scenes.
 
 ## Cinema Operations & TMS
 
