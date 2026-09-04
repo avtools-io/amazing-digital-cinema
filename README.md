@@ -343,7 +343,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## QC & Technical Playback
 
-- [CLIPSTER Play](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) – can play DCPs and IMPs (IMF).
+- [CLIPSTER 7](https://cinecert.com/products/clipster-7/) – professional playback of DCPs, IMPs (IMF) and other media formats.
 - [DJV](https://github.com/darbyjohnston/DJV) – open-source professional player for high-resolution image sequences and movie files.
 - [easyDCP Player](https://www.easydcp.com/product.php?id=5&product=easydcp-player) – can play DCPs and IMPs (IMF).
 - [easyDCP Player+](https://www.easydcp.com/product.php?id=4&product=easydcp-player) – can play DCPs and IMPs (IMF) – more features than non plus version.
