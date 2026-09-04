@@ -317,7 +317,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Mastering Tools
 
-- [CLIPSTER](https://www.rohde-schwarz.com/us/product/clp6-productstartpage_63493-229148.html) – DCP/IMP mastering, player and KDM creation system for the professional market.
+- [CLIPSTER 7](https://cinecert.com/products/clipster-7/) – professional DCP/IMP mastering, playback and content-delivery software.
 - [CORTEX Enterprise](https://mtifilm.com/software/cortex/) – transcode and master DCPs, IMPs (IMF) and additional formats.
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/) – all in one solution with DCP, IMP (IMF) mastering capabilities.
 - [DCP-o-matic](https://dcpomatic.com/) – open-source DCP mastering, player and KDM creation software.
