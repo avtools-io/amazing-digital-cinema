@@ -160,7 +160,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
 - [SAWA Leq(m) measurement](https://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
-- [SMPTE Standards Library](https://pub.smpte.org/doc/) – free access to all published SMPTE standards and related documents, including those also adopted by ISO ([announcement](https://www.smpte.org/setting-the-standards-free)).
+- [SMPTE Standards Library](https://pub.smpte.org/doc/) – free access to all published SMPTE standards ([announcement](https://www.smpte.org/setting-the-standards-free)).
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
 
 ## Test Materials
