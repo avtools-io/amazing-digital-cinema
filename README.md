@@ -159,7 +159,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Media Hash List (MHL)](https://mediahashlist.org/) – specification for transferring media data without alterations in the data chain.
 - [MPAA Content Security Best Practices](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices) – compliance with best practices is voluntary and not an accreditation program.
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
-- [PJLink](https://pjlink.jbmia.or.jp/english/) – vendor-neutral network-control standard for projectors and professional displays, covering power, inputs, status, errors and device information.
 - [SAWA Leq(m) measurement](https://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
 - [SMPTE Standards Library](https://pub.smpte.org/doc/) – free access to all published SMPTE standards and related documents, including those also adopted by ISO ([announcement](https://www.smpte.org/setting-the-standards-free)).
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
