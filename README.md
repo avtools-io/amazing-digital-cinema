@@ -143,7 +143,6 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 
 ## Standards & Recommendations
 
-- [Archive eXchange Format (AXF)](http://www.axf.io/) – archive file format standard by SMPTE (2014) and later by ISO/IEC (2017).
 - [Color Transformation Language (CTL)](https://github.com/ampas/CTL) – open-source reference implementation for colour transforms in digital motion-picture pipelines.
 - [CST Technical recommendations](https://cst.fr/recommandations-techniques-cst/) - (French) Technical Recommendations from CST (La Commission supérieure technique de l'image et du son)
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – DCI Spec and Compliance Test Plan.
@@ -153,14 +152,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
 - [ISDCF SMPTE and Other Standards](https://www.isdcf.com/smptestandards/) – active SMPTE Digital Cinema Package standards.
 - [ISDCF Technical Docs](https://www.isdcf.com/technical-docs/) – recommendations and guidelines from the Inter-Society Digital Cinema Forum.
-- [ISO 21727:2016](https://www.iso.org/standard/69744.html) – Leq(M)-based loudness measurement for short motion-picture content such as trailers and advertisements.
-- [ISO 22234:2005](https://www.iso.org/standard/40957.html) – measurement methods and reference sound-pressure levels for motion-picture multichannel sound systems.
-- [ISO 26428-2:2008](https://www.iso.org/standard/50218.html) – D-cinema distribution-master audio characteristics, including channel count and reference levels.
-- [ISO 26431-1:2008](https://www.iso.org/standard/50207.html) – digital-cinema screen luminance, white-point chromaticity and luminance-uniformity requirements.
-- [ISO 26432-2:2008](https://www.iso.org/standard/50208.html) – playback and monitoring response for the digital-cinema low-frequency-effects channel.
-- [ISO 2969:2015](https://www.iso.org/standard/43646.html) – B-chain electroacoustic response and measurement requirements for dubbing theatres, screening rooms and cinemas.
 - [ISO 5926:2023](https://www.iso.org/standard/81846.html) – requirements and measurement methods for digital-cinema stereoscopic projection.
-- [ISO 9568:1993](https://www.iso.org/standard/17314.html) – methods and limits for background acoustic noise in cinemas, review rooms and dubbing rooms.
 - [ITU-R BS.2051](https://www.itu.int/rec/R-REC-BS.2051) – advanced sound-system loudspeaker configurations for programme production.
 - [ITU-R BS.2076](https://www.itu.int/rec/R-REC-BS.2076) – Audio Definition Model metadata for channel-, object- and scene-based audio.
 - [ITU-R BS.2127](https://www.itu.int/rec/R-REC-BS.2127) – reference renderer for advanced sound systems and ADM-based next-generation audio.
@@ -169,7 +161,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Open Archive Information System (OAIS)](http://www.oais.info/) – reference model (ISO 14721) for digital preservation.
 - [PJLink](https://pjlink.jbmia.or.jp/english/) – vendor-neutral network-control standard for projectors and professional displays, covering power, inputs, status, errors and device information.
 - [SAWA Leq(m) measurement](https://www.sawa.com/wp-content/uploads/2010/10/sound_in_cinema.pdf) – advertisement leq(m) measurement standard (direct PDF link).
-- [SMPTE Standards Library](https://pub.smpte.org/doc/) – free access to all published SMPTE standards, recommended practices, engineering guidelines and registered disclosure documents ([announcement](https://www.smpte.org/setting-the-standards-free)).
+- [SMPTE Standards Library](https://pub.smpte.org/doc/) – free access to all published SMPTE standards and related documents, including those also adopted by ISO ([announcement](https://www.smpte.org/setting-the-standards-free)).
 - [TASA Leq(m) measurement](http://tasatrailers.org/TASAStandard.pdf) – trailer leq(m) measurement standard (direct PDF link).
 
 ## Test Materials
