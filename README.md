@@ -151,7 +151,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
 - [ISDCF SMPTE and Other Standards](https://www.isdcf.com/resources/standards/) – active SMPTE Digital Cinema Package standards.
-- [ISDCF Technical Docs](https://www.isdcf.com/technical-docs/) – recommendations and guidelines from the Inter-Society Digital Cinema Forum.
+- [ISDCF Technical Docs](https://www.isdcf.com/resources/documents/) – recommendations and guidelines from the Inter-Society Digital Cinema Forum.
 - [ISO 5926:2023](https://www.iso.org/standard/81846.html) – requirements and measurement methods for digital-cinema stereoscopic projection.
 - [ITU-R BS.2051](https://www.itu.int/rec/R-REC-BS.2051) – advanced sound-system loudspeaker configurations for programme production.
 - [ITU-R BS.2076](https://www.itu.int/rec/R-REC-BS.2076) – Audio Definition Model metadata for channel-, object- and scene-based audio.
