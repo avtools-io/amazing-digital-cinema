@@ -171,7 +171,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Cosmos Laundromat — HDR digital source masters](https://media.xiph.org/cosmoslaundromat/) – complete 2K HDR image sequences, including a P3/PQ OpenEXR master and P2/PQ PNG version, together with the final stereo FLAC audio master.
 - [EBU Loudness Test Set](https://tech.ebu.ch/publications/ebu_loudness_test_set) – EBU materials for testing EBU Tech 3341/3342 metering
 - [Elephants Dream — lossless digital source masters](https://media.xiph.org/ED/) – complete 1080p PNG image sequence with stereo and discrete or interleaved 5.1-channel FLAC audio masters.
-- [ISDCF Audio Test DCP](https://www.isdcf.com/audiotest/) – DCP test material for identifying loudspeaker-channel, routing and playback-level problems.
+- [ISDCF Audio Test DCP](https://www.isdcf.com/resources/test-content/audio/) – DCP test material for identifying loudspeaker-channel, routing and playback-level problems.
 - [ISDCF Framing Charts](https://www.isdcf.com/smpte-dcp-tests/framing-chart/) – flat and scope charts for projector, masking and screen-alignment checks.
 - [ISDCF SMPTE DCP Test Content](https://www.isdcf.com/smpte-dcp-tests/) – reference packages for testing SMPTE DCP compatibility and playback behaviour.
 - [Netflix Open Content](https://opencontent.netflix.com/) – professional source sequences, finished assets and metadata for evaluating media workflows.
