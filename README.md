@@ -173,7 +173,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Elephants Dream — lossless digital source masters](https://media.xiph.org/ED/) – complete 1080p PNG image sequence with stereo and discrete or interleaved 5.1-channel FLAC audio masters.
 - [ISDCF Audio Test DCP](https://www.isdcf.com/resources/test-content/audio/) – DCP test material for identifying loudspeaker-channel, routing and playback-level problems.
 - [ISDCF Framing Charts](https://www.isdcf.com/resources/test-content/framing-charts/) – flat and scope charts for projector, masking and screen-alignment checks.
-- [ISDCF SMPTE DCP Test Content](https://www.isdcf.com/smpte-dcp-tests/) – reference packages for testing SMPTE DCP compatibility and playback behaviour.
+- [ISDCF SMPTE DCP Test Content](https://www.isdcf.com/resources/test-content/archived/) – archived reference packages for testing SMPTE DCP compatibility and playback behaviour.
 - [Netflix Open Content](https://opencontent.netflix.com/) – professional source sequences, finished assets and metadata for evaluating media workflows.
 - [Sintel — lossless digital source masters](https://media.xiph.org/sintel/) – complete 2K and 4K image sequences, including 4K 16-bit PNG and TIFF versions, with stereo, music-and-effects and 5.1-channel FLAC or WAV audio masters.
 - [Tears of Steel — digital source and distribution masters](https://media.xiph.org/tearsofsteel/) – complete 1080p PNG and 4K 16-bit TIFF image sequences, final OpenEXR frames organized by scene, stereo and discrete or interleaved 5.1-channel audio masters, and a downloadable 4K DCP.
