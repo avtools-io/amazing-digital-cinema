@@ -146,7 +146,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 - [Color Transformation Language (CTL)](https://github.com/ampas/CTL) – open-source reference implementation for colour transforms in digital motion-picture pipelines.
 - [CST Technical recommendations](https://cst.fr/recommandations-techniques-cst/) - (French) Technical Recommendations from CST (La Commission supérieure technique de l'image et du son)
 - [Digital Cinema Initiatives (DCI)](http://www.dcimovies.com/) – DCI Spec and Compliance Test Plan.
-- [Digital Cinema Naming Convention and Metadata/Terminology Registries](https://registry-page.isdcf.com/) - ISDCF Naming Convention for CPL ContentTitleText, Metadata UL and terminology registry
+- [Digital Cinema Naming Convention](https://www.isdcf.com/registry/illustratedguide/) and [Metadata](https://www.isdcf.com/registry/registryintro/)/[Terminology](https://www.isdcf.com/registry/terms/) Registries – ISDCF naming convention for CPL ContentTitleText, metadata ULs and terminology.
 - [EBU Tech Publications](https://tech.ebu.ch/publication_types) – recommendations and guidelines of the European Broadcasting Union.
 - [EIDR](https://eidr.org/) – a universally unique identifier for movie and television assets.
 - [Interop Recommendations Overview](https://cinepedia.com/interop/) – deprecated but still actively used Digital Cinema Package recommendations.
