@@ -399,6 +399,7 @@ This list was inspired by the [awesome-broadcasting list](https://github.com/ebu
 ## Web Apps
 
 - [AVTOOLS.IO](https://www.avtools.io/) – web apps for DCP CPL insides, bulk timecode calculations, and timecode conversions.
+- [BiznTools Timecode Calculator](https://bizntools.com/time-pay/timecode-calculator) – Free browser worksheet for adding and subtracting timecodes, checking drop-frame labels, and comparing frame counts with exact elapsed seconds.
 - [CineCert Digital Cinema Cloud Tools](https://cinecert.com/digital-cinema-online-tools/) – online inspectors for KDMs, CPLs, PKLs, certificates, AssetMaps and IMF files.
 - [Color Space Calculator](https://www.haraldbrendel.com/colorspacecalculator.html) – online colour space calculator for RGB colour spaces.
 - [CPL Translator](https://cpl.fishtank.cloud/) – a web tool that parses DCPs and IMPs (IMF).
